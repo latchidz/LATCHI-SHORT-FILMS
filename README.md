@@ -27,7 +27,9 @@
 3. تجميع المقاطع بترتيب SC01→SC27 حسب دليل التصدير.
 
 ### 📊 التقدم
-- ✅ **SC01 → SC17** مكتملة (صور + برومبتات) + SC18_A
-- ⏳ SC18 → SC27 قيد الإنتاج
+- ✅ **SC01 → SC18** مكتملة (صور + برومبتات) — SC01 وSC02 أُنتجا فيديو بنجاح
+- ⏳ SC19 → SC27 قيد الإنتاج
 
-> 💾 نسخة ZIP كاملة من الحالة الحالية موجودة في **Releases**.
+> 💾 **التحميل المباشر للحزمة الكاملة** (كل المشاهد + المراجع): [Releases › ALL-SCENES-SC01-SC18](https://github.com/latchidz/LATCHI-SHORT-FILMS/releases/download/ALL-SCENES-SC01-SC18/ATHAR_AL_ZAYT_ALL_SCENES_SC01-SC18.zip)
+
+> 📐 مراجع الزوايا: 4 زوايا للصالون + 4 زوايا للكراج (غرف فارغة) في `02_LOCATION_REFERENCES`.
