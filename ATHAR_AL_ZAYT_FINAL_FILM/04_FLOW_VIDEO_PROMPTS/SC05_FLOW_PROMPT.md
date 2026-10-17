@@ -1,29 +1,30 @@
-# SCENE 05 — الاقتراب من المكتب (على الشاشة)
-**فيلم «آثار الزيت» • 10 ثوانٍ بالضبط • 16:9 أفقي • المشهد 5 من 27**
+# SCENE 05 — تقريب التسجيل على المكتب
+**فيلم «آثار الزيت» • 10 ثوانٍ بالضبط • 16:9 أفقي • النسخة 2 — دارجة 100% + زوم رقمي واقعي داخل التسجيل**
 
 ## 🎬 لقطات المشهد
 | # | الملف | الدور |
 |---|---|---|
-| 1 | `SC05_IMAGE_A_WIDE.png` | **إطار البداية** — تسجيل المراقبة: ياسين يتسلل في الممر نحو باب المكتب |
-| 2 | `SC05_IMAGE_B_ACTION.png` | التسجيل: ياسين عند باب المكتب يدفعه بحذر ويخطو داخل |
-| 3 | `SC05_IMAGE_C_REACTION.png` | رد الفعل: الحاج وأمين منحنيان نحو الشاشة بترقب |
+| 1 | `SC05_IMAGE_A_WIDE.png` | **إطار البداية** — المكتب: أمين يتحكم في التسجيل والحاج خلفه |
+| 2 | `SC05_IMAGE_B_ACTION.png` | الحدث: زوم رقمي داخل التسجيل نحو المكتب والصندوق |
+| 3 | `SC05_IMAGE_C_REACTION.png` | التعليق: وجه أمين المذهول بضوء الشاشة |
 
 ---
 
-## 📋 GOOGLE FLOW VIDEO PROMPT — COPY READY
+## 📋 GOOGLE FLOW VIDEO PROMPT — COPY READY (V2)
 
 ```
-Photorealistic live-action Algerian short film. 10 seconds exactly — Horizontal landscape 16:9.
+Photorealistic live-action Algerian short film. 10 seconds exactly — Horizontal landscape 16:9. Real-cinema discipline: the office camera is locked-off static; the ONLY zoom is a digital zoom INSIDE the monitor playback — exactly how a real person zooms into a security recording. All dialogue in natural Algerian Darja — never Modern Standard Arabic.
 
-This scene continues the surveillance footage on the security monitor, then shows the two men watching. Keep faces, outfits and environments EXACTLY as in the attached images: the thin young man (19, faded brown zip-up jacket over gray t-shirt, dark jeans) in the footage; the Haj (around 60, gray-white hair, thin gray mustache, dark-green jacket over white shirt) and Amine (mid-twenties, dark navy-blue coverall, red cloth in back pocket) in the office.
+Animate the scene from the attached images, keeping the characters and the office EXACTLY as shown: the young mechanic (navy-blue coverall, red cloth in his right back pocket) at the wooden desk, the older man (dark-green jacket over white shirt) behind him. Office geometry FIXED: the wooden money box on the LEFT side of the desk, the security monitor on the wall to the RIGHT of the desk, no readable text on the screen.
 
-0–6s — Grainy desaturated wide-angle surveillance view from the first image, elevated corner camera on the narrow corridor: the thin young man in the brown jacket creeps down the corridor toward the office door as in the second image, reaches it, pushes it carefully half open and steps just inside, his body partly disappearing from the camera angle. Over this footage, Amine's low tense voice is heard off-screen (voice-over, no lip-sync):
-«قرب للمكتب… يا لطيف.»
+0–3s — Static medium shot: the mechanic's hand on the mouse, the grainy recording playing on the wall monitor; the older man leans in behind him.
 
-6–10s — Cut to the dark office as in the third image: both men lean very close to the wall-mounted monitor, faces lit by its glow, watching in breathless silence, no one speaks. Final frame: their two lit profiles frozen in dread, inches from the screen.
+3–8s — The same locked-off office shot: the mechanic operates the playback and performs a REALISTIC DIGITAL ZOOM into the recording — the image on the monitor enlarges, softens and pixelates slightly as it zooms toward the office area in the footage, closer and closer to the wooden money box on the desk. As he zooms he mutters, lip-synced, Algerian Darja: «قرب للمكتب… يا لطيف.»
 
-CAMERA: fixed surveillance angle for 0–6s, then static office medium shot. One simple cut only.
-SOUND: muffled ambience under the surveillance footage, faint monitor hum, a distant clock tick in the office. No music.
+8–10s — Static close as in the third image: his stunned face lit by the cold screen glow, eyes wide, mouth slightly open, frozen. Final frame: his shocked face.
+
+CAMERA: one locked-off static office shot; the only motion is the digital zoom inside the monitor playback — no camera movement, absolutely realistic.
+SOUND: quiet office, mouse clicks, the faint electronic zoom, the mechanic's mutter, a held stunned breath.
 FORMAT: Horizontal landscape 16:9 only, cinematic widescreen framing. Never vertical 9:16, never portrait, never square. Do not crop the image into a vertical frame.
 ```
 
@@ -32,11 +33,11 @@ FORMAT: Horizontal landscape 16:9 only, cinematic widescreen framing. Never vert
 ## 🚫 NEGATIVE PROMPT
 
 ```
-No vertical 9:16, no portrait, no square. Do not change faces, ages, hairstyles or outfits from the attached images. No extra characters, the customer must not appear. No distorted hands, no extra fingers, no fused hands, no floating objects. Keep the monitor mounted on the wall to the RIGHT of the desk and the money box on the LEFT side of the desk. No readable text, no timestamp, no watermark, no subtitles, no logos. Amine's line is a voice-over only during 0–6s — no lips move on screen during it.
+No vertical 9:16, no portrait, no square. The office camera must NOT move, pan or optically zoom — the zoom happens ONLY inside the monitor screen as a digital playback zoom. Do not change faces, ages or outfits from the attached images. Keep the office geometry: money box on the LEFT of the desk, monitor on the wall to the RIGHT. No readable text or timestamp on the screen. No extra people. No distorted hands, no extra fingers. No Modern Standard Arabic, no foreign accent, no subtitles, no watermark, no logos, no text anywhere.
 ```
 
 ## 🔗 آخر إطار — للربط بالمشهد التالي (SC06)
-الرجلان منحنيان نحو الشاشة بوجهيهما المضاءين → SC06 يعرض تكملة التسجيل: ياسين داخل المكتب يفتح الصندوق ويأخذ المال.
+وجه أمين المذهول → SC06: كلوز الشاشة تُظهر اليد تخرج الفلوس من الصندوق.
 
 ## ✅ فحص سريع
-16:9 ✓ • ياسين بسترة بنية كما في مرجعه ✓ • جملة أمين صوت خارجي ✓ • صمت تام في لقطة المكتب ✓ • 10 ثوانٍ ✓ • آخر إطار يفتح SC06 ✓
+16:9 ✓ • زوم رقمي واقعي داخل التسجيل فقط (كاميرا المكتب ثابتة) ✓ • الصندوق يسار + الشاشة يمين ✓ • دارجة: «قرب للمكتب… يا لطيف» ✓ • 10 ثوانٍ ✓
