@@ -1,60 +1,41 @@
-# SCENE 21 — إرجاع المال
-**فيلم «آثار الزيت» | Google Flow | 10 ثوانٍ بالضبط | أفقي 16:9 | نسخة مراجعة الاستمرارية**
+# SC21 — إرجاع المال
+**فيلم «آثار الزيت» | Google Flow | 10 ثوانٍ بالضبط | 16:9 | حسب مذكرة V2**
 
-## ملخص المشهد
-نفس غرفة الجلوس. ياسين ينهض بهدوء من الكنبة ويقف في الوسط لتسليم المال (حركة مبررة ظاهرة في أول المشهد)، المال كان في الجيب الداخلي الأيسر لسترته البنية. الحاج جالس يسار الكنبة.
+## النبضات (التوقيت المعدّل)
+- 0-3 ث: ياسين ينهض بهدوء، يقف على الزربية أمام مكانه، يده اليمنى تدخل الجيب الداخلي الأيسر وتخرج الرزمة
+- 3-6.5 ث: يمد الرزمة بكلتا يديه، والحاج يستلمها بكلتا يديه (التسليم كامل الظهور)
+- 6.5-10 ث: الحاج ينظر للمال ثم لياسين ويقول جملته (من الثانية 7)
 
-## تقسيم الحركة والحوار (10 ثوانٍ)
-- 0–3 ث: ياسين ينهض بهدوء من الكنبة بجوار الحاج، يقف في وسط الغرفة خلف الطاولة، ثم يُدخل يده اليمنى ببطء إلى الجيب الداخلي الأيسر ويخرج رزمة المال.
-- 3–7 ث: يمد المال بكلتا يديه إلى الحاج؛ الحاج يمد يديه ويستلمه بوضوح. يجب أن تكون عملية التسليم مرئية كاملة.
-- 7–10 ث: الحاج ينظر إلى المال ثم إلى ياسين ويقول: «مليح بلي رجّعتو واعترفت.»
+## طريقة الرفع في Flow
+- ارفع المراجع أولاً: REFERENCES/SC19_IMAGE_A_WIDE.png (اللقطة الأم المعتمدة للصالون) + REFERENCES/HAJ_FRONT.png + REFERENCES/YACINE_FRONT.png + REFERENCES/MOTHER_FRONT.png + REFERENCES/AMINE_FRONT.png
+- الإطار الأول = `SC20_END ♻️ (إطار نهاية SC20).png` • الإطار الأخير = `SC21_END.png`
+- مرجع إضافي (اختياري إن قبله Flow): `SC21_MID.png`
+- انسخ برومبت الفيديو كاملاً كما هو تحت
 
-## GOOGLE FLOW VIDEO PROMPT — COPY READY
+## برومبت الفيديو — COPY READY
 ```text
-Create a photorealistic live-action scene from the approved reference images for the Algerian short film “Athar Al-Zayt”. Duration exactly 10 seconds. Horizontal landscape 16:9 only, cinematic widescreen composition.
+Create a photorealistic live-action scene for the Algerian short film “Athar Al-Zayt”. Duration exactly 10 seconds. Horizontal 16:9 only.
 
-CONTINUITY IS MANDATORY:
-Use the attached approved reference images for the exact identity of every character and location. Do not redesign faces. Hadj is about 60, wearing the same dark-green casual jacket over a white shirt. Amine is a young mechanic wearing the same dark navy-blue coveralls, with the red cloth visible from his rear pocket. Yassine is a 19-year-old Algerian young man, not a child; his pre-job outfit is a faded brown jacket over a gray T-shirt and dark trousers. His mother wears the same modest beige-gray home dress and light headscarf. The little sister is about two years old. For the later workshop scenes, Yassine wears the approved simple dark navy work outfit. Keep all approved face references exact.
+FRAMES: Use the provided FIRST FRAME as the exact opening frame and the provided LAST FRAME as the exact closing frame. Optional extra reference image: the handover moment (both of Yassine's hands giving, both of Hadj's hands receiving). Keep faces, clothes, room layout, props and light direction identical to the frames.
 
-LOCATION / PROPS:
-نفس غرفة الجلوس. ياسين ينهض بهدوء من الكنبة ويقف في الوسط لتسليم المال (حركة مبررة ظاهرة في أول المشهد)، المال كان في الجيب الداخلي الأيسر لسترته البنية. الحاج جالس يسار الكنبة.
-Keep the established room geometry, door positions, furniture, props, light direction and screen geography exactly consistent with the reference images. The money box is wooden with a top lid and handle. In the workshop office it stays on the LEFT side of the wooden desk; the CCTV monitor stays mounted on the wall to the RIGHT of the desk. Do not move or duplicate these objects.
+CONTINUITY: HADJ: about 60, short grey hair, grey mustache, dark olive-green jacket over a white shirt. YASSINE: 19-year-old Algerian young man (not a child), messy dark hair, faded brown zip jacket over a grey T-shirt, dark jeans. MOTHER: about 50, cream/beige headscarf, traditional beige-grey home dress. AMINE: young mechanic, dark navy coverall, small red rag in the rear pocket. The room, furniture, lamp, tray, glasses, rug and seating stay exactly as in the frames; the mother stays in her armchair with her hand on her cheek unless the action says otherwise; Amine stays seated on the wooden chair; Hadj stays seated at the left end of the sofa. Yassine's money: one bundle only, inside the LEFT inner pocket of his brown jacket at the start.
 
 ACTION AND TIMING:
-- 0–3 ث: ياسين ينهض بهدوء من الكنبة بجوار الحاج، يقف في وسط الغرفة خلف الطاولة، ثم يُدخل يده اليمنى ببطء إلى الجيب الداخلي الأيسر ويخرج رزمة المال.
-- 3–7 ث: يمد المال بكلتا يديه إلى الحاج؛ الحاج يمد يديه ويستلمه بوضوح. يجب أن تكون عملية التسليم مرئية كاملة.
-- 7–10 ث: الحاج ينظر إلى المال ثم إلى ياسين ويقول: «مليح بلي رجّعتو واعترفت.»
+- 0-3s: Yassine rises calmly from the sofa onto the rug in front of his former seat, at the right end of the coffee table. His RIGHT hand goes into the LEFT inner pocket of his brown jacket and draws out one bundle of banknotes.
+- 3-6.5s: He leans slightly toward Hadj and offers the bundle with BOTH hands. Hadj reaches out with both hands and receives it. The handover is fully visible.
+- 6.5-10s: Hadj holds the bundle at chest level, looks at it, then up at Yassine, and says his line from about second 7. Yassine stands with empty hands, humble and relieved. Hold.
 
-DIALOGUE — natural Algerian Darja only, spoken by native Algerian voices, never Modern Standard Arabic:
-الحاج: «مليح بلي رجّعتو واعترفت.»
-Only the named speaker speaks during their line. Lip-sync only the visible speaking character. For off-screen dialogue, visible characters must keep their lips still. Keep speech short enough to fit naturally inside the indicated timing; do not overlap lines or invent extra dialogue.
+DIALOGUE:
+الحاج: «مْلِيحْ بْلِي رَجَّعْتُو وَاعْتَرَفْتْ.»
+Natural Algerian Darja with an urban Algerian accent, spoken by native Algerian voices. Never Modern Standard Arabic, never Egyptian, Gulf or Syrian. Pronounce the words exactly as written, including the sukun marks, without adding vowels, translating, rewriting or inventing words. Only the named speaker moves his or her lips; every other character keeps the lips closed. No overlapping lines.
 
-CAMERA:
-Use only the simple camera movement explicitly described in the timed beats. Prefer locked-off shots or one slow motivated move. No orbiting, whip pans, fast zooms, speed ramps, sudden reframing or impossible camera movement. If the beats call for a hard cut, make one clean hard cut only. Keep the geography understandable.
+CAMERA: Locked-off tripod shot with at most a very slow, barely visible push-in (about 3 percent) over the 10 seconds. No cuts, no pans, no zoom jumps, no orbiting. Faces and hands always stay inside the frame.
 
-SOUND:
-Use realistic location ambience and the specific small sound effects implied by the action. Keep dialogue clear and in front of the ambience. No loud music, no cartoon effects, no added narration, no extra dialogue. Avoid music during emotional confession scenes.
+PERFORMANCE: Subtle natural micro-expressions, real blinks, believable breathing, realistic hands with correct fingers, natural weight and timing of body movement. Restrained emotion, nothing theatrical.
 
-ENDING FRAME / MATCH CUT:
-آخر إطار: المال في يد الحاج، وياسين واقف أمامه ويداه فارغتان؛ SC22 يبدأ بتأكيد تحمل المسؤولية.
-End on a stable, readable frame that can be edited directly into the next numbered clip. Do not fade out unless this is the final scene.
+SOUND: Quiet evening room tone, faint distant street, tiny natural sounds only when the action implies them (clothing, a glass, paper money). Dialogue clearly in front of the ambience.
 
-FORMAT: Horizontal landscape 16:9 only. Never vertical 9:16, never portrait, never square. Keep faces, hands and important props inside the frame.
+END FRAME: Hadj holding the bundle in both hands, Yassine standing with empty hands, exactly the LAST FRAME. The money appears exactly once: it never multiplies, changes size or disappears.
+
+NEGATIVE: no vertical 9:16, no portrait, no square; no cuts, no pans, no orbiting, no whip moves, no fast zooms, no reframing; no morphing, no identity drift, no new people, no extra fingers, no distorted faces, no prop teleportation, no duplicated or vanishing objects; no subtitles, no captions, no readable text, no logos, no watermark; no music, no narration, no extra dialogue; no fade to black; no exaggerated crying, no melodrama, no violence.
 ```
-
-## NEGATIVE PROMPT — COPY READY
-```text
-No vertical 9:16, no portrait, no square, no reframing to mobile format. No character identity drift, no face changes, no age changes, no clothing changes except the explicitly approved next-day work outfit for Yassine in scenes 25–27. Yassine is 19, not a child. No extra people, no duplicate bodies, no extra fingers, no fused hands, no distorted faces, no floating objects, no prop teleportation, no changing room layout, no moving the wooden desk, money box or wall-mounted monitor. No subtitles, no captions, no watermark, no logos, no random readable text. No Modern Standard Arabic, no Egyptian or Gulf accent. No overlapping dialogue, no lip movement by a silent character. No exaggerated crying, no slapstick, no violence, no threatening gestures. Do not make the customer the thief. Do not end on a cliffhanger.
-```
-
-## 🔗 الربط بالمشهد التالي
-آخر إطار: المال في يد الحاج، وياسين واقف أمامه ويداه فارغتان؛ SC22 يبدأ بتأكيد تحمل المسؤولية.
-
-## فحص سريع قبل اعتماد الفيديو
-- [ ] المدة 10 ثوانٍ بالضبط.
-- [ ] الإطار أفقي 16:9.
-- [ ] الوجوه والملابس مطابقة للمراجع.
-- [ ] المكان والأغراض في المواضع الصحيحة.
-- [ ] الحوار دارجة جزائرية ومزامنة الشفاه صحيحة.
-- [ ] الحركة بسيطة ومنطقية.
-- [ ] آخر إطار متوافق مع بداية المشهد التالي.
