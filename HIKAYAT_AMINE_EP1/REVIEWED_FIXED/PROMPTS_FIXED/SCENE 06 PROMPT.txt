@@ -4,7 +4,8 @@ SCENE 06 - المغادرة (الزبون الأول) (The Farewell (Customer 1)
 Clip: 10 seconds | Location: exterior / morning
 ==================================================
 
-[FIXED v1.4 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+[FIXED v1.5 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- v1.5 (تصحيح العميل): نقل الزبون إلى الباب المقابل — باب السائق = الباب حدا المقود (الجهة الأخرى من السيارة) — تعديل وحيد على الصورة الأولى المعتمدة
 - v1.4 (تصحيح العميل): رجوع لتركيب الصورة الأولى المعتمدة بالضبط — تغيير وحيد: الزبون عند باب السائق (كان جا عند باب الراكب) • الحاج وأمين واقفان ينظران إلى الزبون (تعديل على الصورة الأولى نفسها)
 - v1.3 (تصحيح العميل): جهة السائق = الجهة اليسرى (الزبون عند باب السائق المفتوح) + الحاج وأمين قدام الباب الأيمن للسيارة (الجهة المقابلة) + إيديهم منزلين، بلا تلويح وبلا أي ردة فعل — واقفين ساكتين يودعونه
 - v1.2: صورة SC06 أُعيدت بأمر العميل — السيارة مطابقة تماماً لوضعية SC05 (تعديل على صورة SC05 كأم) + باب السائق مفتوح والزبون مستعد للركوب + الحاج وأمين جنب لبجنب عند المدخل يودّعانه
@@ -19,7 +20,7 @@ THE GARAGE - locked geography: an old worn concrete building on a street corner 
 
 STAGING - locked from Scene 05: the BLACK LUXURY SEDAN is parked in front of the right open bay, NOSE POINTING TO THE LEFT, DRIVER'S SIDE FACING THE CAMERA (identical orientation to Scene 05), hood completely closed, the DRIVER'S door (the left-side front door) open.
 
-ACTION: CUSTOMER A (45, grey suit trousers, white shirt) stands beside the open DRIVER'S door of the black sedan - NOT the passenger door - one hand resting on the roof, ready to get into the car, a warm deeply grateful goodbye smile. HADJ RACHID (60s, grey beard, khaki work coat) and AMINE (young mechanic, navy work overall, red rag in back pocket) stand side by side at the garage side, looking at the customer - standing still, arms relaxed down, no waving - calmly seeing him off. Medium shot, clear eye level.
+ACTION: CUSTOMER A (45, grey suit trousers, white shirt) stands beside the open DRIVER'S door of the black sedan - the front door on the side of the STEERING WHEEL, the OPPOSITE side of the car from the passenger door - one hand resting on the roof, ready to get into the car, a warm deeply grateful goodbye smile. HADJ RACHID (60s, grey beard, khaki work coat) and AMINE (young mechanic, navy work overall, red rag in back pocket) stand side by side at the garage side, looking at the customer - standing still, arms relaxed down, no waving - calmly seeing him off. Medium shot, clear eye level.
 
 (Base: edited from SCENE 05 IMAGE 1 - the car keeps the exact same position and orientation.)
 
