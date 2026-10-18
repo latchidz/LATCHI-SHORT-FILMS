@@ -156,3 +156,71 @@ Use the uploaded reference images exactly: garage exterior (first), slate-grey S
 ---
 
 **بناء الفيديو (Flow):** كل مشهد 10ث من الـkeyframe بتاعه • كاميرا مقفلة • Hard Cut • بلا موسيقى • SC01: يُحرَّك من SC01_A (السيارة تنزل من الديباناج) أو SC01_B حسب اختيارك في المونتاج.
+
+---
+
+# ثالثاً — برومبتات الموجة 2 (SC08 → SC12) — الفصل الثاني: الزبون ب
+
+## الكتلة [WS-INT] — داخل الورشة (مقفلة في كل لقطة داخلية)
+```
+THE WORKSHOP — locked geography, identical in every interior shot: worn concrete floor, the BLUE vintage Renault 4 raised on the blue two-post hydraulic lift, a wooden worktable, stacked tires, wall-mounted tools, the two bright wide-open street entrances letting in the morning light, the narrow side corridor with the office door DEEP in the background, the pale-green WC door on the LEFT wall mid-ground. Only mechanic tools and equipment — no barrels, no clutter. Never mirror, never move the green door or the corridor.
+```
+
+## الكتلة [OFFICE-INT] — داخل المكتب (مقفلة)
+```
+THE OFFICE — locked geography: a small office room deep in the workshop, wooden desk facing the door, the wooden money box with hinged lid on the LEFT side of the desk, a small grey desk calculator and one unreadable handwritten supplier invoice paper beside it, a small idle monitor screen on the wall to the RIGHT of the desk, a small tea glass, a hanging key, warm practical light. Never mirror.
+```
+
+## SC08 — التصليح: كلوز أب الديمارور (بلا حوار)
+**Refs:** WORKSHOP_INT + الستيبواي + أمين
+```
+[STYLE] + [WS-INT]
+
+ACTION — CLOSE-UP at the Stepway's open engine bay inside the workshop: AMINE's two hands carefully fitting the new STARTER MOTOR into place with a wrench, his focused face partially visible above the engine, a work light shining on the metal, the red rag hanging from his back pocket. Eye-level close shot, shallow depth of field. NO DIALOGUE.
+
+Use the uploaded reference images exactly: workshop interior (first), slate-grey Stepway, Amine.
+```
+
+## SC09 — التجربة: المحرك يشتغل من الأولى
+**Refs:** WORKSHOP_INT + الستيبواي + الزبون ب + أمين
+```
+[STYLE] + [WS-INT]
+
+STAGING — locked: the slate-grey Stepway parked INSIDE the workshop on the ground (the blue Renault 4 stays raised on the lift in the background), hood CLOSED, DRIVER DOOR OPEN.
+
+ACTION: CUSTOMER B (30, grey-beige bomber jacket, jeans, white sports sneakers) in the driver seat, one hand near the ignition key, face turned toward Amine with an expectant half-smile. AMINE (navy work overall, red rag in back pocket) stands beside the open door giving the go-ahead nod. Medium eye-level.
+
+Use the uploaded reference images exactly: workshop interior (first), Stepway, customer B, Amine.
+```
+
+## SC10 — الدفع في المكتب (بلا حوار)
+**Refs:** OFFICE_INT + الزبون ب + الحاج
+```
+[STYLE] + [OFFICE-INT]
+
+ACTION — the payment: HADJ RACHID (60s, grey beard, khaki work coat) seated behind the wooden desk; on the desk the grey calculator, the unreadable handwritten supplier invoice paper, and the wooden money box OPEN with a thick bundle of banknotes visible inside (colors visible, details completely unreadable). CUSTOMER B (30, grey-beige bomber jacket) on the visitor side hands a neat stack of banknotes across the desk; Hadj receives it, about to place it into the open box. Medium eye-level two-shot. NO DIALOGUE.
+
+Use the uploaded reference images exactly: office interior (first), customer B, Hadj.
+```
+
+## SC11 — الاستئذان
+**Refs:** WORKSHOP_INT + الزبون ب + الحاج
+```
+[STYLE] + [WS-INT]
+
+ACTION — asking leave: just outside the office corridor, in the main workshop: CUSTOMER B (30, grey-beige bomber jacket, jeans, white sneakers) asks politely, one hand slightly raised. HADJ RACHID points kindly with his open hand toward the pale-green WC door on the LEFT wall mid-ground, a warm nod on his face. The narrow office corridor and its door deep in the background right, the blue Renault 4 on the lift behind them. Medium-wide eye-level.
+
+Use the uploaded reference images exactly: workshop interior (first), customer B, Hadj.
+```
+
+## SC12 — المغادرة الودّية (خارجي، بلا حوار)
+**Refs:** GARAGE_EXT_CORNER + الستيبواي + الزبون ب + الحاج + أمين
+```
+[STYLE] + [GARAGE] (نفس كتلة الكراج أعلاه حرفياً)
+
+STAGING — locked: the slate-grey Dacia Sandero Stepway parks on the cracked asphalt apron DIRECTLY IN FRONT OF THE RIGHT OPEN BAY, nose pointing LEFT, Algerian plate 58214 123 16 (leave blank if not exact).
+
+ACTION — the friendly goodbye: CUSTOMER B stands at the open driver door RAISING HIS HAND in a friendly wave toward the garage, a relaxed happy smile. HADJ RACHID and AMINE stand together at the open bay entrance, both waving back warmly, relaxed faces — a completely ordinary friendly goodbye. Wide eye-level shot.
+
+Use the uploaded reference images exactly: garage corner exterior (first), Stepway, customer B, Hadj, Amine.
+```
