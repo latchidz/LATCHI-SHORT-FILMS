@@ -1,0 +1,37 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 11 - الاستئذان (Asking Leave)
+Clip: 10 seconds | Location: workshop / late morning
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Natural morning light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE WORKSHOP - locked geography: worn concrete floor, the car raised on the hydraulic lift, a wooden worktable, stacked tires, wall-mounted tools, the two bright wide-open street entrances, the narrow side corridor with the office door deep in the background, the pale-green WC door on the LEFT wall mid-ground. Only mechanic tools and equipment. Never mirror.
+
+ACTION - asking leave: just outside the office corridor, in the main workshop: CUSTOMER B (30, grey-beige bomber jacket, jeans, white sneakers) asks politely, one hand slightly raised. HADJ RACHID (60s, grey beard, khaki work coat) points kindly with his open hand toward the pale-green WC door on the LEFT wall mid-ground, a warm nod on his face. The narrow office corridor and its door deep in the background right. Medium-wide eye-level.
+
+References to attach: workshop interior + customer B + Hadj
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera. The customer asks politely with one hand slightly raised; Hadj points kindly with his open hand toward the pale-green WC door on the left; the customer walks toward it while Hadj turns back toward the workshop. No camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- الزبون: «يَا الْحَاجْ، رَانِي حَابْ نْرُوحْ لِلْمَرْحَاضْ، وِينْ رَاهْ؟»
+- (الحاج يشير له بيده نحوه - بلا كلام)
+
+[4] SOUND:
+----------------------------------------
+خطوات + ورشة هادئة
+
+[5] END OF CLIP:
+----------------------------------------
+الزبون يمشي نحو الباب الأخضر

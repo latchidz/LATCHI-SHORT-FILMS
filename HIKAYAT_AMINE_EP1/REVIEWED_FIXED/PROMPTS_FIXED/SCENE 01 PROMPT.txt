@@ -1,0 +1,61 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 01 - الوصول (The Arrival)
+Clip: 10 seconds | Location: exterior / morning
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- تحديد صريح: IMAGE 1 = keyframe الفيديو / IMAGE 2 = مرجع تحقق فقط
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+- إضافة ملاحظة توقيت الحوار
+
+>>> KEYFRAME RULE: SCENE 01 IMAGE 1.png (السيارة فوق الديباناج) هي الـkeyframe الوحيد الذي يُرفع إلى Flow. SCENE 01 IMAGE 2.png (السيارة على الأرض) مرجع تحقق/استمرارية للمونتاج فقط — لا ترفع الاثنتين معاً ولا تطلب من Flow مزج الحالتين.
+
+[1a] IMAGE PROMPT - SCENE 01 IMAGE 1 (car on the tow truck):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Natural morning light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE GARAGE - locked geography, identical in every single shot: an old worn concrete building on a street corner in a working-class Algerian neighborhood. The main facade has TWO adjacent huge bays, BOTH WIDE OPEN - their rusty blue-grey metal doors fully raised, both interiors fully visible. Inside the two bays there is ONLY mechanic tools and equipment - a red tool cabinet, a workbench, wall-mounted tools - and ONE blue vintage Renault 4 raised on a blue two-post hydraulic lift in the right bay. No other cars, no barrels, no clutter. Above the left bay runs a row of rectangular glass transom windows. A tall concrete utility pole stands exactly at the LEFT corner of the building, where the street branches toward the background left between old houses with faded light-yellow and white paint and electric wires crossing the sky. In front of the garage: a cracked asphalt apron with dark oil stains. Morning sunlight comes from the street side. Never mirror the building, never change the street layout.
+
+STAGING - locked: the orange flatbed tow truck parks on the STREET at the LEFT, beside the concrete utility pole.
+
+ACTION - the arrival (IMAGE 1): the orange flatbed tow truck parked on the street at the LEFT beside the pole, loading ramp still raised, and the BLACK LUXURY SEDAN ON TOP OF THE FLATBED, strapped and fully visible from the side. CUSTOMER A (45, grey suit trousers, white shirt, tired face) stands at the edge of the street center-frame, facing the garage, NO phone anywhere, one hand gesturing mid-speech, worried but polite. HADJ RACHID (60s, grey beard, khaki work coat) steps out of the right open bay toward him, welcoming, one hand open towards the truck. AMINE (young mechanic, navy work overall, red rag in back pocket) stands small inside the bay beside the blue Renault 4 on the lift. Wide eye-level shot across the street.
+
+References to attach: garage exterior + tow truck + black sedan + customer A + Hadj + Amine
+
+[1b] IMAGE PROMPT - SCENE 01 IMAGE 2 (car on the ground after the descent):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Natural morning light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE GARAGE - locked geography, identical in every single shot: an old worn concrete building on a street corner in a working-class Algerian neighborhood. The main facade has TWO adjacent huge bays, BOTH WIDE OPEN - their rusty blue-grey metal doors fully raised, both interiors fully visible. Inside the two bays there is ONLY mechanic tools and equipment - a red tool cabinet, a workbench, wall-mounted tools - and ONE blue vintage Renault 4 raised on a blue two-post hydraulic lift in the right bay. No other cars, no barrels, no clutter. Above the left bay runs a row of rectangular glass transom windows. A tall concrete utility pole stands exactly at the LEFT corner of the building, where the street branches toward the background left between old houses with faded light-yellow and white paint and electric wires crossing the sky. In front of the garage: a cracked asphalt apron with dark oil stains. Morning sunlight comes from the street side. Never mirror the building, never change the street layout.
+
+STAGING - locked: the orange flatbed tow truck stays on the STREET at the LEFT, beside the concrete utility pole, loading ramp now DOWN and the flatbed EMPTY.
+
+ACTION - after the descent (IMAGE 2): the BLACK LUXURY SEDAN IS NOW ON THE GROUND on the cracked asphalt apron directly in front of the RIGHT open bay, nose pointing LEFT, driver side toward the camera - it has just rolled off the ramp. CUSTOMER A (45, grey suit trousers, white shirt) stands beside the car explaining his problem to Hadj with expressive hands, worried but polite, NO phone anywhere. HADJ RACHID (60s, grey beard, khaki work coat) listens close to him, welcoming, nodding. AMINE (young mechanic, navy work overall, red rag in back pocket) steps out of the right open bay toward the car. Medium-wide eye-level shot.
+
+References to attach: garage exterior + tow truck + black sedan + customer A + Hadj + Amine
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera, wide shot, morning light. The tow truck's loading ramp is lowered and the black luxury sedan slowly rolls down onto the cracked asphalt apron in front of the two open garage bays. The customer keeps explaining to Hadj with expressive hands, and Amine steps out of the open bay toward the car. Realistic slow vehicle movement, natural morning light, no camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- الزبون: «السَّلَامْ عَلَيْكُمْ يَا الْحَاجْ، أَجْرِي لِي رَانِي كُنْتْ نْسُوقْ فِي لُوطُورُوتْ حَتَّى طْفَاتْ الطُّونُوبِيلْ وَمَا حَبَّتْشْ تْنُوضْ، رَانِي جَبْتْهَا فِي الدِّيبَانَاجْ!»
+- الحاج: «مَرْحْبَا بِيكْ خُويَا، مَا تَتْقَلَّقْشْ، رَاهْ عَنْدْنَا الْمَايْسْتْرُو تَاْعْنَا أَمِينْ دُرُوكْ يَتْهَلَّى فِيكْ.»
+
+[4] SOUND:
+----------------------------------------
+شارع + محرك الشاحنة الخامل
+
+[5] END OF CLIP:
+----------------------------------------
+إشارة الحاج الترحيبية نحو أمين
+
+[6] NOTES:
+----------------------------------------
+SCENE 01 فيه صورتان: IMAGE 1 = السيارة فوق الديباناج (أساس كليب Flow) • IMAGE 2 = بعد النزول على الأرض (استمرارية/مراجعة).
+
+[!] DIALOGUE TIMING (يحتاج قرارك): السطران المعتمدان ≈ 47 كلمة — أطول من 10 ثوانٍ للنطق الطبيعي. الخيارات: (1) النص يبقى حرفياً وجملة الزبون تُكمل كصوت فوق القطع في بداية SC02 ثم جملة الحاج (في CapCut — بلا تغيير النص)؛ (2) تعتمد نسخة مختصرة أقترحها عليك. لن أغيّر النص المعتمد دون كلمتك.

@@ -1,0 +1,39 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 06 - المغادرة (الزبون الأول) (The Farewell (Customer 1))
+Clip: 10 seconds | Location: exterior / morning
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- staging: الكبوت مغلق صراحةً (بعد SC05)
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Natural morning light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE GARAGE - locked geography, identical in every single shot: an old worn concrete building on a street corner in a working-class Algerian neighborhood. The main facade has TWO adjacent huge bays, BOTH WIDE OPEN - their rusty blue-grey metal doors fully raised, both interiors fully visible. Inside the two bays there is ONLY mechanic tools and equipment - a red tool cabinet, a workbench, wall-mounted tools - and ONE blue vintage Renault 4 raised on a blue two-post hydraulic lift in the right bay. No other cars, no barrels, no clutter. Above the left bay runs a row of rectangular glass transom windows. A tall concrete utility pole stands exactly at the LEFT corner of the building, where the street branches toward the background left between old houses with faded light-yellow and white paint and electric wires crossing the sky. In front of the garage: a cracked asphalt apron with dark oil stains. Morning sunlight comes from the street side. Never mirror the building, never change the street layout.
+
+STAGING - locked: the black sedan at its exact apron spot, hood CLOSED, driver door open, driver side toward the camera.
+
+ACTION: CUSTOMER A (45, grey suit trousers, white shirt) stands beside his sedan's open driver door, one hand resting on the car roof, speaking toward the garage with a deeply moved, grateful smile. HADJ RACHID (60s, grey beard, khaki work coat) and AMINE (young mechanic, navy work overall, red rag in back pocket) stand together at the right open bay entrance behind him, warm faces. Medium shot of the customer, the two men clearly visible at the entrance.
+
+References to attach: garage exterior + black sedan + customer A + Hadj + Amine
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera. The customer, deeply moved, thanks them from beside his open car door with one hand on the roof, then gets in; the black sedan pulls away to the left down the street while Hadj and Amine wave warmly from the garage entrance. No camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- الزبون: «بَارَكَ اللهُ فِيكْ عَلَى حُسْنْ الْمُعَامَلَة تَاعْكْ، رَاكُمْ قْلَالْ فْهَادْ الزَّمَانْ.»
+
+[4] SOUND:
+----------------------------------------
+باب السيارة + إطارات على الأسفلت
+
+[5] END OF CLIP:
+----------------------------------------
+المرسيدس تبتعد على اليسار

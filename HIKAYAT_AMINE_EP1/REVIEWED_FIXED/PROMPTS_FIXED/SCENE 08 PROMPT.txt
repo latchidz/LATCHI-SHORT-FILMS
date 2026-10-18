@@ -1,0 +1,36 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 08 - التصليح (The Repair)
+Clip: 10 seconds | Location: workshop / morning
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Natural morning light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE WORKSHOP - locked geography: worn concrete floor, the car raised on the hydraulic lift, a wooden worktable, stacked tires, wall-mounted tools, the two bright wide-open street entrances, the narrow side corridor with the office door deep in the background, the pale-green WC door on the LEFT wall mid-ground. Only mechanic tools and equipment. Never mirror.
+
+ACTION - CLOSE-UP at the open engine bay of the slate-grey Dacia Sandero Stepway inside the workshop: AMINE's two hands carefully fitting the new STARTER MOTOR into place with a wrench, his focused face partially visible above the engine, a work light shining on the metal, the red rag hanging from his back pocket. Eye-level close shot, shallow depth of field.
+
+References to attach: workshop interior + Stepway + Amine
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera, close-up. Amine's two hands seat the new starter motor into the engine bay and tighten one bolt with the wrench, precise quiet movements; he wipes his hands briefly on the red rag and gives a small satisfied nod. No camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- (بلا حوار)
+
+[4] SOUND:
+----------------------------------------
+مفتاح ربط + صرير معدن خفيف
+
+[5] END OF CLIP:
+----------------------------------------
+نظرة الرضا

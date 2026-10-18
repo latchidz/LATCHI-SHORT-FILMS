@@ -1,0 +1,38 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 03 - الاكتشاف (The Discovery)
+Clip: 10 seconds | Location: exterior / morning
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Natural morning light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE GARAGE - locked geography, identical in every single shot: an old worn concrete building on a street corner in a working-class Algerian neighborhood. The main facade has TWO adjacent huge bays, BOTH WIDE OPEN - their rusty blue-grey metal doors fully raised, both interiors fully visible. Inside the two bays there is ONLY mechanic tools and equipment - a red tool cabinet, a workbench, wall-mounted tools - and ONE blue vintage Renault 4 raised on a blue two-post hydraulic lift in the right bay. No other cars, no barrels, no clutter. Above the left bay runs a row of rectangular glass transom windows. A tall concrete utility pole stands exactly at the LEFT corner of the building, where the street branches toward the background left between old houses with faded light-yellow and white paint and electric wires crossing the sky. In front of the garage: a cracked asphalt apron with dark oil stains. Morning sunlight comes from the street side. Never mirror the building, never change the street layout.
+
+STAGING - locked: the black sedan at its exact apron spot in front of the right open bay, nose LEFT, hood open.
+
+ACTION - medium close at the open engine bay: AMINE (young mechanic, navy work overall, red rag in back pocket) holds the black plastic FUSE BOX in one hand and, in his other hand, ONE small blackened burnt blade fuse held up clearly to show the customer, calm confident look. CUSTOMER A (45, grey suit trousers, white shirt) leans in beside him, his face caught BETWEEN laughter and tears - comic disbelief, one hand half covering his mouth. Both faces clearly visible at eye level, the garage facade soft in the background.
+
+References to attach: garage exterior + black sedan + Amine + customer A
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera, medium close. Amine holds up the burnt fuse from the fuse box to show the customer; the customer's face shifts between laughter and tears, one hand half covering his mouth. Small realistic gestures, morning light, no camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- أمين: «بَسْبَابْ هَادْ الْفِيزِيبْل الْمَحْرُوقْ تَاعْ خَمْسِينْ دِينَارْ، مَا حَبَّتْشْ تْنُوضْلَكْ الطُّونُوبِيلْ.»
+
+[4] SOUND:
+----------------------------------------
+نقرة معدنية خفيفة + شارع
+
+[5] END OF CLIP:
+----------------------------------------
+وجه الزبون المشدوه بين الضحك والبكاء

@@ -1,0 +1,41 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 19 - الخاتمة المفتوحة (The Open Ending)
+Clip: 10 seconds | Location: office / noon
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- الضوء: صباحي ← أوائل بعد الظهر (فصل الظهر SC13-SC19)
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Quiet early-afternoon light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE OFFICE - locked geography: a small office room deep in the workshop, wooden desk facing the door, the wooden money box with hinged lid on the LEFT side of the desk, a small grey desk calculator and one unreadable handwritten supplier invoice paper beside it, a small idle monitor screen on the wall to the RIGHT of the desk, a small tea glass, a hanging key, warm practical light. Never mirror.
+
+ACTION - the open ending: AMINE (young mechanic, navy work overall, red rag in back pocket) leans forward, suddenly alert - the connection lighting up in his eyes, one hand half-raised mid-thought, finger almost pointing back toward the corridor. HADJ RACHID (60s, grey beard, khaki work coat) looks up at him from the chair, a fragile hope in his broken face. Medium close at eye level.
+
+References to attach: office interior + Amine + Hadj
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera. Amine speaks fast, connecting the events, his hand gesturing back toward the corridor and the footprints; he leans closer to Hadj, urgency rising; his mouth opens to say what he saw - the clip ends mid-tension. No camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- أمين: «بَصَّحْ اصْبَرْ دْقِيقَة يَا الْحَاجْ... رَانِي قْبْلْ مَا نَدْخُلْ عَنْدَكْ هُنَا، شُفْتْ حَاجَة بِيِزَارْ...»
+
+[4] SOUND:
+----------------------------------------
+صوت أمين المتصاعد ثم صمت مفاجئ مع السواد
+
+[5] END OF CLIP:
+----------------------------------------
+قطع مباشر للسواد (في CapCut) — نهاية الحلقة 1
+
+[6] NOTES:
+----------------------------------------
+السواد يُضاف في CapCut وليس داخل كليب Flow

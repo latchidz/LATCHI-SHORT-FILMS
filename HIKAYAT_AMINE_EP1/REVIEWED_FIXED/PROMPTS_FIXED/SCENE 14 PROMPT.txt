@@ -1,0 +1,37 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 14 - تحضير المال (Preparing The Money)
+Clip: 10 seconds | Location: office / noon
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- الضوء: صباحي ← أوائل بعد الظهر (فصل الظهر SC13-SC19)
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Quiet early-afternoon light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE OFFICE - locked geography: a small office room deep in the workshop, wooden desk facing the door, the wooden money box with hinged lid on the LEFT side of the desk, a small grey desk calculator and one unreadable handwritten supplier invoice paper beside it, a small idle monitor screen on the wall to the RIGHT of the desk, a small tea glass, a hanging key, warm practical light. Never mirror.
+
+ACTION - preparing the money: HADJ RACHID (60s, grey beard, khaki work coat) alone in the office, he holds the handwritten invoice paper (completely unreadable), placing it flat on the desk beside the grey calculator, his other hand resting on the CLOSED wooden money box, about to open it. Medium shot at eye level.
+
+References to attach: office interior + Hadj
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera. Hadj lays the invoice paper flat on the desk beside the calculator, murmuring to himself; his fingers settle on the wooden box lid and he lifts it slowly - a sliver of the dark interior appears. Quiet suspense, no camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- الحاج (لنفسه): «نْوَجَّدْ دْرَاهَمْ الْفُورْنِيسُورْ قْبْلْ مَا يَجِي.»
+
+[4] SOUND:
+----------------------------------------
+ورقة + صمت مشدود
+
+[5] END OF CLIP:
+----------------------------------------
+الغطاء يرتفع ببطء

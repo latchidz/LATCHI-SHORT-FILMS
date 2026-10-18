@@ -1,0 +1,37 @@
+==================================================
+HIKAYAT AMINE - EPISODE 1
+SCENE 16 - النداء (The Call)
+Clip: 10 seconds | Location: workshop / noon
+==================================================
+
+[FIXED v1.1 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- الضوء: صباحي ← أوائل بعد الظهر (فصل الظهر SC13-SC19)
+- برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
+
+[1] IMAGE PROMPT (KEYFRAME):
+----------------------------------------
+Photorealistic cinematic film still from a real Algerian TV drama, live-action look, 16:9 landscape. Quiet early-afternoon light, realistic skin texture, realistic hands and anatomy. Characters always look at what they interact with, never at the camera. Vehicles at TRUE realistic scale and distance, never oversized. No text, no logos, no watermark, no extra people, no duplicated limbs, no 3D render look, no cartoon.
+
+THE WORKSHOP - locked geography: worn concrete floor, the car raised on the hydraulic lift, a wooden worktable, stacked tires, wall-mounted tools, the two bright wide-open street entrances, the narrow side corridor with the office door deep in the background, the pale-green WC door on the LEFT wall mid-ground. Only mechanic tools and equipment. Never mirror.
+
+ACTION - the empty workshop, NO PEOPLE anywhere in the frame: the car raised on the lift, the wooden worktable with a red rag folded on it, quiet early-afternoon light with fine dust drifting in the light shafts, the narrow office corridor deep in the background. A still, tense, empty frame. Wide shot at eye level.
+
+References to attach: workshop interior only
+
+[2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
+----------------------------------------
+Static locked camera, wide, empty workshop with no people. Dust drifts in the light shafts, a hanging cable sways faintly; a distant voice answers from off-screen; faint footsteps approach. Still, tense frame. No camera movement.
+
+CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
+
+[3] DIALOGUE (literal, Algerian dialect):
+----------------------------------------
+- أمين (صوت فقط، من خارج الكادر): «رَانِي جَايْ يَا الْحَاجْ! دْقِيقَة بَرْكْ رَانِي جَايْ!»
+
+[4] SOUND:
+----------------------------------------
+صمت الورشة + الصوت البعيد + خطوات تقترب
+
+[5] END OF CLIP:
+----------------------------------------
+الكادر الفارغ المشدود
