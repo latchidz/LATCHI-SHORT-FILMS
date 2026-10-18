@@ -16,18 +16,14 @@
 
 **مراجع الشخصيات والسيارات (جاهزة ✅):** REF_CUSTOMER_A • REF_CUSTOMER_B • AMINE_FRONT/THREE_QUARTER • HAJ_FRONT/THREE_QUARTER • REF_MERCEDES • REF_DACIA_STEPWAY • REF_TOW_TRUCK • REF_GARAGE_EXTERIOR (واجهة أمامية مباشرة) • REF_WC_DOOR
 
-## جغرافيا الكراج المقفلة (Master Reference 90573 — Anchor ثابت لكل المشاهد الخارجية)
+## جغرافيا الكراج المقفلة (Master Reference — Anchor ثابت لكل المشاهد الخارجية)
 1. **الهندسة العامة:** مبنى خرساني قديم متهالك على **ناصية شارع** في حي جزائري شعبي • الواجهة الرئيسية فيها **بوابتان ضخمتان متجاورتان** • **عمود كهرباء خرساني** بالضبط عند الزاوية اليسرى حيث يتفرع الشارع نحو الخلفية يساراً
-2. **البوابة اليمنى (المفتوحة):** باب معدني ضخم أزرق/رمادي صدئ مفتوح على مصراعيه • ستارة معدنية (Rideau) ملفوفة جزئياً في الأعلى • الداخل: **رينو 4 كلاسيكية داكنة على رافعة هيدروليكية زرقاء** • تحتها براميل زيت (أصفر/أحمر/أزرق) • خزانة أدوات **حمراء** على اليمين
-3. **البوابة اليسرى (المغلقة):** باب معدني مزدوج مغلق تماماً بنفس اللون الأزرق/الرمادي الصدئ • **فوقه صف نوافذ زجاجية مستطيلة (Transom windows)** تميّزه عن البوابة اليمنى
-4. **المحيط:** أسفلت متصدع مليء ببقع الزيت السوداء • الشارع اليسري فيه منازل قديمة بطلاء باهت (أصفر فاتح/أبيض) + أسلاك كهرباء متقاطعة في السماء
+2. **البوابتان كلتاهما مفتوحتان دائماً:** البابان المعدنيان الأزرقان/الرماديان الصدئان مرفوعان بالكامل في كل لقطة
+3. **داخل البوابتين:** **غير الأدوات والمعدات والسيارة الزرقاء** (رينو 4 زرقاء على الرافعة الهيدروليكية الزرقاء في البوابة اليمنى) — لا سيارات أخرى، لا براميل، لا فوضى • فوق البوابة اليسرى صف نوافذ Transom مستطيلة
+4. **المحيط:** أسفلت متصدع ببقع زيت سوداء • الشارع اليسري فيه منازل قديمة بطلاء باهت (أصفر فاتح/أبيض) + أسلاك كهرباء متقاطعة • **ضوء صباحي من جهة الشارع في كل اللقطات**
 - **من الداخل (مراجع الجزء الثاني):** الورشة واسعة • **المكتب في العمق** عبر ممر جانبي • **باب الحمّام الأخضر** على الحائط الأيسر
-- **الزاوية الجانبية المعتمدة:** `REF_GARAGE_EXT_CORNER` من ناصية الشارع اليسرى (برومبت العميل الحرفي تحت)
-
-### برومبت الزاوية الجانبية (حرفياً من العميل)
-```
-Photorealistic cinematic shot of an old Algerian mechanic garage exterior. Angle: Looking from the LEFT street corner towards the right. In the immediate left foreground, a tall concrete utility pole. The garage facade shows TWO bays. The closest bay to the camera (the Left Bay) has large, closed, rusty blue-grey metal double doors with rectangular windows above them. Just past it to the right is the second bay (the Right Bay), which is wide OPEN, showing a dark vintage car raised on a hydraulic lift inside, with oil barrels underneath. The ground is cracked asphalt with oil stains. Morning sunlight hitting from behind the camera. 16:9 landscape, live-action style, highly detailed.
-```
+- **STAGING مقفل:** الديباناج دائماً في الشارع يساراً عند العمود • المرسيدس/الستيبواي دائماً على الرصفة قدام البوابة اليمنى المفتوحة، المقدمة نحو اليسار، جهة السائق نحو الكاميرا • الشارع والضوء والمواقع لا يتغيرون بين اللقطات — فقط الحركة والكاميرا
+- **SC01 لقطتان:** `SC01_A` (الوصول — المرسيدس فوق الديباناج) + `SC01_B` (بعد النزول — على الأرض قدام الكراج)
 
 ## الكتل المشتركة (تُلصق في كل برومبت)
 
@@ -38,7 +34,7 @@ Photorealistic cinematic film still, like a real Algerian TV drama, live-action 
 
 **[EXT]:**
 ```
-Exact garage exterior of REF_GARAGE_EXTERIOR (Master Reference 90573, LOCKED design): an old worn CONCRETE building on a street corner in a working-class Algerian neighborhood. The main facade has TWO adjacent bays: the RIGHT bay wide OPEN — huge rusty blue-grey metal door open with its roller shutter partially rolled up at the top, inside a dark vintage Renault 4 raised on a BLUE hydraulic lift with yellow, red and blue oil barrels underneath and a RED tool cabinet on the right — and the LEFT bay CLOSED — large rusty blue-grey double metal doors with a row of rectangular transom windows above them. A tall concrete utility pole stands exactly at the LEFT corner of the building where the street branches toward the background left between old faded light-yellow and white houses with crossing electric wires. Cracked asphalt with dark oil stains in front. Morning light from the street side. Do not mirror. NEVER remove the closed left door, NEVER change the street layout, NEVER resize cars.
+Exact garage exterior of REF_GARAGE_EXTERIOR (Master Reference, LOCKED design): an old worn CONCRETE building on a street corner in a working-class Algerian neighborhood. The main facade has TWO adjacent huge bays, BOTH WIDE OPEN — their rusty blue-grey metal doors fully raised, both interiors fully visible. Inside the two bays ONLY mechanic tools and equipment (a red tool cabinet, a workbench, wall-mounted tools) and ONE BLUE vintage Renault 4 raised on a blue two-post hydraulic lift in the right bay — no other cars, no barrels, no clutter. Above the left bay a row of rectangular glass transom windows. A tall concrete utility pole stands exactly at the LEFT corner of the building where the street branches toward the background left between old faded light-yellow and white houses with crossing electric wires. Cracked asphalt apron with dark oil stains in front. Morning sunlight from the street side. Do not mirror. NEVER close a bay, NEVER change the street layout, NEVER resize cars.
 ```
 
 **[WS-INT]:**
