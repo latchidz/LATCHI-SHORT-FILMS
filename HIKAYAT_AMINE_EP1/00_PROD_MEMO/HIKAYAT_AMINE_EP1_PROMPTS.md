@@ -163,7 +163,7 @@ Use the uploaded reference images exactly: garage exterior (first), slate-grey S
 
 ## الكتلة [WS-INT] — داخل الورشة (مقفلة في كل لقطة داخلية)
 ```
-THE WORKSHOP — locked geography, identical in every interior shot: worn concrete floor, the BLUE vintage Renault 4 raised on the blue two-post hydraulic lift, a wooden worktable, stacked tires, wall-mounted tools, the two bright wide-open street entrances letting in the morning light, the narrow side corridor with the office door DEEP in the background, the pale-green WC door on the LEFT wall mid-ground. Only mechanic tools and equipment — no barrels, no clutter. Never mirror, never move the green door or the corridor.
+THE WORKSHOP — locked geography, identical in every interior shot: worn concrete floor, the car raised on the hydraulic lift, a wooden worktable, stacked tires, wall-mounted tools, the two bright wide-open street entrances letting in the morning light, the narrow side corridor with the office door DEEP in the background, the pale-green WC door on the LEFT wall mid-ground. Only mechanic tools and equipment — no barrels, no clutter. Never mirror, never move the green door or the corridor.
 ```
 
 ## الكتلة [OFFICE-INT] — داخل المكتب (مقفلة)
@@ -223,4 +223,69 @@ STAGING — locked: the slate-grey Dacia Sandero Stepway parks on the cracked as
 ACTION — the friendly goodbye: CUSTOMER B stands at the open driver door RAISING HIS HAND in a friendly wave toward the garage, a relaxed happy smile. HADJ RACHID and AMINE stand together at the open bay entrance, both waving back warmly, relaxed faces — a completely ordinary friendly goodbye. Wide eye-level shot.
 
 Use the uploaded reference images exactly: garage corner exterior (first), Stepway, customer B, Hadj, Amine.
+```
+
+---
+
+# رابعاً — برومبتات الموجة 3 (SC13 → SC19) — الفصل الثالث: «الصدمة» (الظهر، نفس اليوم)
+
+## الكتلة [OIL-CORRIDOR] — ممر المكتب (مقفلة — لقطة SC17)
+```
+THE CORRIDOR — locked geography (exact OIL_CORRIDOR reference): the narrow side corridor inside the workshop leading to the office door, worn concrete floor, worn plaster walls, a practical ceiling light, the office door at the end. Never mirror.
+```
+
+## SC13 — وقت الصلاة (أذان الظهر في الخلفية)
+**Refs:** WORKSHOP_INT + الحاج + أمين
+```
+[STYLE] + [WS-INT]
+
+ACTION — early-afternoon warm light: HADJ RACHID (60s, grey beard, khaki work coat) and AMINE (young mechanic, navy work overall, red rag in back pocket) stand talking calmly in the middle of the workshop near the wooden worktable, Hadj one hand half-raised as he mentions the prayer, both relaxed, warm faces. Medium two-shot at eye level.
+```
+
+## SC14 — تحضير المال
+**Refs:** OFFICE_INT + الحاج
+```
+[STYLE] + [OFFICE-INT]
+
+ACTION — preparing the money: HADJ RACHID alone in the office, he holds the handwritten supplier invoice paper (completely unreadable), placing it flat on the desk beside the grey calculator, his other hand resting on the CLOSED wooden money box, about to open it. Medium shot at eye level.
+```
+
+## SC15 — الاكتشاف الصادم (الصندوق الفارغ)
+**Refs:** OFFICE_INT + الحاج
+```
+[STYLE] + [OFFICE-INT]
+
+ACTION — the discovery, CLOSE on HADJ: the wooden money box OPEN and EMPTY on the desk (only one or two loose small notes at most inside), his hands frozen on the box edges, his face EXPLODING with shock and fury — mouth open mid-scream, eyes wide. Close-up at eye level.
+```
+
+## SC16 — النداء (الورشة الفارغة — صوت فقط)
+**Refs:** WORKSHOP_INT فقط
+```
+[STYLE] + [WS-INT]
+
+ACTION — the empty workshop, NO PEOPLE anywhere in the frame: the car raised on the hydraulic lift, the wooden worktable with the red rag folded on it, quiet early-afternoon light with dust drifting in the light shafts, the narrow office corridor deep in the background. A still, tense, empty frame. Wide shot.
+```
+
+## SC17 — الأثر (آثار الزيت — بلا حوار)
+**Refs:** OIL_CORRIDOR + أمين
+```
+[STYLE] + [OIL-CORRIDOR]
+
+ACTION — the trace: AMINE (young mechanic, navy work overall) stopped mid-step in the narrow corridor, looking DOWN at DARK OILY FOOTPRINTS on the concrete floor leading toward the office door, his brow furrowed in suspicion, the red rag in one hand. The oily prints in the foreground, clearly visible. Close shot.
+```
+
+## SC18 — الحاج المنهار
+**Refs:** OFFICE_INT + أمين + الحاج
+```
+[STYLE] + [OFFICE-INT]
+
+ACTION — the broken Hadj: AMINE just entered, standing concerned near the office doorway. HADJ RACHID COLLAPSED on his chair — slumped, one hand over his forehead, devastated, the empty open wooden money box on the desk beside the unreadable invoice paper. Medium two-shot at eye level.
+```
+
+## SC19 — الخاتمة المفتوحة (الكليفهانغر — القطع للسواد في CapCut)
+**Refs:** OFFICE_INT + أمين + الحاج
+```
+[STYLE] + [OFFICE-INT]
+
+ACTION — the open ending: AMINE leans forward, suddenly alert — the connection lighting up in his eyes, one hand half-raised mid-thought, finger almost pointing back toward the corridor. HADJ RACHID looks up at him from the chair, a fragile hope in his broken face. Medium close at eye level.
 ```
