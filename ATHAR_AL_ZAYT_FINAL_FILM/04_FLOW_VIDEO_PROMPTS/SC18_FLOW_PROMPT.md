@@ -6,7 +6,7 @@
 
 ## تقسيم الحركة والحوار (10 ثوانٍ)
 - 0–3 ث: لقطة واسعة ثابتة؛ ياسين جالس بجوار الحاج يرفع نظره قليلاً ويشرح بيد مفتوحة، والآخرون يستمعون.
-- 3–8 ث: لقطة متوسطة هادئة بمستوى الجلوس فوق كتف الحاج؛ ياسين ينظر إلى الحاج بعينين دامعتين ويقول: «دوّرت على خدمة وما لقيتش… بابا مات، وكنت حاب نعاون أمّي وختي الصغيرة.»
+- 3–8 ث: لقطة متوسطة قريبة هادئة بمستوى الجلوس فوق كتف الحاج — ياسين والحاج فقط داخل الكادر، الأم وأمين غير ظاهرين فيه؛ ياسين ينظر إلى الحاج بعينين دامعتين ويقول: «دوّرت على خدمة وما لقيتش… بابا مات، وكنت حاب نعاون أمّي وختي الصغيرة.»
 - 8–10 ث: قطع ثابت إلى كلوز وجه الحاج — عيناه ناظرتان نازلاً نحو ياسين الجالس بجانبه؛ صوت ياسين خارج الكادر يقول: «بصح عارف بلي غلطت.»
 
 ## GOOGLE FLOW VIDEO PROMPT — COPY READY (V3)
@@ -22,7 +22,7 @@ LOCATION / PROPS:
 
 ACTION AND TIMING:
 - 0–3 ث: لقطة واسعة ثابتة؛ ياسين جالس بجوار الحاج يرفع نظره قليلًا ويشرح بيد مفتوحة، والآخرون يستمعون.
-- 3–8 ث: لقطة متوسطة هادئة بمستوى الجلوس فوق كتف الحاج؛ ياسين ينظر إلى الحاج بعينين دامعتين ويقول: «دوّرت على خدمة وما لقيتش… بابا مات، وكنت حاب نعاون أمّي وختي الصغيرة.»
+- 3–8 ث: لقطة متوسطة قريبة هادئة بمستوى الجلوس فوق كتف الحاج — ياسين والحاج فقط داخل الكادر، الأم وأمين غير ظاهرين فيه؛ ياسين ينظر إلى الحاج بعينين دامعتين ويقول: «دوّرت على خدمة وما لقيتش… بابا مات، وكنت حاب نعاون أمّي وختي الصغيرة.»
 - 8–10 ث: قطع ثابت إلى كلوز وجه الحاج وهو يستمع، عيناه ناظرتان نازلاً نحو ياسين الجالس بجانبه؛ صوت ياسين خارج الكادر يقول: «بصح عارف بلي غلطت.»
 
 DIALOGUE — natural Algerian Darja only, spoken by native Algerian voices, never Modern Standard Arabic:
@@ -45,7 +45,7 @@ FORMAT: Horizontal landscape 16:9 only. Never vertical 9:16, never portrait, nev
 ## NEGATIVE PROMPT — COPY READY
 
 ```text
-No vertical 9:16, no portrait, no square. Yassine stays SEATED on the sofa beside Hadj for the entire scene — he does NOT stand up. No character identity drift, no face changes, no age changes, no clothing changes. Yassine is 19, not a child. No extra people, no duplicate bodies, no blurred figures in the kitchen doorway, no extra fingers, no fused hands, no distorted faces, no changing room layout. No subtitles, no captions, no watermark, no logos, no random readable text. No Modern Standard Arabic, no Egyptian or Gulf accent. No overlapping dialogue, no lip movement by a silent character. No exaggerated crying, no slapstick, no violence. Do not make the customer the thief. Do not end on a cliffhanger.
+No vertical 9:16, no portrait, no square. Yassine stays SEATED on the sofa beside Hadj for the entire scene — he does NOT stand up. In the over-the-shoulder shot (3–8 seconds), the camera stays CLOSE: only Yassine and the Hadj are framed — the mother and Amine do not appear in that shot. No character identity drift, no face changes, no age changes, no clothing changes. Yassine is 19, not a child. No extra people, no duplicate bodies, no blurred figures in the kitchen doorway, no extra fingers, no fused hands, no distorted faces, no changing room layout. No subtitles, no captions, no watermark, no logos, no random readable text. No Modern Standard Arabic, no Egyptian or Gulf accent. No overlapping dialogue, no lip movement by a silent character. No exaggerated crying, no slapstick, no violence. Do not make the customer the thief. Do not end on a cliffhanger.
 ```
 
 ## 🔗 الربط بالمشهد التالي
@@ -54,6 +54,7 @@ No vertical 9:16, no portrait, no square. Yassine stays SEATED on the sofa besid
 ## فحص سريع قبل اعتماد الفيديو
 - [ ] المدة 10 ثوانٍ بالضبط.
 - [ ] ياسين جالس بجوار الحاج في كل اللقطات (لا يقف).
+- [ ] لقطة فوق الكتف (3–8ث): ياسين والحاج فقط في الكادر — بلا الأم ولا أمين.
 - [ ] عينا الحاج في كلوز C ناظرتان نازلاً نحو ياسين الجالس.
 - [ ] باب المطبخ فارغ (لا أشخاص زائفين).
 - [ ] الحوار دارجة جزائرية ومزامنة الشفاه صحيحة.
