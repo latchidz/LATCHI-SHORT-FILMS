@@ -9,7 +9,7 @@
 ## طريقة الرفع في Flow
 - ارفع المراجع أولاً: REFERENCES/WORKSHOP_MAIN.png + REFERENCES/WORKSHOP_ANGLE_3.png + REFERENCES/YACINE_WORK_REFERENCE.png + REFERENCES/AMINE_FRONT.png + REFERENCES/HAJ_FRONT.png
 - الإطار الأول = `SC25_START.png` • الإطار الأخير = `SC25_END.png`
-- مرجع إضافي (اختياري إن قبله Flow): `SC25_MID.png` — لحظة دخول ياسين من مدخل الكراج (الزقاق المشمس خلفه)
+- مراجع إضافية (اختيارية إن قبلهما Flow): `SC25_MID_A.png` — لحظة دخول ياسين من المدخل وهو صغير في خلف الكادر (النسخة المعتمدة) • `SC25_MID2.png` — نفس اللقطة بزوم على ياسين
 - انسخ برومبت الفيديو كاملاً كما هو تحت
 
 ## برومبت الفيديو — COPY READY
