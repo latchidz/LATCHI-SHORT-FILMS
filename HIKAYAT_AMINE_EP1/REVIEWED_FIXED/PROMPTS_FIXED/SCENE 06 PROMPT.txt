@@ -4,7 +4,8 @@ SCENE 06 - المغادرة (الزبون الأول) (The Farewell (Customer 1)
 Clip: 10 seconds | Location: exterior / morning
 ==================================================
 
-[FIXED v1.2 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+[FIXED v1.3 - 2026-10-18] التغييرات في هذه النسخة المصححة:
+- v1.3 (تصحيح العميل): جهة السائق = الجهة اليسرى (الزبون عند باب السائق المفتوح) + الحاج وأمين قدام الباب الأيمن للسيارة (الجهة المقابلة) + إيديهم منزلين، بلا تلويح وبلا أي ردة فعل — واقفين ساكتين يودعونه
 - v1.2: صورة SC06 أُعيدت بأمر العميل — السيارة مطابقة تماماً لوضعية SC05 (تعديل على صورة SC05 كأم) + باب السائق مفتوح والزبون مستعد للركوب + الحاج وأمين جنب لبجنب عند المدخل يودّعانه
 - staging: الكبوت مغلق صراحةً (بعد SC05)
 - برومبت Flow: قفل صريح (لقطة واحدة ثابتة، بلا زوم/تحريك/قطع داخلي، منع تبدّل الوجوه/الملابس/الأغراض)
@@ -15,15 +16,15 @@ Photorealistic cinematic film still from a real Algerian TV drama, live-action l
 
 THE GARAGE - locked geography: an old worn concrete building on a street corner in a working-class Algerian neighborhood. Two adjacent bays, both open, blue-grey metal doors, blue Renault 4 raised on a hydraulic lift inside the right bay. Cracked asphalt apron with oil stains in front.
 
-STAGING - locked from Scene 05: the BLACK LUXURY SEDAN is parked in front of the right open bay, NOSE POINTING TO THE LEFT, DRIVER'S SIDE FACING THE CAMERA (identical orientation to Scene 05), hood completely closed, driver's door slightly open.
+STAGING - locked from Scene 05: the BLACK LUXURY SEDAN is parked in front of the right open bay, NOSE POINTING TO THE LEFT, DRIVER'S SIDE FACING THE CAMERA (identical orientation to Scene 05), hood completely closed, the DRIVER'S door (the left-side door facing the camera) open.
 
-ACTION: CUSTOMER A (45, grey suit trousers, white shirt) stands beside his open car door, one hand resting on the roof, turning toward the garage entrance with a warm, deeply grateful smile to say goodbye - ready to get into the car, hands empty. HADJ RACHID (60s, grey beard, khaki work coat) and AMINE (young mechanic, navy work overall, red rag in back pocket) stand side by side at the garage entrance looking at him, smiling warmly and waving goodbye. Medium shot, clear eye level.
+ACTION: CUSTOMER A (45, grey suit trousers, white shirt) stands at the open DRIVER'S door - the left-side door facing the camera - ready to get into the car: one hand resting on the roof, one foot toward the open door, a calm deeply grateful goodbye smile, hands empty. HADJ RACHID (60s, grey beard, khaki work coat) and AMINE (young mechanic, navy work overall, red rag in back pocket) stand TOGETHER on the OPPOSITE side of the car, right at the car's RIGHT (passenger-side) door, their upper bodies visible across the car, facing the customer - their ARMS HANG RELAXED DOWN at their sides, NOT waving, NO gestures, NO reaction: they simply stand still, calmly and quietly watching him go. Medium shot, clear eye level.
 
 (Base: edited from SCENE 05 IMAGE 1 - the car keeps the exact same position and orientation.)
 
 [2] FLOW VIDEO PROMPT (10s) - upload the scene image with this prompt:
 ----------------------------------------
-Static locked camera. The customer, deeply moved, thanks them from beside his open car door with one hand on the roof, then gets in; the black sedan pulls away to the left down the street while Hadj and Amine wave warmly from the garage entrance. No camera movement.
+Static locked camera. The customer says a calm, grateful goodbye from his open driver's door, then gets in; the black sedan pulls away to the LEFT down the street while Hadj and Amine stand still at the other side of the car, arms hanging down, quietly watching him go. No camera movement.
 
 CAMERA & CONTINUITY LOCK: One single continuous 10-second shot. The camera is completely static on a tripod: no pan, no tilt, no zoom, no dolly, no cutting inside the clip. Keep every face, hairstyle, outfit, object and its position IDENTICAL to the input image - do not add, remove or swap any person or object, do not change the car model, its direction or its scale. Animate ONLY what the scene requires.
 
