@@ -1,0 +1,28 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2 — SCENE 03 — البائع يجهّز الدجاجة الثانية
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC03_VENDOR_SECOND_CHICKEN.png
+المراجع المرفقة: REF_02_RESTAURANT_OWNER • REF_10_OUTDOOR_CHICKEN_POINT • REF_08_CHICKEN_BAG
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_02_RESTAURANT_OWNER (~50, short dark hair with grey, subtle short beard, dark apron over a muted shirt), REF_10_OUTDOOR_CHICKEN_POINT, REF_08_CHICKEN_BAG.
+
+The same outdoor stall moments later. The vendor is ALONE at his external counter taking a SECOND whole golden roasted chicken out of the rotisserie oven - oven door open, more golden chickens on the spits inside - lowering it toward an IDENTICAL second clean plain food bag on the stainless-steel surface. His face is thoughtful and quietly moved, eyes lowered, restrained sadness. Youssef and his son are NOT in the frame and not visible anywhere. No customers, empty sidewalk. Only the vendor, the oven and the second bag. Natural daylight plus warm oven light, documentary-cinema photography, natural film grain, real skin texture. Vertical 9:16: open oven with golden chickens top half, vendor's face and hands with the bag bottom half. No text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC03 image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement.
+The vendor pulls the second golden chicken from the rotisserie oven and lowers it into the identical plain food bag, closes the bag neatly and firmly with both hands, then lifts it and turns his body slightly toward the street, ready to walk away with it. His expression stays thoughtful and quietly sad. NO dialogue at all - mouth closed. Oven hum and quiet street ambience, no music. NO other person ever enters the frame. Keep exactly ONE bag, identical to the first one.
+
+── [3] الحوار الحرفي ──
+بلا حوار — همهمة الفرن وصوت الشارع فقط
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظات ──
+⚠ يوسف والابن غائبان تماماً • الكيس الثاني منفصل ومماثل للأول

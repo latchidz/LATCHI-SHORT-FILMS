@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2 — SCENE 04 — البائع يلتقي أخ يوسف (جالس في الحومة + هاتف)
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC04_VENDOR_MEETS_BROTHER.png
+المراجع المرفقة: REF_02_RESTAURANT_OWNER • REF_03_BROTHER • REF_06_BUILDING_ENTRANCE • REF_08_CHICKEN_BAG
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_02_RESTAURANT_OWNER, REF_03_BROTHER (~32, slightly broader face and build, short dark hair, light stubble, medium-grey casual jacket over a simple shirt, dark trousers), REF_06_BUILDING_ENTRANCE, REF_08_CHICKEN_BAG.
+
+Outside that same building entrance, early afternoon. The BROTHER SITS RELAXED on a simple white plastic chaise longue (low reclining chair) on the pavement in front of the building, leaning back, holding a smartphone in his hands and looking down at the screen, completely focused on his phone. The VENDOR stands in front of him on the left holding out the second plain chicken food bag, calm and discreet, mid-sentence; the brother has just begun to raise his eyes from the phone with a slightly surprised expression. Same door, plaster wall and stairwell glimpse as the reference. YOUSSEF IS NOT in the frame at all. Only ONE bag in frame. Early-afternoon daylight, documentary-cinema photography, natural film grain, real skin texture. Vertical 9:16: entrance and door in the upper half, seated brother on the chaise longue in the lower half, vendor standing over him from the left. No text, no logos, no other people, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC04 image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+The brother is seated on the chaise longue looking at his phone. The vendor takes a small step forward, extends the second chicken bag toward him and says in natural Algerian Darija: «خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»
+The brother looks up from his phone, slightly surprised, lowers the phone onto his lap with one hand and takes the bag with the other, nodding - he believes Youssef sent it. Only the vendor speaks. The vendor does NOT explain anything more and never reveals the truth. NO other person in frame, no Youssef. Natural neighbourhood ambience, no music. Keep the one bag only, keep the chaise longue, door and wall unchanged.
+
+── [3] الحوار الحرفي ──
+«خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»  —  البائع فقط (الأخ يستمع ثم يأخذ الكيس)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظات ──
+الأخ جالس على شيزلونج بالهاتف • يوسف غائب • كيس واحد فقط (الثاني)

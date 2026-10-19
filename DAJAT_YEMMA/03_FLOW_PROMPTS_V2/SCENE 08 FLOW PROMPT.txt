@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2 — SCENE 08 — الأخ يخبر يوسف (من V1 — بلا تغيير)
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC08_BROTHER_TELLS.png
+المراجع المرفقة: REF_01_YOUSSEF • REF_03_BROTHER • REF_06_BUILDING_ENTRANCE
+
+── [1] برومبت الصورة (9:16) ──
+Use the approved V1 image SC10 (renumbered SC08) unchanged: medium two-shot outside the building entrance in late-afternoon light. Youssef on the RIGHT of frame with a toothpick in hand, his brother on the LEFT facing him and speaking sincerely. Both faces visible, same clothes and location. Vertical 9:16. No chicken bag. No text, no logos, no other people, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the approved SC08 image (the V1 SC10 shot) as the exact first frame. One stable medium two-shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+Only the brother (left of frame) speaks in Algerian Darija: «ربي يحفظك يا يوسف، يما فرحت بالدجاجة وراهي تدعيلك بالخير.»
+He believes Youssef sent the chicken. Youssef (right of frame) listens silently with his mouth closed; his relaxed expression slowly fades into confusion and shame. No music or extra dialogue. Keep both positions unchanged, do not swap sides, no bag appears in frame.
+
+── [3] الحوار الحرفي ──
+«ربي يحفظك يا يوسف، يما فرحت بالدجاجة وراهي تدعيلك بالخير.»  —  الأخ فقط (يوسف يستمع وفمه مغلق)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظات ──
+✅ صورة V1 معتمدة — لم تُعَد — فقط إعادة ترقيم

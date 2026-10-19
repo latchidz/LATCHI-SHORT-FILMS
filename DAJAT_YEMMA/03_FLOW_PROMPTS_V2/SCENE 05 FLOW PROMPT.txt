@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2 — SCENE 05 — الأخ يوصّل الدجاجة للأم (من V1 — بلا تغيير)
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC05_BROTHER_DELIVERS.png
+المراجع المرفقة: REF_03_BROTHER • REF_04_MOTHER • REF_07_MOTHER_HOME • REF_08_CHICKEN_BAG
+
+── [1] برومبت الصورة (9:16) ──
+Use the approved V1 image SC07 (renumbered SC05) unchanged: medium vertical shot inside the modest Algerian apartment. The brother, in his medium-grey jacket, has just set the second plain chicken takeaway bag on the small dining table; his hand is still near the bag. He stands beside his mother, who in modest home clothing and headscarf looks down at the bag with a touched, gentle expression. Warm natural window light, furniture and wall as the interior reference. Vertical 9:16. No text, no logos, no extra people, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the approved SC05 image (the V1 SC07 shot) as the exact first frame. One stable medium vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement.
+The brother sets the bag on the table and tells his mother in natural Algerian Darija: «يوسف بعثلك هذي الدجاجة يا يما.»
+The mother looks at the bag and smiles softly with her mouth closed. Only the brother speaks. No music, quiet home ambience. Do not reveal the vendor to the mother. Keep furniture and bag position fixed.
+
+── [3] الحوار الحرفي ──
+«يوسف بعثلك هذي الدجاجة يا يما.»  —  الأخ (الأم تبتسم وفمها مغلق)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظات ──
+✅ صورة V1 معتمدة — لم تُعَد — فقط إعادة ترقيم

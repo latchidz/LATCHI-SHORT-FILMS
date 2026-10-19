@@ -1,0 +1,26 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2 — SCENE 07 — يوسف أمام العمارة بعود الأسنان (من V1 — بلا تغيير)
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC07_YOUSSEF_OUTSIDE.png
+المراجع المرفقة: REF_01_YOUSSEF • REF_06_BUILDING_ENTRANCE
+
+── [1] برومبت الصورة (9:16) ──
+Use the approved V1 image SC09 (renumbered SC07) unchanged: medium-wide vertical shot outside the same apartment building in late-afternoon light. Youssef stands beside the entrance, not blocking the doorway, quietly cleaning his teeth with a small wooden toothpick, looking off toward the street, unaware. Hands otherwise empty - no chicken bag, no phone. Vertical 9:16. No other people, no text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the approved SC07 image (the V1 SC09 shot) as the exact first frame. One stable medium-wide vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked.
+Youssef stands beside the entrance, gently uses the wooden toothpick and looks off toward the street. NO dialogue - mouth closed, only the small natural toothpick movement. Ambient neighbourhood sounds only, no music. Keep the entrance unobstructed, keep his hands empty, do not add other people.
+
+── [3] الحوار الحرفي ──
+بلا حوار — صوت الحي فقط
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظات ──
+✅ صورة V1 معتمدة — لم تُعَد — فقط إعادة ترقيم
