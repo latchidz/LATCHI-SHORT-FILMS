@@ -1,0 +1,28 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2.2 — SCENE 04A — عماد وحده على الكرسي الأزرق
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC04A_EMAD_ALONE.png
+المراجع المرفقة: REF_03_BROTHER (عماد) • REF_06_BUILDING_ENTRANCE • REF_11_BLUE_CAMPING_CHAIR
+ترتيب المونتاج: اللقطة 06 من 12 — عماد وحده، البائع غير موجود • الكرسي صغير ونِسَب مضبوطة
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_03_BROTHER (EMAD, Youssef's brother, about 32, slightly broader face and build, short dark hair, light stubble, medium-grey casual jacket over a simple shirt, dark trousers), REF_06_BUILDING_ENTRANCE, REF_11_BLUE_CAMPING_CHAIR (the exact small low blue folding camping chair).
+
+Early afternoon outside the same building entrance. EMAD sits ALONE on that exact small blue folding camping chair on the pavement beside the building door, not blocking the passage. The chair is SMALL and LOW - seat about 35 cm above the ground - his knees clearly higher than his hips, leaning back comfortably, both hands holding a smartphone, looking down at the screen, completely absorbed.
+
+NOBODY ELSE in the frame - no vendor, no Youssef, no passers-by. The doorway behind him is empty. Only one man, one small blue chair and the entrance. Realistic adult proportions, feet flat on the pavement, nothing floating - a lightweight camping chair, not furniture. Early-afternoon daylight with soft shadows. Vertical 9:16: door and wall upper half, seated man on the small chair lower half, empty space on his left where someone could later stand. Documentary-cinema photography, natural film grain, real skin texture. No text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC04A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+Emad sits alone on the small blue folding camping chair, scrolling slowly on his smartphone, both hands on the phone, eyes on the screen, relaxed everyday posture. He does not look up. NO dialogue - mouth closed. Quiet neighbourhood ambience only (distant street sounds, a light breeze), no music. Nobody enters the frame. The chair never moves or changes size, the door and wall stay identical.
+
+── [3] الحوار الحرفي ──
+بلا حوار — صوت الحومة فقط (يمرّر تليفونه)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.

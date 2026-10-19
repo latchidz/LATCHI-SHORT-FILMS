@@ -1,30 +1,30 @@
-دجاجة يما — V2.1 — برومبتات Flow (11 لقطة، ترتيب المونتاج) — 9:16 عمودي — 8 ثوانٍ
+دجاجة يما — V2.2 — برومبتات Flow (12 لقطة بالترتيب) — 9:16 عمودي — 8 ثوانٍ
 
 ════════════════════════════════════════════════════════
-دجاجة يما V2.1 — SCENE 01A — الافتتاح — السلام عليكم وسؤال الثمن
+دجاجة يما V2.2 — SCENE 01A — الافتتاح — السلام والثمن (قفل على المرجع الفارغ)
 برومبت Flow — 8 ثوانٍ — عمودي 9:16
 ════════════════════════════════════════════════════════
 
 الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC01A_GREETING_PRICE.png
-المراجع المرفقة: REF_01_YOUSSEF • REF_09_SON • REF_10_OUTDOOR_CHICKEN_POINT • REF_02_RESTAURANT_OWNER
-ترتيب المونتاج: اللقطة 01 من 11 — بلا هاتف وبلا كيس • الابن صامت
+المراجع المرفقة: REF_10_OUTDOOR_CHICKEN_POINT (فارغ — القفل المكاني) • REF_01_YOUSSEF • REF_09_SON • REF_02_RESTAURANT_OWNER
+ترتيب المونتاج: اللقطة 01 من 12 — بلا هاتف وبلا كيس • الفرن والكونتوار مطابقان للمرجع الفارغ 100%
 
 ── [1] برومبت الصورة (9:16) ──
-Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_01_YOUSSEF, REF_09_SON, REF_10_OUTDOOR_CHICKEN_POINT, REF_02_RESTAURANT_OWNER.
+LOCKED LOCATION COMPOSITE. REF_10_OUTDOOR_CHICKEN_POINT is the EMPTY MASTER PLATE of the outdoor roast-chicken point of sale and the absolute spatial reference. REF_01_YOUSSEF, REF_09_SON, REF_02_RESTAURANT_OWNER are the characters.
 
-Late-morning street at the Algerian OUTDOOR roast-chicken stall - the opening shot. The VENDOR stands behind his external counter busy ARRANGING AND ORGANIZING his roasted chickens with both hands among the golden chickens on the rotisserie spits, concentrating on his work. He holds no bag and wears no gloves yet - just arranging his chickens.
+RULE: do NOT move, redesign or rebuild anything of the location. The stainless-steel external counter, its position and edges, the work surface and metal tray, the vertical rotisserie oven with golden chickens and its warm orange glow, the wall shelf with stacked paper bags, the electrical socket, the extractor fan, the left service passage and rolling shutter, the plaster wall, curb and pavement stay identical in position, size, perspective and lighting to the empty plate. Camera identical. Only insert the three people.
 
-YOUSSEF stands on the customer side facing the vendor directly, calm and polite, about to greet him and ask the price. HIS HANDS ARE BOTH EMPTY - absolutely NO PHONE in his hand or near his ear, no bag. His young son stands right beside him, slightly behind his shoulder, looking up at the vendor and the golden chickens.
+INSERT: the VENDOR behind the counter at his working place, leaning slightly toward the oven, arranging the roasted golden chickens with both hands (no gloves, no bag). YOUSSEF on the customer side facing him, calm and polite, both hands EMPTY - absolutely NO phone. His SON beside him slightly behind his shoulder looking up at the oven.
 
-NO chicken bag and NO phone anywhere in the frame. No wife, no women, no other customers. Natural late-morning daylight with warm golden oven light, real street texture, documentary-cinema photography, natural film grain. Vertical 9:16: oven and arranging hands upper half, Youssef and son lower third facing the vendor. No text, no logos, no watermark.
+Physically correct scale (counter at adults' waist level, nothing floating). NO bag and NO phone in frame. No other people. Same daylight and oven glow. Vertical 9:16. Documentary-cinema photography, natural film grain. No text, no logos, no watermark.
 
 ── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
-Use the generated SC01A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
-Short natural exchange, no theatrical acting, authentic Algerian Darija:
+Use the generated SC01A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement, the location grid (counter, oven, shelf, wall) never shifts by even a pixel.
+Short natural exchange in authentic Algerian Darija, no theatrical acting:
 - Youssef greets politely: «السلام عليكم.»
-- The vendor, still arranging his chickens, answers without stopping his work: «وعليكم السلام، الدجاجة ألف دينار.»
+- The vendor, still arranging his chickens without turning fully: «وعليكم السلام، الدجاجة ألف دينار.»
 - Youssef nods calmly: «خلاص.»
-Only these three short lines. Everyone else silent with mouth closed. The son says nothing. Quiet street ambience and low oven hum, no music. NO bag appears, NO phone appears in this shot. Preserve faces, clothes, counter and oven.
+Only these three short lines; the son is silent with mouth closed. Quiet street ambience and low oven hum, no music. NO bag appears, NO phone appears in this shot.
 
 ── [3] الحوار الحرفي ──
 يوسف: «السلام عليكم.»  →  البائع: «وعليكم السلام، الدجاجة ألف دينار.»  →  يوسف: «خلاص.»
@@ -38,29 +38,29 @@ Preserve exact faces, hairstyles, clothing, body proportions, location layout, l
 ============================================================
 
 ════════════════════════════════════════════════════════
-دجاجة يما V2.1 — SCENE 01B — البائع يجبد الدجاجة بقفازات + يوسف يجبد التليفون
+دجاجة يما V2.2 — SCENE 01B — البائع بقفازات + يوسف يجبد التليفون
 برومبت Flow — 8 ثوانٍ — عمودي 9:16
 ════════════════════════════════════════════════════════
 
 الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC01B_GLOVES_AND_PHONE.png
-المراجع المرفقة: REF_01_YOUSSEF • REF_09_SON • REF_10_OUTDOOR_CHICKEN_POINT • REF_02_RESTAURANT_OWNER
-ترتيب المونتاج: اللقطة 02 من 11 — قفازات حرارية إجبارية • بلا كيس • الهاتف نصفه خارج الجيب
+المراجع المرفقة: REF_10_OUTDOOR_CHICKEN_POINT (فارغ) • SC01A (الوضعيات) • REF_01_YOUSSEF • REF_09_SON • REF_02_RESTAURANT_OWNER
+ترتيب المونتاج: اللقطة 02 من 12 — قفازات حرارية إجبارية • بلا كيس • الهاتف نصفه خارج الجيب
 
 ── [1] برومبت الصورة (9:16) ──
-Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_01_YOUSSEF, REF_09_SON, REF_10_OUTDOOR_CHICKEN_POINT, REF_02_RESTAURANT_OWNER.
+LOCKED LOCATION + CONTINUITY COMPOSITE. The empty master plate REF_10_OUTDOOR_CHICKEN_POINT and the previous shot SC01A are the absolute references for place and positions.
 
-Same outdoor stall, same late-morning light, the very next moment. The VENDOR reaches into the rotisserie oven and lifts out ONE whole golden roasted chicken WEARING THICK HEAT-RESISTANT PROTECTIVE GLOVES (dark heat-proof oven mitts covering hand and wrist) so he does not burn himself; light steam rises from the chicken. His face is focused and professional.
+RULE: the location stays IDENTICAL to the empty plate and to SC01A - same counter and edges, same work surface and tray, same rotisserie oven with golden chickens and warm glow, same wall shelf, socket, extractor fan, left passage and shutter, same wall, curb, pavement, same camera and framing, same light. Nothing added, removed or shifted. The characters are in EXACTLY the same positions as SC01A, only their next action changes.
 
-On the customer side, YOUSSEF is sliding his right hand INTO HIS TROUSERS POCKET to pull out his smartphone - the phone is just emerging from the pocket, half visible, he has NOT raised it to his ear yet. His eyes are still on the vendor. His young son stands beside him looking up at the oven.
+ACTIONS: the VENDOR reaches his right arm INTO the rotisserie oven and lifts out ONE whole golden chicken, WEARING THICK DARK HEAT-RESISTANT OVEN GLOVES covering hand and wrist, light steam rising. YOUSSEF has just slid his right hand into his trousers pocket and is pulling out his smartphone - only half out of the pocket, in his fingers, NOT yet raised to his ear, eyes still on the vendor. The SON stays beside him looking up at the oven.
 
-NO food bag anywhere in the frame. No other customers, no wife. Everyone in exactly their reference clothes. Warm oven glow on the gloves and face, natural street daylight, documentary-cinema photography, natural film grain. Vertical 9:16: oven and gloved hand with the chicken upper half, Youssef pulling his phone in the lower third. No text, no logos, no watermark.
+Physically correct scale, nothing floating. NO food bag anywhere. No other people, no women. Vertical 9:16. Documentary-cinema photography, natural film grain. No text, no logos, no watermark.
 
 ── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
-Use the generated SC01B image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement.
-The vendor pulls the golden chicken out of the rotisserie oven with his heat-resistant gloves, turns and lowers it toward his clean working surface. At the same moment Youssef's phone starts ringing in his pocket: he finishes pulling it out and glances at the screen. NO dialogue at all - every mouth stays closed in this shot. Oven hum, glove fabric, quiet street ambience, a simple phone ringtone, no music. NO bag in this shot. Keep the gloves on the vendor's hands for the whole shot.
+Use the generated SC01B image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement, no zoom, the location grid never shifts.
+The vendor pulls the golden chicken out of the rotisserie oven with his heat-resistant gloves, turns and lowers it toward his clean working surface. At the same instant Youssef's phone starts ringing in his pocket: he finishes pulling it out and glances at the screen. NO dialogue - every mouth stays closed. Oven hum, glove fabric, quiet street ambience, a simple phone ringtone, no music. NO bag in this shot. The gloves stay on the vendor's hands for the whole shot.
 
 ── [3] الحوار الحرفي ──
-بلا حوار — رنّة الهاتف + همهمة الفرن وصوت الشارع
+بلا حوار — رنّة الهاتف + همهمة الفرن + صوت الشارع
 
 ── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
 STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
@@ -167,32 +167,61 @@ Preserve exact faces, hairstyles, clothing, body proportions, location layout, l
 ============================================================
 
 ════════════════════════════════════════════════════════
-دجاجة يما V2.1 — SCENE 04 — البائع يلتقي أخ يوسف (الكرسي الأزرق الحقيقي)
+دجاجة يما V2.2 — SCENE 04A — عماد وحده على الكرسي الأزرق
 برومبت Flow — 8 ثوانٍ — عمودي 9:16
 ════════════════════════════════════════════════════════
 
-الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC04_VENDOR_MEETS_BROTHER.png
-المراجع المرفقة: REF_02_RESTAURANT_OWNER • REF_03_BROTHER • REF_06_BUILDING_ENTRANCE • REF_08_CHICKEN_BAG • REF_11_BLUE_CAMPING_CHAIR
-ترتيب المونتاج: اللقطة 06 من 11 — الكرسي الحقيقي صغير ونِسَب مضبوطة • يوسف غائب • كيس واحد فقط
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC04A_EMAD_ALONE.png
+المراجع المرفقة: REF_03_BROTHER (عماد) • REF_06_BUILDING_ENTRANCE • REF_11_BLUE_CAMPING_CHAIR
+ترتيب المونتاج: اللقطة 06 من 12 — عماد وحده، البائع غير موجود • الكرسي صغير ونِسَب مضبوطة
 
 ── [1] برومبت الصورة (9:16) ──
-Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_02_RESTAURANT_OWNER, REF_03_BROTHER, REF_06_BUILDING_ENTRANCE, REF_08_CHICKEN_BAG, REF_11_BLUE_CAMPING_CHAIR (the exact chair: small low blue folding camping chair, blue fabric, dark blue tubular steel frame).
+Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_03_BROTHER (EMAD, Youssef's brother, about 32, slightly broader face and build, short dark hair, light stubble, medium-grey casual jacket over a simple shirt, dark trousers), REF_06_BUILDING_ENTRANCE, REF_11_BLUE_CAMPING_CHAIR (the exact small low blue folding camping chair).
 
-Outside the same building entrance, early afternoon, in front of the door without blocking the passage. The BROTHER SITS on that exact small blue folding camping chair placed on the pavement beside the building door. The chair is SMALL and LOW - seat about 35 cm above the ground - so the seated brother's knees are clearly higher than his hips, leaning back slightly, holding a smartphone in both hands and looking down at the screen, fully focused.
+Early afternoon outside the same building entrance. EMAD sits ALONE on that exact small blue folding camping chair on the pavement beside the building door, not blocking the passage. The chair is SMALL and LOW - seat about 35 cm above the ground - his knees clearly higher than his hips, leaning back comfortably, both hands holding a smartphone, looking down at the screen, completely absorbed.
 
-The VENDOR stands to the left in front of him holding out the second plain chicken food bag toward him with one hand, calm and discreet.
-
-CRITICAL PROPORTIONS: the chair is correctly small relative to human bodies - no oversized chair, no giant furniture; the standing vendor is clearly taller than the seated brother; both men have realistic adult proportions and the chair matches the reference exactly. Same door, plaster wall, pavement and neighbourhood atmosphere.
-
-YOUSSEF IS NOT in the frame. Only ONE chicken bag in frame. Early-afternoon daylight, documentary-cinema photography, natural film grain, real skin texture. Vertical 9:16: door and wall upper half, seated brother on the small blue chair with the vendor standing over him in the lower half. No text, no logos, no other people, no watermark.
+NOBODY ELSE in the frame - no vendor, no Youssef, no passers-by. The doorway behind him is empty. Only one man, one small blue chair and the entrance. Realistic adult proportions, feet flat on the pavement, nothing floating - a lightweight camping chair, not furniture. Early-afternoon daylight with soft shadows. Vertical 9:16: door and wall upper half, seated man on the small chair lower half, empty space on his left where someone could later stand. Documentary-cinema photography, natural film grain, real skin texture. No text, no logos, no watermark.
 
 ── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
-Use the generated SC04 image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
-The brother is seated on the small blue camping chair looking at his phone. The vendor takes a small step forward, extends the second chicken bag toward him and says in natural Algerian Darija: «خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»
-The brother looks up from his phone, slightly surprised, lowers the phone onto his lap with one hand and takes the bag with the other, nodding - he believes Youssef sent it. Only the vendor speaks. The vendor explains nothing more and never reveals the truth. NO other person in frame, no Youssef. The chair stays the same small blue folding chair in every frame. Natural neighbourhood ambience, no music.
+Use the generated SC04A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+Emad sits alone on the small blue folding camping chair, scrolling slowly on his smartphone, both hands on the phone, eyes on the screen, relaxed everyday posture. He does not look up. NO dialogue - mouth closed. Quiet neighbourhood ambience only (distant street sounds, a light breeze), no music. Nobody enters the frame. The chair never moves or changes size, the door and wall stay identical.
 
 ── [3] الحوار الحرفي ──
-«خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»  —  البائع فقط (الأخ يستمع ثم يأخذ الكيس)
+بلا حوار — صوت الحومة فقط (يمرّر تليفونه)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+============================================================
+
+════════════════════════════════════════════════════════
+دجاجة يما V2.2 — SCENE 04B — البائع يظهر بجنب عماد ويسلّمه الكيس
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC04B_VENDOR_WITH_EMAD.png
+المراجع المرفقة: SC04A_EMAD_ALONE (الوضعية — أساس) • REF_02_RESTAURANT_OWNER • REF_08_CHICKEN_BAG
+ترتيب المونتاج: اللقطة 07 من 12 — نفس لقطة SC04A بالضبط + البائع فقط • كيس واحد • يوسف غائب
+
+── [1] برومبت الصورة (9:16) ──
+LOCKED CONTINUITY COMPOSITE. SC04A_EMAD_ALONE is the absolute reference for framing, chair, pose and location; REF_02_RESTAURANT_OWNER is the vendor; REF_08_CHICKEN_BAG is the plain bag.
+
+RULE: keep SC04A exactly as it is - the building door, plaster wall, pavement, the small low blue folding chair with its dark blue steel frame, Emad's body, clothes, posture, seat position, his smartphone in both hands and his gaze down at the screen, the daylight and shadow direction stay identical, nothing shifts or is re-scaled, camera does not move, chair is not enlarged.
+
+ADD ONLY ONE THING: the VENDOR standing to the LEFT of Emad in the empty space of the frame, at natural conversational distance, leaning very slightly toward him, holding out the second plain chicken food bag toward Emad with one hand, calm, discreet, respectful. Emad is still looking down at his phone at the instant before he notices him.
+
+Physically correct scale: the standing vendor clearly taller than the seated Emad, feet on the same pavement plane, the bag reaches Emad's chest height, nothing floats. NO Youssef, no other people, no other chair, only ONE bag. Same early-afternoon daylight. Vertical 9:16 identical to SC04A. Documentary-cinema photography, natural film grain. No text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC04B image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+Emad is seated on the small blue camping chair looking at his phone. The vendor takes a small step forward, extends the second chicken bag toward him and says in natural Algerian Darija: «خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»
+Emad looks up from his phone, slightly surprised, lowers the phone onto his lap with one hand and takes the bag with the other, nodding - he believes Youssef sent it. Only the vendor speaks and he explains nothing more. NO Youssef in frame, no other people, one bag only, the small blue chair never changes size or position. Natural neighbourhood ambience, no music.
+
+── [3] الحوار الحرفي ──
+البائع: «خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»  —  عماد يستمع ثم يأخذ الكيس
 
 ── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
 STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK

@@ -1,0 +1,31 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2.2 — SCENE 04B — البائع يظهر بجنب عماد ويسلّمه الكيس
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC04B_VENDOR_WITH_EMAD.png
+المراجع المرفقة: SC04A_EMAD_ALONE (الوضعية — أساس) • REF_02_RESTAURANT_OWNER • REF_08_CHICKEN_BAG
+ترتيب المونتاج: اللقطة 07 من 12 — نفس لقطة SC04A بالضبط + البائع فقط • كيس واحد • يوسف غائب
+
+── [1] برومبت الصورة (9:16) ──
+LOCKED CONTINUITY COMPOSITE. SC04A_EMAD_ALONE is the absolute reference for framing, chair, pose and location; REF_02_RESTAURANT_OWNER is the vendor; REF_08_CHICKEN_BAG is the plain bag.
+
+RULE: keep SC04A exactly as it is - the building door, plaster wall, pavement, the small low blue folding chair with its dark blue steel frame, Emad's body, clothes, posture, seat position, his smartphone in both hands and his gaze down at the screen, the daylight and shadow direction stay identical, nothing shifts or is re-scaled, camera does not move, chair is not enlarged.
+
+ADD ONLY ONE THING: the VENDOR standing to the LEFT of Emad in the empty space of the frame, at natural conversational distance, leaning very slightly toward him, holding out the second plain chicken food bag toward Emad with one hand, calm, discreet, respectful. Emad is still looking down at his phone at the instant before he notices him.
+
+Physically correct scale: the standing vendor clearly taller than the seated Emad, feet on the same pavement plane, the bag reaches Emad's chest height, nothing floats. NO Youssef, no other people, no other chair, only ONE bag. Same early-afternoon daylight. Vertical 9:16 identical to SC04A. Documentary-cinema photography, natural film grain. No text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC04B image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+Emad is seated on the small blue camping chair looking at his phone. The vendor takes a small step forward, extends the second chicken bag toward him and says in natural Algerian Darija: «خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»
+Emad looks up from his phone, slightly surprised, lowers the phone onto his lap with one hand and takes the bag with the other, nodding - he believes Youssef sent it. Only the vendor speaks and he explains nothing more. NO Youssef in frame, no other people, one bag only, the small blue chair never changes size or position. Natural neighbourhood ambience, no music.
+
+── [3] الحوار الحرفي ──
+البائع: «خويا، هذي الدجاجة طلّعها ليماك، راه بعثها يوسف.»  —  عماد يستمع ثم يأخذ الكيس
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.

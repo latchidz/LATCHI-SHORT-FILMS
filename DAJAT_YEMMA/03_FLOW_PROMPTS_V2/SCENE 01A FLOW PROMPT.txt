@@ -1,28 +1,28 @@
 ════════════════════════════════════════════════════════
-دجاجة يما V2.1 — SCENE 01A — الافتتاح — السلام عليكم وسؤال الثمن
+دجاجة يما V2.2 — SCENE 01A — الافتتاح — السلام والثمن (قفل على المرجع الفارغ)
 برومبت Flow — 8 ثوانٍ — عمودي 9:16
 ════════════════════════════════════════════════════════
 
 الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC01A_GREETING_PRICE.png
-المراجع المرفقة: REF_01_YOUSSEF • REF_09_SON • REF_10_OUTDOOR_CHICKEN_POINT • REF_02_RESTAURANT_OWNER
-ترتيب المونتاج: اللقطة 01 من 11 — بلا هاتف وبلا كيس • الابن صامت
+المراجع المرفقة: REF_10_OUTDOOR_CHICKEN_POINT (فارغ — القفل المكاني) • REF_01_YOUSSEF • REF_09_SON • REF_02_RESTAURANT_OWNER
+ترتيب المونتاج: اللقطة 01 من 12 — بلا هاتف وبلا كيس • الفرن والكونتوار مطابقان للمرجع الفارغ 100%
 
 ── [1] برومبت الصورة (9:16) ──
-Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_01_YOUSSEF, REF_09_SON, REF_10_OUTDOOR_CHICKEN_POINT, REF_02_RESTAURANT_OWNER.
+LOCKED LOCATION COMPOSITE. REF_10_OUTDOOR_CHICKEN_POINT is the EMPTY MASTER PLATE of the outdoor roast-chicken point of sale and the absolute spatial reference. REF_01_YOUSSEF, REF_09_SON, REF_02_RESTAURANT_OWNER are the characters.
 
-Late-morning street at the Algerian OUTDOOR roast-chicken stall - the opening shot. The VENDOR stands behind his external counter busy ARRANGING AND ORGANIZING his roasted chickens with both hands among the golden chickens on the rotisserie spits, concentrating on his work. He holds no bag and wears no gloves yet - just arranging his chickens.
+RULE: do NOT move, redesign or rebuild anything of the location. The stainless-steel external counter, its position and edges, the work surface and metal tray, the vertical rotisserie oven with golden chickens and its warm orange glow, the wall shelf with stacked paper bags, the electrical socket, the extractor fan, the left service passage and rolling shutter, the plaster wall, curb and pavement stay identical in position, size, perspective and lighting to the empty plate. Camera identical. Only insert the three people.
 
-YOUSSEF stands on the customer side facing the vendor directly, calm and polite, about to greet him and ask the price. HIS HANDS ARE BOTH EMPTY - absolutely NO PHONE in his hand or near his ear, no bag. His young son stands right beside him, slightly behind his shoulder, looking up at the vendor and the golden chickens.
+INSERT: the VENDOR behind the counter at his working place, leaning slightly toward the oven, arranging the roasted golden chickens with both hands (no gloves, no bag). YOUSSEF on the customer side facing him, calm and polite, both hands EMPTY - absolutely NO phone. His SON beside him slightly behind his shoulder looking up at the oven.
 
-NO chicken bag and NO phone anywhere in the frame. No wife, no women, no other customers. Natural late-morning daylight with warm golden oven light, real street texture, documentary-cinema photography, natural film grain. Vertical 9:16: oven and arranging hands upper half, Youssef and son lower third facing the vendor. No text, no logos, no watermark.
+Physically correct scale (counter at adults' waist level, nothing floating). NO bag and NO phone in frame. No other people. Same daylight and oven glow. Vertical 9:16. Documentary-cinema photography, natural film grain. No text, no logos, no watermark.
 
 ── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
-Use the generated SC01A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
-Short natural exchange, no theatrical acting, authentic Algerian Darija:
+Use the generated SC01A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement, the location grid (counter, oven, shelf, wall) never shifts by even a pixel.
+Short natural exchange in authentic Algerian Darija, no theatrical acting:
 - Youssef greets politely: «السلام عليكم.»
-- The vendor, still arranging his chickens, answers without stopping his work: «وعليكم السلام، الدجاجة ألف دينار.»
+- The vendor, still arranging his chickens without turning fully: «وعليكم السلام، الدجاجة ألف دينار.»
 - Youssef nods calmly: «خلاص.»
-Only these three short lines. Everyone else silent with mouth closed. The son says nothing. Quiet street ambience and low oven hum, no music. NO bag appears, NO phone appears in this shot. Preserve faces, clothes, counter and oven.
+Only these three short lines; the son is silent with mouth closed. Quiet street ambience and low oven hum, no music. NO bag appears, NO phone appears in this shot.
 
 ── [3] الحوار الحرفي ──
 يوسف: «السلام عليكم.»  →  البائع: «وعليكم السلام، الدجاجة ألف دينار.»  →  يوسف: «خلاص.»

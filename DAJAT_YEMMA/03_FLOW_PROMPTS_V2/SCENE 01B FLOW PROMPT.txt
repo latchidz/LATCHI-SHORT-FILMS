@@ -1,27 +1,27 @@
 ════════════════════════════════════════════════════════
-دجاجة يما V2.1 — SCENE 01B — البائع يجبد الدجاجة بقفازات + يوسف يجبد التليفون
+دجاجة يما V2.2 — SCENE 01B — البائع بقفازات + يوسف يجبد التليفون
 برومبت Flow — 8 ثوانٍ — عمودي 9:16
 ════════════════════════════════════════════════════════
 
 الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC01B_GLOVES_AND_PHONE.png
-المراجع المرفقة: REF_01_YOUSSEF • REF_09_SON • REF_10_OUTDOOR_CHICKEN_POINT • REF_02_RESTAURANT_OWNER
-ترتيب المونتاج: اللقطة 02 من 11 — قفازات حرارية إجبارية • بلا كيس • الهاتف نصفه خارج الجيب
+المراجع المرفقة: REF_10_OUTDOOR_CHICKEN_POINT (فارغ) • SC01A (الوضعيات) • REF_01_YOUSSEF • REF_09_SON • REF_02_RESTAURANT_OWNER
+ترتيب المونتاج: اللقطة 02 من 12 — قفازات حرارية إجبارية • بلا كيس • الهاتف نصفه خارج الجيب
 
 ── [1] برومبت الصورة (9:16) ──
-Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_01_YOUSSEF, REF_09_SON, REF_10_OUTDOOR_CHICKEN_POINT, REF_02_RESTAURANT_OWNER.
+LOCKED LOCATION + CONTINUITY COMPOSITE. The empty master plate REF_10_OUTDOOR_CHICKEN_POINT and the previous shot SC01A are the absolute references for place and positions.
 
-Same outdoor stall, same late-morning light, the very next moment. The VENDOR reaches into the rotisserie oven and lifts out ONE whole golden roasted chicken WEARING THICK HEAT-RESISTANT PROTECTIVE GLOVES (dark heat-proof oven mitts covering hand and wrist) so he does not burn himself; light steam rises from the chicken. His face is focused and professional.
+RULE: the location stays IDENTICAL to the empty plate and to SC01A - same counter and edges, same work surface and tray, same rotisserie oven with golden chickens and warm glow, same wall shelf, socket, extractor fan, left passage and shutter, same wall, curb, pavement, same camera and framing, same light. Nothing added, removed or shifted. The characters are in EXACTLY the same positions as SC01A, only their next action changes.
 
-On the customer side, YOUSSEF is sliding his right hand INTO HIS TROUSERS POCKET to pull out his smartphone - the phone is just emerging from the pocket, half visible, he has NOT raised it to his ear yet. His eyes are still on the vendor. His young son stands beside him looking up at the oven.
+ACTIONS: the VENDOR reaches his right arm INTO the rotisserie oven and lifts out ONE whole golden chicken, WEARING THICK DARK HEAT-RESISTANT OVEN GLOVES covering hand and wrist, light steam rising. YOUSSEF has just slid his right hand into his trousers pocket and is pulling out his smartphone - only half out of the pocket, in his fingers, NOT yet raised to his ear, eyes still on the vendor. The SON stays beside him looking up at the oven.
 
-NO food bag anywhere in the frame. No other customers, no wife. Everyone in exactly their reference clothes. Warm oven glow on the gloves and face, natural street daylight, documentary-cinema photography, natural film grain. Vertical 9:16: oven and gloved hand with the chicken upper half, Youssef pulling his phone in the lower third. No text, no logos, no watermark.
+Physically correct scale, nothing floating. NO food bag anywhere. No other people, no women. Vertical 9:16. Documentary-cinema photography, natural film grain. No text, no logos, no watermark.
 
 ── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
-Use the generated SC01B image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement.
-The vendor pulls the golden chicken out of the rotisserie oven with his heat-resistant gloves, turns and lowers it toward his clean working surface. At the same moment Youssef's phone starts ringing in his pocket: he finishes pulling it out and glances at the screen. NO dialogue at all - every mouth stays closed in this shot. Oven hum, glove fabric, quiet street ambience, a simple phone ringtone, no music. NO bag in this shot. Keep the gloves on the vendor's hands for the whole shot.
+Use the generated SC01B image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement, no zoom, the location grid never shifts.
+The vendor pulls the golden chicken out of the rotisserie oven with his heat-resistant gloves, turns and lowers it toward his clean working surface. At the same instant Youssef's phone starts ringing in his pocket: he finishes pulling it out and glances at the screen. NO dialogue - every mouth stays closed. Oven hum, glove fabric, quiet street ambience, a simple phone ringtone, no music. NO bag in this shot. The gloves stay on the vendor's hands for the whole shot.
 
 ── [3] الحوار الحرفي ──
-بلا حوار — رنّة الهاتف + همهمة الفرن وصوت الشارع
+بلا حوار — رنّة الهاتف + همهمة الفرن + صوت الشارع
 
 ── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
 STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
