@@ -1,0 +1,34 @@
+════════════════════════════════════════════════════════
+دجاجة يما V2.1 — SCENE 01A — الافتتاح — السلام عليكم وسؤال الثمن
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES_V2/SC01A_GREETING_PRICE.png
+المراجع المرفقة: REF_01_YOUSSEF • REF_09_SON • REF_10_OUTDOOR_CHICKEN_POINT • REF_02_RESTAURANT_OWNER
+ترتيب المونتاج: اللقطة 01 من 11 — بلا هاتف وبلا كيس • الابن صامت
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait. Strict references: REF_01_YOUSSEF, REF_09_SON, REF_10_OUTDOOR_CHICKEN_POINT, REF_02_RESTAURANT_OWNER.
+
+Late-morning street at the Algerian OUTDOOR roast-chicken stall - the opening shot. The VENDOR stands behind his external counter busy ARRANGING AND ORGANIZING his roasted chickens with both hands among the golden chickens on the rotisserie spits, concentrating on his work. He holds no bag and wears no gloves yet - just arranging his chickens.
+
+YOUSSEF stands on the customer side facing the vendor directly, calm and polite, about to greet him and ask the price. HIS HANDS ARE BOTH EMPTY - absolutely NO PHONE in his hand or near his ear, no bag. His young son stands right beside him, slightly behind his shoulder, looking up at the vendor and the golden chickens.
+
+NO chicken bag and NO phone anywhere in the frame. No wife, no women, no other customers. Natural late-morning daylight with warm golden oven light, real street texture, documentary-cinema photography, natural film grain. Vertical 9:16: oven and arranging hands upper half, Youssef and son lower third facing the vendor. No text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC01A image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked, no camera movement.
+Short natural exchange, no theatrical acting, authentic Algerian Darija:
+- Youssef greets politely: «السلام عليكم.»
+- The vendor, still arranging his chickens, answers without stopping his work: «وعليكم السلام، الدجاجة ألف دينار.»
+- Youssef nods calmly: «خلاص.»
+Only these three short lines. Everyone else silent with mouth closed. The son says nothing. Quiet street ambience and low oven hum, no music. NO bag appears, NO phone appears in this shot. Preserve faces, clothes, counter and oven.
+
+── [3] الحوار الحرفي ──
+يوسف: «السلام عليكم.»  →  البائع: «وعليكم السلام، الدجاجة ألف دينار.»  →  يوسف: «خلاص.»
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
