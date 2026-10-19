@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════════
+دجاجة يما — SCENE 01 — يوسف يطلب الدجاجة
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES/SC01_YOUSSEF_ORDERS.png
+المراجع المرفقة إجبارياً: REF_01_YOUSSEF.png • REF_05_RESTAURANT.png
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait orientation (tall vertical). Use REF_01_YOUSSEF as the strict identity reference and REF_05_RESTAURANT as the strict location reference.
+
+Medium-wide vertical shot inside the same small Algerian chicken takeaway restaurant. Youssef stands on the customer side of the counter in the lower-middle of the frame, facing the restaurant owner behind the counter, both fully visible in the tall vertical composition. Youssef wears exactly his reference clothes: dark navy-charcoal casual jacket over a plain light shirt, dark trousers. The owner stands behind the counter in his dark apron, ready to serve. A whole roasted chicken is visible in the stainless-steel food display. Natural daylight from the storefront, believable everyday atmosphere. Vertical 9:16 framing with headroom above and the counter surface at the bottom third. No text, logos, extra customers, changed faces, no watermark. Realistic documentary-cinema photography, natural film grain.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC01 image as the exact first frame. One stable medium-wide vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement, tripod locked.
+Youssef makes a small polite gesture toward the chicken with his near hand and says in natural Algerian Darija: «خويا، عطيني دجاجة كاملة من فضلك.»
+The owner listens with his mouth closed and gives one small nod at the end. Only Youssef speaks. Quiet restaurant ambience, no music. Preserve faces, clothing, counter and food.
+
+── [3] الحوار الحرفي ──
+«خويا، عطيني دجاجة كاملة من فضلك.»  —  يوسف (صاحب المطعم يستمع وفمه مغلق)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظة ──
+لا موسيقى • لا نصوص/شعارات • قاعدة 180° • لا قلب للصورة • لا حركة كاميرا غير مطلوبة.

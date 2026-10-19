@@ -1,0 +1,28 @@
+════════════════════════════════════════════════════════
+دجاجة يما — SCENE 05 — يوسف يدخل العمارة
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES/SC05_YOUSSEF_ENTERS.png
+المراجع المرفقة إجبارياً: REF_01_YOUSSEF.png • REF_03_BROTHER.png • REF_06_BUILDING_ENTRANCE.png
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait orientation (tall vertical). Strict references: REF_01_YOUSSEF, REF_03_BROTHER, REF_06_BUILDING_ENTRANCE.
+
+Wide vertical shot outside that exact same apartment entrance. Youssef, in his dark navy-charcoal jacket and light shirt, carries the first plain chicken takeaway bag and walks through the entrance doorway. His brother stands to one side near the entrance in his medium-grey jacket over a simple shirt, giving a brief ordinary greeting and a small nod. Both identities, faces and clothing clearly readable and distinct. Building door, plaster wall and pavement exactly as the location reference. Natural afternoon daylight. Vertical 9:16 showing the full height of the entrance with the two men in the middle of the frame. Realistic documentary-cinema photography, natural film grain. No bag exchange, no other people, no text, no logos, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC05 image as the exact first frame. One stable wide vertical shot, 9:16 portrait, exactly 8 seconds. Tripod locked.
+Youssef approaches and enters the building carrying the first chicken bag. His brother gives a brief ordinary greeting with a small nod; NO spoken dialogue (mouths closed). Youssef continues inside and the brother stays near the entrance. No bag exchange of any kind. Natural street ambience, no music. Preserve the building, the door and the direction of movement (Youssef always moving toward the entrance, never mirrored).
+
+── [3] الحوار الحرفي ──
+بلا حوار — صوت الشارع فقط (تحية بنظرة وإيماءة رأس)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظة ──
+لا موسيقى • لا نصوص/شعارات • قاعدة 180° • لا قلب للصورة • لا حركة كاميرا غير مطلوبة.

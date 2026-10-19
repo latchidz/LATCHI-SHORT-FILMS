@@ -1,0 +1,28 @@
+════════════════════════════════════════════════════════
+دجاجة يما — SCENE 04 — صاحب المطعم يسمع
+برومبت Flow — 8 ثوانٍ — عمودي 9:16
+════════════════════════════════════════════════════════
+
+الصورة المعتمدة (الإطار الأول): 02_SCENES/SC04_OWNER_OVERHEARS.png
+المراجع المرفقة إجبارياً: REF_02_RESTAURANT_OWNER.png • REF_05_RESTAURANT.png
+
+── [1] برومبت الصورة (9:16) ──
+Photorealistic live-action vertical cinematic frame, 9:16 portrait orientation (tall vertical). Strict references: REF_02_RESTAURANT_OWNER and REF_05_RESTAURANT.
+
+Medium vertical shot from inside the restaurant looking toward the entrance doorway. The owner stands near his counter, the doorway visible behind him, having just overheard the conversation outside. He looks toward the doorway with a restrained, saddened, thoughtful expression — compassionate, not angry, not mocking. He does not move to confront anyone; his hands rest still on the counter. Natural daylight from the storefront, quiet restaurant, stainless-steel surfaces. Vertical 9:16 composition with his full upper body and face clearly visible in the center. Realistic documentary-cinema photography, natural film grain. No text, no logos, no extra customers, no watermark.
+
+── [2] برومبت فيديو Google Flow — 8 ثوانٍ ──
+Use the generated SC04 image as the exact first frame. One stable vertical shot, 9:16 portrait, exactly 8 seconds. No camera movement.
+The owner pauses, looks toward the doorway, lowers his eyes thoughtfully, then quietly turns to prepare a second chicken bag on the counter. NO dialogue — mouth closed. Subtle restaurant ambience and bag rustle only. His expression stays compassionate, never angry or mocking. Do NOT show any confrontation, chase or gesture toward the street.
+
+── [3] الحوار الحرفي ──
+بلا حوار — صوت المكان فقط (تعابير صامتة)
+
+── قفل الصوت والاستمرارية (يُلصق في نهاية كل برومبت فيديو) ──
+STRICT ALGERIAN DARIJA AUDIO AND CONTINUITY LOCK
+Speak only the exact assigned dialogue in authentic natural Algerian Darija. Do not translate, paraphrase, invent, repeat, or omit words. Only the assigned speaker moves their lips; listeners keep mouths naturally closed. No overlapping speech, no extra voices, no narration, no robotic pronunciation, no broken syllables, no artificial pauses inside words. Use a moderate natural pace; prioritize complete intelligible words over speed. Keep ambience low during dialogue. No background music, clipping, crackling, metallic distortion, or artificial echo. If the voice is broken, render the video with ambience only and add dialogue separately during editing.
+
+Preserve exact faces, hairstyles, clothing, body proportions, location layout, lighting direction and props. No mirroring, morphing, teleportation, unexpected objects, or unrequested camera movement. Vertical portrait 9:16, one continuous shot, exactly 8 seconds.
+
+── ملاحظة ──
+لا موسيقى • لا نصوص/شعارات • قاعدة 180° • لا قلب للصورة • لا حركة كاميرا غير مطلوبة.
