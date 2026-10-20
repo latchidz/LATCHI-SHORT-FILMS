@@ -1,0 +1,29 @@
+VIDEO PROMPT — SC06 (SC06_A ← SC06_B)
+============================================================
+FIRST FRAME / LAST FRAME stills are in 02_SCENES/
+Dialogue lines below are the exact lines from section 6 of the memo.
+
+Create a photorealistic live-action scene for the Algerian short film “Al-Tawba”. Duration exactly 10 seconds. Vertical 9:16 only (1080x1920).
+
+FRAMES: Use the provided FIRST FRAME (SC06_A) as the exact opening frame and the provided LAST FRAME (SC06_B) as the exact closing frame. Keep faces, clothes, location layout, props and light direction identical to the frames.
+
+CONTINUITY: AMIN: 24-year-old Algerian young man, pale olive skin, slightly gaunt cheeks, dark messy wavy hair, patchy five-day stubble, dark circles under sorrowful brown eyes, oversized faded black hoodie with the hood DOWN over a dark grey T-shirt, dark charcoal washed jeans, worn scuffed sneakers (street). In the mosque: the same hoodie with the sleeves pushed above the elbows, barefoot. YOUCEF: 27-year-old Algerian young man, warm medium-olive skin, full neatly trimmed black beard, short neat black hair, gentle brown eyes, calm compassionate face, a clean cream-beige Algerian cotton qamis (long, light embroidery at the collar) over simple trousers, leather sandals in the street, barefoot in the mosque. The tiled wall, four chrome faucets, stone bench and drain trough stay exactly as in the frames. Youcef sits at the left faucet, Amin at the next faucet on his right. Amin's hoodie sleeves are DOWN at the start and he pushes them up toward his elbows at the end.
+
+ACTION AND TIMING:
+- 0.0-3.0s: Youcef rubs his hands under the clear running water, washing them carefully.
+- 3.0-8.2s: Youcef turns his head toward Amin with water droplets glistening in his beard and speaks his line with a calm teaching smile, showing three fingers of his wet right hand to mean 'three times'.
+- 8.2-10.0s: Amin nods slowly with complete attention and begins pushing the sleeves of his black hoodie up toward his elbows.
+
+DIALOGUE:
+يوسف: «بِسْمِ اللهْ... نَبْدَاوْ بِلِيدِينْ، تْلَاتْ مَرَّاتْ. هَاذِي سُنَّةْ النَّبِيّْ، صَلَّى اللهُ عَلَيْهِ وَسَلَّمْ.»
+Natural Algerian Darja with an urban Algerian accent, spoken by native Algerian voices (the Quranic and prophetic phrases in clear classical Arabic). Never Egyptian, Gulf or Syrian. Pronounce the words exactly as written, including the sukun marks, without adding, translating or rewriting words. Only the named speaker moves his lips; every other face stays still. No overlapping lines.
+
+CAMERA: Locked-off tripod shot with at most a very slow, barely visible push-in (about 3 percent) over the 10 seconds. No cuts, no pans, no handheld shake, no zoom jumps, no reframing. Faces and hands always stay inside the frame.
+
+PERFORMANCE: Subtle natural micro-expressions, real blinks, believable breathing, realistic hands with correct fingers, natural weight and timing of body movement. Restrained emotion, nothing theatrical.
+
+SOUND (diegetic only): A soothing, crisp, continuous trickle of running water on stone, wet hands rubbing at about 1.0-2.5s, soft room acoustics with a faint echo, the calm voice. Dialogue clearly in front of the ambience.
+
+END FRAME: Youcef turned toward Amin with three fingers raised, Amin nodding and pushing up his sleeves, exactly the LAST FRAME. No gelatinous or floating water, no change in water flow rate.
+
+NEGATIVE: no horizontal or square format; no cuts, no pans, no handheld shake, no fast zooms; no morphing, no identity drift, no new people, no extra fingers, no warped hands, no distorted faces; no objects teleporting, duplicating or vanishing (the dark glass bottle never changes shape and never spills a puddle); no readable text, no subtitles, no logos, no watermark; NO MUSIC OF ANY KIND, no score, no humming, no choir; no melodrama.
