@@ -1,0 +1,29 @@
+VIDEO PROMPT — SC02 (SC02_A ← SC02_B)
+============================================================
+FIRST FRAME / LAST FRAME stills are in 02_SCENES/
+Dialogue lines below are the exact lines from section 6 of the memo.
+
+Create a photorealistic live-action scene for the Algerian short film “Al-Tawba”. Duration exactly 10 seconds. Vertical 9:16 only (1080x1920).
+
+FRAMES: Use the provided FIRST FRAME (SC02_A) as the exact opening frame and the provided LAST FRAME (SC02_B) as the exact closing frame. Keep faces, clothes, location layout, props and light direction identical to the frames.
+
+CONTINUITY: AMIN: 24-year-old Algerian young man, pale olive skin, slightly gaunt cheeks, dark messy wavy hair, patchy five-day stubble, dark circles under sorrowful brown eyes, oversized faded black hoodie with the hood DOWN over a dark grey T-shirt, dark charcoal washed jeans, worn scuffed sneakers (street). In the mosque: the same hoodie with the sleeves pushed above the elbows, barefoot. YOUCEF: 27-year-old Algerian young man, warm medium-olive skin, full neatly trimmed black beard, short neat black hair, gentle brown eyes, calm compassionate face, a clean cream-beige Algerian cotton qamis (long, light embroidery at the collar) over simple trousers, leather sandals in the street, barefoot in the mosque. The alley, closed shutter, curb, single streetlamp, puddles and the tiny glowing arched doorway on the right stay exactly as in the frames. The bottle is a dark glass bottle with NO label. Youcef enters from the LEFT edge walking toward the RIGHT; Amin stays seated on the curb with the bottle in his right hand.
+
+ACTION AND TIMING:
+- 0.0-3.0s: Youcef walks into frame from the left with measured dignified steps, notices Amin on the curb, slows down and stops about 1.2 m in front of him.
+- 3.0-6.5s: Youcef bends slightly at the waist and extends his open right hand toward Amin with a warm brotherly smile. He speaks his greeting between 4.0s and 6.0s.
+- 6.5-10.0s: Amin flinches slightly, slowly lifts his chin, his eyes go to Youcef's hand and then up to Youcef's face, frozen between disbelief and embarrassment, lips slightly parted, no words.
+
+DIALOGUE:
+يوسف: «السَّلَامُ عَلَيْكُمْ يَا خُويَا... وَاشْ رَاكْ؟»
+Natural Algerian Darja with an urban Algerian accent, spoken by native Algerian voices (the Quranic and prophetic phrases in clear classical Arabic). Never Egyptian, Gulf or Syrian. Pronounce the words exactly as written, including the sukun marks, without adding, translating or rewriting words. Only the named speaker moves his lips; every other face stays still. No overlapping lines.
+
+CAMERA: Locked-off tripod shot with at most a very slow, barely visible push-in (about 3 percent) over the 10 seconds. No cuts, no pans, no handheld shake, no zoom jumps, no reframing. Faces and hands always stay inside the frame.
+
+PERFORMANCE: Subtle natural micro-expressions, real blinks, believable breathing, realistic hands with correct fingers, natural weight and timing of body movement. Restrained emotion, nothing theatrical.
+
+SOUND (diegetic only): Soft footsteps of leather sandals on damp asphalt stopping at about 2.8s, the rustle of cotton cloth, a clear warm greeting with natural street reverb, the quiet night hum. Dialogue clearly in front of the ambience.
+
+END FRAME: Youcef bent slightly with his right hand extended, Amin looking up with startled eyes, exactly the LAST FRAME.
+
+NEGATIVE: no horizontal or square format; no cuts, no pans, no handheld shake, no fast zooms; no morphing, no identity drift, no new people, no extra fingers, no warped hands, no distorted faces; no objects teleporting, duplicating or vanishing (the dark glass bottle never changes shape and never spills a puddle); no readable text, no subtitles, no logos, no watermark; NO MUSIC OF ANY KIND, no score, no humming, no choir; no melodrama.
