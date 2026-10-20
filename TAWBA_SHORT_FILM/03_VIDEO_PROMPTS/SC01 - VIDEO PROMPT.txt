@@ -1,0 +1,29 @@
+VIDEO PROMPT — SC01 (الإطار الأول فقط: SC01_A)
+============================================================
+FIRST FRAME / LAST FRAME stills are in 02_SCENES/
+Dialogue lines below are the exact lines from section 6 of the memo.
+
+Create a photorealistic live-action scene for the Algerian short film “Al-Tawba”. Duration exactly 10 seconds. Vertical 9:16 only (1080x1920).
+
+FRAMES: Use the provided FIRST FRAME as the exact opening frame (there is no last frame; follow the action below). Keep faces, clothes, location layout, props and light direction identical to the frames.
+
+CONTINUITY: AMIN: 24-year-old Algerian young man, pale olive skin, slightly gaunt cheeks, dark messy wavy hair, patchy five-day stubble, dark circles under sorrowful brown eyes, oversized faded black hoodie with the hood DOWN over a dark grey T-shirt, dark charcoal washed jeans, worn scuffed sneakers (street). In the mosque: the same hoodie with the sleeves pushed above the elbows, barefoot. The alley, closed shutter, curb, single streetlamp, puddles and the tiny glowing arched doorway on the right stay exactly as in the frames. The bottle is a dark glass bottle with NO label.
+
+ACTION AND TIMING:
+- 0.0-3.5s: Amin sits almost frozen on the curb, staring blankly at the wet asphalt between his sneakers, the unlabeled dark glass bottle loose in his right hand, its base resting on the pavement. His chest rises with one slow, heavy, tired breath.
+- 3.5-7.0s: He blinks slowly; a single tear wells in his left eye; his fingers tremble slightly around the neck of the bottle; he lowers his head a little more and closes his eyes in deep self-reproach.
+- 7.0-10.0s: A cold breeze lightly stirs his hair and hoodie. He swallows hard, his jaw tightens, and he stays motionless, overwhelmed.
+
+DIALOGUE:
+No dialogue. Total silence from the character except heavy trembling breath through the nose around 4.0-5.5s.
+Natural Algerian Darja with an urban Algerian accent, spoken by native Algerian voices (the Quranic and prophetic phrases in clear classical Arabic). Never Egyptian, Gulf or Syrian. Pronounce the words exactly as written, including the sukun marks, without adding, translating or rewriting words. Only the named speaker moves his lips; every other face stays still. No overlapping lines.
+
+CAMERA: Locked-off tripod shot with at most a very slow, barely visible push-in (about 3 percent) over the 10 seconds. No cuts, no pans, no handheld shake, no zoom jumps, no reframing. Faces and hands always stay inside the frame.
+
+PERFORMANCE: Subtle natural micro-expressions, real blinks, believable breathing, realistic hands with correct fingers, natural weight and timing of body movement. Restrained emotion, nothing theatrical.
+
+SOUND (diegetic only): Cold night wind softly through the alley, a faint distant tire hiss on wet road, one small glass-on-concrete clink as the bottle touches the curb at about 2.0s, a heavy low sigh. Dialogue clearly in front of the ambience.
+
+END FRAME: Amin still seated, head lower, eyes closed, bottle still in his right hand.
+
+NEGATIVE: no horizontal or square format; no cuts, no pans, no handheld shake, no fast zooms; no morphing, no identity drift, no new people, no extra fingers, no warped hands, no distorted faces; no objects teleporting, duplicating or vanishing (the dark glass bottle never changes shape and never spills a puddle); no readable text, no subtitles, no logos, no watermark; NO MUSIC OF ANY KIND, no score, no humming, no choir; no melodrama.
