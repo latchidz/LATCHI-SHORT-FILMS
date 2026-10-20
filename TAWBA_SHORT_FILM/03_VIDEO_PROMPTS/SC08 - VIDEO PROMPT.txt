@@ -1,0 +1,32 @@
+VIDEO PROMPT — SC08 (SC08_A ← SC08_B)
+============================================================
+FIRST FRAME / LAST FRAME stills are in 02_SCENES/
+Dialogue lines below are the exact lines from section 6 of the memo.
+
+Create a photorealistic live-action scene for the Algerian short film “Al-Tawba”. Duration exactly 10 seconds. Vertical 9:16 only (1080x1920).
+
+FRAMES: Use the provided FIRST FRAME (SC08_A) as the exact opening frame and the provided LAST FRAME (SC08_B) as the exact closing frame. Keep faces, clothes, location layout, props and light direction identical to the frames.
+
+CONTINUITY: AMIN: 24-year-old Algerian young man, pale olive skin, slightly gaunt cheeks, dark messy wavy hair, patchy five-day stubble, dark circles under sorrowful brown eyes, oversized faded black hoodie with the hood DOWN over a dark grey T-shirt, dark charcoal washed jeans, worn scuffed sneakers (street). In the mosque: the same hoodie with the sleeves pushed above the elbows, barefoot. YOUCEF: 27-year-old Algerian young man, warm medium-olive skin, full neatly trimmed black beard, short neat black hair, gentle brown eyes, calm compassionate face, a clean cream-beige Algerian cotton qamis (long, light embroidery at the collar) over simple trousers, leather sandals in the street, barefoot in the mosque. The mihrab, minbar, columns, windows, carpet stripes and the position of the two men stay exactly as in the frames. They stay on the same stripe, shoulder to shoulder. The camera is BEHIND the men: Youcef (imam) stays on the LEFT of the frame, Amin on the RIGHT. Positions never swap.
+
+ACTION AND TIMING:
+- 0.0-1.0s: Both stand still facing the qibla.
+- 1.0-3.8s: Youcef turns his head slightly to his right and whispers kind instructions to Amin.
+- 3.8-5.5s: Amin nods with humility and aligns his right shoulder and bare feet with Youcef's. Both lower their eyes to the place of prostration.
+- 5.5-8.5s: Both raise their hands to ear level together for the opening takbir; Youcef says the takbir aloud at 6.0-7.5s.
+- 8.5-10.0s: Both fold the right hand over the left on the chest in complete stillness.
+
+DIALOGUE:
+يوسف (همسًا): «نْصَلُّو رَكْعَتِينْ... تَبْعَنِي بَرْكْ، وَاسْتَحْضَرْ عَظَمَةْ رَبِّي.»
+يوسف (بصوت مسموع ورخيم): «اللهُ أَكْبَرْ.»
+Natural Algerian Darja with an urban Algerian accent, spoken by native Algerian voices (the Quranic and prophetic phrases in clear classical Arabic). Never Egyptian, Gulf or Syrian. Pronounce the words exactly as written, including the sukun marks, without adding, translating or rewriting words. Only the named speaker moves his lips; every other face stays still. No overlapping lines.
+
+CAMERA: Locked-off tripod shot with at most a very slow, barely visible push-in (about 3 percent) over the 10 seconds. No cuts, no pans, no handheld shake, no zoom jumps, no reframing. Faces and hands always stay inside the frame.
+
+PERFORMANCE: Subtle natural micro-expressions, real blinks, believable breathing, realistic hands with correct fingers, natural weight and timing of body movement. Restrained emotion, nothing theatrical.
+
+SOUND (diegetic only): An intimate warm whisper, the soft rustle of cloth as the arms rise, a clear resonant takbir echoing gently in the vaulted hall, the reverent silence of the dawn. Dialogue clearly in front of the ambience.
+
+END FRAME: Both men standing shoulder to shoulder with the right hand over the left on the chest, eyes lowered, exactly the LAST FRAME. No foot sliding, no drifting carpet stripes, no swapped positions.
+
+NEGATIVE: no horizontal or square format; no cuts, no pans, no handheld shake, no fast zooms; no morphing, no identity drift, no new people, no extra fingers, no warped hands, no distorted faces; no objects teleporting, duplicating or vanishing (the dark glass bottle never changes shape and never spills a puddle); no readable text, no subtitles, no logos, no watermark; NO MUSIC OF ANY KIND, no score, no humming, no choir; no melodrama.
