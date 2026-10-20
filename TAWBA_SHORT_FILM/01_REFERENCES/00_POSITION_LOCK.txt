@@ -1,0 +1,108 @@
+TAWBA — POSITION & CONTINUITY LOCK  (current, binding)
+=====================================================
+Last updated: after the client approved the front-camera masters.
+
+--------------------------------------------------------------------
+A) CROSS-FILM ORDER  (never swap, never mirror)
+--------------------------------------------------------------------
+  YOUCEF  = cream-beige Algerian cotton qamis, full black beard
+          -> ALWAYS on the LEFT of frame
+  AMIN    = oversized faded black hoodie, hood down
+          -> ALWAYS on the RIGHT of frame
+
+  This holds in the wudu room, the prayer hall and at the mosque door.
+  If the cream qamis ever appears on the right, the image is WRONG.
+
+--------------------------------------------------------------------
+B) PRAYER HALL  (SC08 - SC10)   master = MASTER_PRAYER_STANDING.png
+--------------------------------------------------------------------
+CAMERA
+  In FRONT of the two men, facing them, ~1.2 m above the carpet,
+  ~3 m away, slightly off-axis. Both fully in frame, head to feet,
+  filling the lower two thirds of the 9:16 frame.
+
+STANCE — they stand as one row
+  - Both BAREFOOT.
+  - Same cream carpet stripe, exactly the same line.
+  - Upper arms and shoulders TOUCHING, no gap.
+  - Heels touching, toes touching, inner edges of the feet in contact.
+  - Same shoulder height, same spine, same head angle. Neither ahead.
+
+HANDS
+  Right forearm folded across the body, left forearm resting over it —
+  arms simply crossed and folded over each other, hands relaxed and
+  partly open.  NOT palm-on-palm.  NOT hand pressed on the back of
+  the other hand.  No clasp, no interlocked fingers.
+
+GAZE
+  Both look down at the place of prostration. NEVER at the lens.
+
+BACKGROUND — must be EMPTY
+  Only the architecture of the mosque behind them:
+  plain whitewashed walls, two or three plain white columns, the green
+  carpet with its cream stripes running back empty, warm pendant lamps
+  on chains, plain high ceiling, cool dawn light, faint dust.
+  NO mihrab. NO minbar. NO books. NO shelf. NO table. NO chairs.
+  NO clock. NO notice board. NO speaker. NO beads. NO furniture.
+  NO calligraphy. NO lettering. NO objects of any kind.
+
+--------------------------------------------------------------------
+C) ABLUTION ROOM  (SC06 - SC07)
+   masters = MASTER_WUDU_TOGETHER.png / MASTER_WUDU_TALKING.png
+--------------------------------------------------------------------
+CAMERA
+  In FRONT of the two men, ~1.1 m above the floor, ~2.5 m away,
+  slightly left of centre. Tiled wall recedes along the LEFT of frame.
+
+SEATING — identical, side by side
+  - Same low stone bench, upper arms and shoulders TOUCHING, no gap.
+  - Hips level, same height, neither leaner forward than the other.
+  - Both BAREFOOT, feet side by side and level on the wet stone.
+  - Both sleeves pushed ABOVE the elbows, at the same point.
+
+ACTION
+  Both perform the SAME step at the SAME moment, mirrored:
+  stage 1 = washing both hands under the water (MASTER_WUDU_TOGETHER)
+  stage 2 = Youcef speaks, turns his head to Amin; Amin turns to him
+            and listens (MASTER_WUDU_TALKING)
+
+WUDU ORDER (Surah al-Ma'idah 5:6 order used by the film)
+  hands -> face -> forearms to the elbows -> wipe the head -> feet
+
+BACKGROUND — must be EMPTY
+  Only the zellige wall, the four chrome taps, the stone bench, the
+  marble trough, the stone floor, the ceiling light, the two wall
+  lamps and faint steam.
+  NO soap. NO bottles. NO buckets. NO towels. NO stools. NO shelves.
+  NO plaques. NO calligraphy. NO furniture. NO objects.
+
+--------------------------------------------------------------------
+D) MOSQUE ENTRANCE  (arrival shot)
+   ref = REF_ENV_MOSQUE_ENTRANCE.png  (approved, tighter framing)
+   still = MASTER_ARRIVAL_MOSQUE.png
+--------------------------------------------------------------------
+  A WIDE OPEN neighbourhood street — NOT the narrow alley.
+  Modest sand-plaster mosque façade, square arched doorway standing
+  open with warm light spilling out, stone step, lit arched windows,
+  small minaret at the right edge.
+  The name band above the door reads exactly:  مسجد عمر بن الخطاب
+  They stand on the pavement IN FRONT of the door — they have arrived,
+  they have NOT gone in. They do not block the doorway or the sign.
+
+--------------------------------------------------------------------
+E) STREET (SC01 - SC05)   ref = REF_ENV_STREET.png
+--------------------------------------------------------------------
+  The narrow alley with the closed roller shutter, the single amber
+  sodium lamp, the raised curb and the distant glowing archway.
+  Youcef enters from the LEFT walking toward the RIGHT.
+  The bottle: plain dark glass, NO label, in Amin's RIGHT hand,
+  it drops only in SC05, and lies on its side afterwards with no pool.
+  Youcef's RIGHT hand goes on Amin's LEFT shoulder.
+
+--------------------------------------------------------------------
+F) HARD RULES (every frame)
+--------------------------------------------------------------------
+  9:16 vertical • live-action realism only • no 3D, no illustration
+  no readable text except the approved mosque name • no logos
+  no watermark • no subtitles • nobody looks into the lens
+  no music anywhere in the film • diegetic sound only
