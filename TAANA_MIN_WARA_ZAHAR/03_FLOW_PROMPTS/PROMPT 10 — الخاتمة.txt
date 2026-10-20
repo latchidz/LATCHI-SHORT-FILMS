@@ -1,0 +1,60 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 10
+الخاتمة
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**Image prompt:**
+Use the exact café master reference and the existing character references. Amine stands beside his chair, calm but hurt, holding his phone and preparing to leave. Reda and Fouad remain seated at the same table, quiet and uncomfortable. The elderly man remains at his separate window-side table. The entrance door is visible in the established direction. Same clothing, same furniture, same cup positions and daylight. Photorealistic cinematic realism, vertical 9:16, restrained moral tone, no text.
+
+**VIDEO PROMPT:**
+Create an 8–10 second cinematic vertical 9:16 ending. Amine calmly picks up his phone, rises from the chair and says in Algerian Darija: “الصاحب الصح ما يهدرش عليك من وراك… وإذا عندو كلمة، يقولها قدامك.” He turns and walks toward the same entrance door. Reda and Fouad remain silent at the table, visibly thoughtful, without exaggerated shame. The elderly man stays seated and watches quietly. End on a brief still moment after Amine leaves the frame. Preserve the café layout and continuity. Add no generated text; the moral title will be inserted during editing.
+
+---
+
+
+لا تحاول حشر كل الأحداث في فيديو واحد. التسلسل الصحيح هو:
+
+1. الحاج يتقهوى — لقطة تأسيسية هادئة.
+2. رضا يلاحظ الباب ويقول «شوف شكون جا» — لقطة على الصديقين.
+3. أمين يدخل من الباب ويتجه إليهما — زاوية أخرى للمقهى نفسه.
+4. أمين يقف ويسلّم، ثم يجلس — لقطة اللقاء.
+5. هاتف أمين يرن، فينهض ويبتعد — لقطة الحركة.
+6. الحاج يلاحظ الغيبة برد فعل صامت — لقطة رد الفعل.
+7. رضا وفؤاد وحدهما يبدآن الكلام السيئ — لقطة الحوار.
+8. أمين يعود ويلتقط الصمت — لقطة المواجهة الهادئة.
+9. أمين يغادر — لقطة النهاية.
+
+اختلاف زاوية الكاميرا مسموح ومطلوب سينمائيًا، لكن يجب أن يكون **المكان نفسه**. لا نطلب أن تكون كل اللقطات من زاوية واحدة؛ نطلب أن تتطابق هندسة المقهى والضوء والأثاث واتجاهات الحركة.
+
+---
+
+
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.
+
+---
+
+
+- [ ] مرجع المقهى واضح وواقعي ومقبول قبل توليد المشاهد.
+- [ ] مرجع الزاوية الثانية هو المقهى نفسه وليس مكانًا جديدًا.
+- [ ] مرجع الحاج مطابق للشخصية الأصلية، ويجلس قرب النافذة.
+- [ ] رضا وفؤاد موجودان على الطاولة منذ اللقطة الثانية.
+- [ ] الكرسي الثالث فارغ قبل وصول أمين.
+- [ ] أمين يدخل من الباب، يمشي، يقف، يسلّم، ثم يجلس.
+- [ ] الهاتف مع أمين قبل المكالمة، ويخرج من جيبه وقت الرنين.
+- [ ] أمين يبتعد عن الطاولة قبل بداية الغيبة.
+- [ ] الحاج يظل في مكانه ويُظهر رد فعل صامتًا.
+- [ ] رضا وفؤاد يظلان في مكانيهما أثناء الغيبة.
+- [ ] عند عودة أمين، يعود من جهة ابتعاده نفسها.
+- [ ] لا تتغير الملابس أو الوجوه أو هندسة المقهى.
+- [ ] لا تختفي الأكواب ولا تتضاعف.
+- [ ] الحوار باللهجة الجزائرية وبمزامنة شفاه معقولة.
+- [ ] لا توجد ترجمة مولّدة أو كتابة عشوائية داخل الصورة.
+- [ ] كل لقطة تبدأ وتنتهي بوضعية واضحة تسمح بالانتقال المنطقي.
+
+**الأمر التنفيذي الأخير:** أنشئ مرجع المقهى الرئيسي أولًا واعرضه للمراجعة. لا تولّد جميع المشاهد دفعة واحدة قبل اعتماد المكان. بعد اعتماد المكان، ولّد اللقطات واحدة واحدة بهذا الترتيب، واحتفظ بكل صورة نهائية مع اسم المشهد. إذا أخفقت لقطة في المكان أو الهوية أو التسلسل، أصلحها وحدها ولا تغيّر المراجع الصحيحة.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

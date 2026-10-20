@@ -1,0 +1,16 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 00
+مرجع المقهى الرئيسي (MASTER LOCATION)
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**استخدم هذا النص كما هو:**
+
+Photorealistic cinematic master-location photograph of a believable small-to-medium Algerian neighborhood café in an urban Algerian town. Warm, modest, clean, lived-in and welcoming, not luxurious and not shabby. Medium-brown wooden café tables, practical dark metal-and-wood chairs, warm cream and soft warm-gray walls, realistic tiled floor, large simple windows along the LEFT wall admitting soft natural daylight, a dark-framed glass entrance door in the DEEP LEFT background, a compact coffee counter on the BACK wall with an espresso machine and neatly arranged cups. One clearly identifiable friends’ table near the center of the room, with three chairs; a separate small elderly man’s table near the left-side windows. Natural materials, believable Algerian café atmosphere, subtle local details without readable signs, no people, eye-level wide-angle composition, 28mm documentary cinema lens look, realistic geometry and shadows, natural color grading, vertical 9:16 frame. This image defines the permanent architecture and furniture layout for the entire film. Keep the entrance door, left-side windows, rear coffee counter, friends’ table and elderly man’s table in fixed positions in every future image.
+
+**Negative prompt:** luxury hotel, palace, European fine-dining restaurant, empty photography studio, warehouse, abandoned café, overly futuristic interior, neon lighting, oversaturated colors, fisheye lens, distorted perspective, floating furniture, duplicate tables, impossible architecture, unreadable text, random logos, watermark, people, collage, split screen, illustration, 3D render.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

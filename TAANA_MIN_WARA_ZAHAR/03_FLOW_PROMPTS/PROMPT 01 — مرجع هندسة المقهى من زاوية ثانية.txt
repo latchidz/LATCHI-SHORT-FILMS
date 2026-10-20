@@ -1,0 +1,14 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 01
+مرجع هندسة المقهى من زاوية ثانية
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+Photorealistic reverse-angle reference photograph of the EXACT SAME Algerian café shown in the approved master-location reference. Camera is now positioned near the back coffee counter looking toward the entrance door and friends’ table. Preserve the same wall colors, same tiled floor, same left-side windows, same dark-framed entrance door, same wooden tables, same chairs, same coffee counter and exact room proportions. The friends’ table remains in the same physical location; the elderly man’s separate table remains beside the windows. No people. This is the reverse angle of one real room, not a redesigned café. Photorealistic cinematic realism, natural daylight from the same windows, consistent color grading, vertical 9:16.
+
+**Negative prompt:** different café, changed windows, changed door, moved coffee counter, new furniture style, new floor, different lighting direction, mirrored room, impossible layout, text, logos, people, fisheye distortion.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

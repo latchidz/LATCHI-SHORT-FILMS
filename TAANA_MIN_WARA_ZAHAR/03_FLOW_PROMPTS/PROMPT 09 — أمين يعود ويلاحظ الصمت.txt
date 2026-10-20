@@ -1,0 +1,18 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 09
+أمين يعود ويلاحظ الصمت
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**Image prompt:**
+Use the same café master reference and the exact references for Amine, Reda and Fouad. Amine is returning from the same side of the café where he went to answer his phone. Reda and Fouad are still seated at the same table; they have just stopped talking and look toward Amine with slightly awkward expressions. Amine is approaching, not yet seated. His chair remains in its original place. Same cups, same lighting, same architecture and outfits. Vertical 9:16, natural acting, no text.
+
+**Negative prompt:** Amine entering from a different door, friends changing seats, Amine already seated, different café, exaggerated guilty expressions, text, logos.
+
+**VIDEO PROMPT:**
+Create a 6–8 second continuous video. Amine walks back from the same side where he went to answer the call. As he approaches, Reda and Fouad stop speaking and exchange a quick uneasy glance. Amine notices the silence and asks in Algerian Darija: “واش كنتو تحكيو؟ كي قربت سكتّو.” Reda answers, trying to sound normal: “والو يا خويا، غير كنا نحكيو على الخدمة.” Fouad avoids Amine’s eyes briefly. Keep the acting subtle. Do not make Amine instantly furious. Same room, same table, no jump cut within the shot, clear dialogue, low café ambience, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

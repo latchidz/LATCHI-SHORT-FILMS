@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 04
+اللقطة 3: أمين يدخل ويتجه نحو صديقيه
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** لقطة دخول من زاوية أخرى داخل المقهى. لا مشكلة في اختلاف زاوية الكاميرا، لكن يجب أن نرى المكان نفسه.
+
+**Image prompt:**
+
+Use the approved master café reference and the exact Amine character reference. Cinematic medium-wide shot from inside the café, camera angled toward the same dark-framed entrance door. Amine has just entered through that door and is walking toward Reda and Fouad, who are visible seated at their established friends’ table in the middle distance. The third chair at their table is empty. Amine is not seated yet; he is walking naturally, with a friendly expression, wearing exactly the same outfit as his reference. Preserve the café’s architecture and furniture positions. Natural daylight, realistic walking posture, eye-level camera, vertical 9:16, no text, no logos.
+
+**Negative prompt:** Amine already at the table, Amine seated, different entrance, different café, friends standing, duplicated Amine, changed clothes, dramatic slow-motion pose, text, logos, malformed limbs.
+
+فيديو اللقطة 3 (6–8 ثوانٍ)
+## VIDEO PROMPT 04 — فيديو اللقطة 3 (6–8 ثوانٍ)
+
+Create a 6–8 second photorealistic vertical 9:16 video continuing from the entrance view. Amine opens/comes through the entrance and walks toward the friends’ table at a normal pace. Reda and Fouad remain seated and watch him approach. The third chair stays empty. End while Amine is still approaching or just reaches the table; do not make him sit yet. Natural footsteps and soft café ambience. No sudden camera move, no change of clothes, no teleporting, no music, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

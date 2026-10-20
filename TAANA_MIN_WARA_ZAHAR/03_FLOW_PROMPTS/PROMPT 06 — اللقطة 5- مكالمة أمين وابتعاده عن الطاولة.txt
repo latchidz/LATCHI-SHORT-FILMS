@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 06
+اللقطة 5: مكالمة أمين وابتعاده عن الطاولة
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** أمين يتلقى مكالمة ويبتعد؛ هذه هي المعلومة التي تجعل الغيبة لاحقًا منطقية.
+
+**Image prompt:**
+
+Use the same café master reference and the exact references for all three young men. The three friends are at the same table. Amine has just taken his phone from his pocket and is looking at its screen as an incoming call appears; do not show readable screen text. Reda and Fouad remain seated. Amine is beginning to rise from his chair, preparing to step a short distance away from the table to answer. Preserve the same cups and chair positions. The café architecture and daylight remain unchanged. Vertical 9:16, realistic subtle expressions, no text or logos.
+
+**Negative prompt:** Amine already far away, phone floating, extra phone, friends changing seats, empty table, changed café, readable phone text, exaggerated reaction, text, logos.
+
+فيديو اللقطة 5 (6–8 ثوانٍ)
+## VIDEO PROMPT 06 — فيديو اللقطة 5 (6–8 ثوانٍ)
+
+Create a 6–8 second continuous video. The three friends are seated. Amine’s phone rings or vibrates softly. He takes it from his pocket, checks it, then says in Algerian Darija: “اسمحولي، لازم نرد على هاذ المكالمة دقيقة ونرجع.” He stands and walks a few steps toward the side of the café, away from the table but still plausibly inside the same room. Reda and Fouad stay seated. End with Amine clearly away from the table and his chair empty. Keep the camera stable, realistic movement, clear dialogue and soft café ambience. No teleportation, no extra people, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

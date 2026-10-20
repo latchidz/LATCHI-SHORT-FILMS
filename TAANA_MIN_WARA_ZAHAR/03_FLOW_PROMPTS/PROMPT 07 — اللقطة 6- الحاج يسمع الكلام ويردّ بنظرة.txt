@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 07
+اللقطة 6: الحاج يسمع الكلام ويردّ بنظرة
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** التركيز على رد فعل الحاج، مع بقاء رضا وفؤاد ظاهرين بشكل خفيف في الخلفية.
+
+**Image prompt:**
+
+Use the exact elderly-man reference and the approved master café location. Focused medium close-up of the elderly man seated at his separate table beside the left-side windows, his coffee cup and saucer visible in the foreground. He has just heard disrespectful gossip from the friends’ table. His hand pauses near the cup; his eyes shift toward the two young men with quiet disappointment and moral concern, restrained and believable, not theatrical. In the soft-focus background, Reda and Fouad are still seated together at the same friends’ table, leaning slightly toward one another and speaking quietly; Amine is absent from the table and his chair is empty. Keep the exact café architecture, lighting direction, clothing and object continuity. Vertical 9:16, natural skin texture, shallow depth of field, no text.
+
+**Negative prompt:** elderly man standing, elderly man shouting, elderly man at their table, Amine seated in the background, different café, changed clothes, exaggerated anger, crying, text, logos, duplicate cups.
+
+فيديو اللقطة 6 (6–8 ثوانٍ)
+## VIDEO PROMPT 07 — فيديو اللقطة 6 (6–8 ثوانٍ)
+
+Create a 6–8 second vertical cinematic reaction shot. Keep focus on the elderly man. He is quietly drinking coffee, then hears the low, disrespectful conversation from the friends’ table. His hand pauses; he slowly lowers the cup to its saucer and glances toward them with restrained disappointment. In the background, softly out of focus, Reda and Fouad continue speaking in low voices; Amine remains away from the table. The elderly man says nothing. Audio: low indistinct gossip from a distance, faint café ambience, cup touching saucer softly. No clear new dialogue needed. No camera jump, no exaggerated facial acting, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 03
+اللقطة 2: رضا وفؤاد يلاحظان أمين عند الباب
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** رضا يلاحظ أمين ويقول «شوف شكون جا». هذه لقطة مختلفة عن لقطة الحاج، ويمكن تغيير زاوية الكاميرا، لكن يجب أن يكون المكان نفسه.
+
+**Image prompt:**
+
+Use the exact approved café master reference and the existing Reda and Fouad character references. Medium two-shot of Reda and Fouad already seated at their established friends’ table in the same Algerian café. The third chair is clearly empty. Both men are mid-conversation. Reda has just noticed someone entering from the dark-framed glass entrance door in the deep left background; his eyes and head turn naturally toward the entrance. Fouad begins to follow Reda’s gaze. The entrance door and café layout must match the master location exactly. Amine may be only barely visible at the doorway or just outside the frame; do not show him already seated or close to the table. Natural daylight, eye-level camera, believable expressions, vertical 9:16, cinematic realism.
+
+**Negative prompt:** Amine already seated, empty café, changed room, door on right wall, extra friends, people looking into camera, exaggerated surprise, changed clothes, text, logos, distorted hands.
+
+فيديو اللقطة 2 (6–8 ثوانٍ)
+## VIDEO PROMPT 03 — فيديو اللقطة 2 (6–8 ثوانٍ)
+
+Create a 6–8 second continuous vertical 9:16 video. Reda and Fouad are already seated at the same table. Reda notices Amine entering at the doorway, turns his head toward him and quietly says in natural Algerian Darija: “شوف شكون جا!” Fouad turns toward the entrance and replies naturally: “آه، أمين! شحال هادي ما شفناهش.” Keep their movements subtle and realistic. The third chair remains empty. Do not cut to Amine in this clip; this shot ends with both friends looking toward the entrance. Audio: clear synchronized dialogue, low café ambience, no music. No generated subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

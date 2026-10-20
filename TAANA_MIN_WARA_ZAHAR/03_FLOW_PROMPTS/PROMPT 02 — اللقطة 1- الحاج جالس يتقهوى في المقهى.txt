@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 02
+اللقطة 1: الحاج جالس يتقهوى في المقهى
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** افتتاح هادئ يثبت المكان ويقدم الحاج بوصفه شاهدًا بصريًا. لا نُظهر الغيبة بعد.
+
+**Image prompt:**
+
+Use the approved café master-location reference as the exact location and the existing elderly-man character reference as the exact identity. A quiet medium-wide cinematic shot inside the same modest Algerian neighborhood café. The elderly man sits alone at his small table beside the left-side windows, calmly sipping coffee from a small white cup over a saucer. His posture is relaxed, eyes lowered toward the cup, natural subtle movement implied. The friends’ table is visible farther back in the frame, slightly out of focus and currently occupied by Reda and Fouad only; the third chair is empty. Preserve the exact café architecture, furniture, window placement, entrance position and natural daylight from the master reference. Eye-level camera, gentle depth of field, realistic skin and fabric texture, restrained cinematic color, vertical 9:16. No one looks at the camera. No text.
+
+**Negative prompt:** elderly man at friends’ table, elderly man speaking, changed café, missing windows, different furniture, exaggerated expression, luxury interior, generated text, logos, duplicate people, malformed hands, extra cups.
+
+فيديو اللقطة 1 (6–8 ثوانٍ)
+## VIDEO PROMPT 02 — فيديو اللقطة 1 (6–8 ثوانٍ)
+
+Create a 6–8 second photorealistic vertical 9:16 cinematic video from the approved still. Keep the camera steady. The elderly man quietly lifts his small coffee cup, takes one natural sip, places it back on the saucer and looks out toward the café interior for a brief moment. In the soft-focus background, Reda and Fouad are seated at the friends’ table, talking casually; the third chair remains empty. Very subtle café ambience only: low room murmur, a distant cup sound, no intelligible background dialogue, no music. No camera jump, no face changes, no object teleportation, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

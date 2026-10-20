@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 05
+اللقطة 4: أمين يسلّم وهو واقف ثم يجلس
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** اللقاء الودي، مع حركة واضحة من الوقوف إلى الجلوس. يفضّل أن يكون الفيديو في لقطة واحدة إن استطاعت الأداة تنفيذها دون تشوه.
+
+**Image prompt:**
+
+Use the exact café master reference and the exact character references for Amine, Reda and Fouad. Medium-wide shot of the friends’ table. Reda and Fouad are seated in their established positions. Amine has arrived and is standing beside the empty third chair, smiling warmly and greeting them with a natural small hand gesture. He has not sat down yet. The chair is pulled out slightly and positioned correctly. Keep all three faces accurate and all outfits unchanged. Same café architecture, same table, same chairs, same window light, vertical 9:16, cinematic realism, no text.
+
+**Negative prompt:** Amine already sitting, friends standing, wrong number of chairs, duplicated cups, changed wardrobe, face swap, changed café, exaggerated handshake, text, logos, malformed hands.
+
+فيديو اللقطة 4 (8–10 ثوانٍ)
+## VIDEO PROMPT 05 — فيديو اللقطة 4 (8–10 ثوانٍ)
+
+Create an 8–10 second continuous vertical 9:16 cinematic shot at the same friends’ table. Start with Amine standing beside the empty chair while Reda and Fouad remain seated. Amine greets them warmly in Algerian Darija: “واش راكم يا جماعة؟ والله توحشتكم بزاف!” Reda answers: “مرحبا بيك يا خويا، وين هاذ الغيبة كامل؟” Fouad gestures toward the chair and says: “والله غير طولت علينا، اقعد اقعد!” Amine smiles, pulls the chair naturally and sits down. The sitting action must be shown continuously, with believable body mechanics; do not jump directly from standing to sitting. Keep the other two in place. Dialogue should be paced naturally; if the timing is too tight, split into two shots while preserving the same positions. No music, low café ambience, clear lip sync, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.

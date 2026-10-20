@@ -1,0 +1,23 @@
+════════════════════════════════════════════════════════
+طعنة من وراء الظهر — PROMPT 08
+اللقطة 7: رضا وفؤاد وحدهما يبدآن الغيبة
+════════════════════════════════════════════════════════
+المصدر: arena_ai_production_prompts_final.md (نسخة العميل — تُستخدم حرفياً)
+المقاس: عمودي 9:16 | العدسة: 28–50mm | كاميرا ثابتة/حركة انسيابية بسيطة
+
+**الغرض الدرامي:** نرى الصديقين بعد ابتعاد أمين، ونفهم من لغة الجسد أنهما يتكلمان عنه بسوء.
+
+**Image prompt:**
+
+Use the same café master reference and exact Reda and Fouad character references. Medium two-shot at the same friends’ table. Reda and Fouad are alone; Amine’s chair is empty in its established position. Reda leans slightly closer and speaks quietly, while Fouad listens with a conflicted but complicit expression. The same cups remain where they were. The elderly man may be a soft-focus shape near the windows in the background, consistent with his established table. Same daylight, same architecture, same outfits, vertical 9:16, realistic cinematic style, no text.
+
+**Negative prompt:** Amine sitting at table, friends standing, elderly man joining them, moved furniture, changed room, loud laughing, exaggerated villain expressions, text, logos, extra cups.
+
+فيديو اللقطة 7 (8–10 ثوانٍ)
+## VIDEO PROMPT 08 — فيديو اللقطة 7 (8–10 ثوانٍ)
+
+Create an 8–10 second continuous vertical 9:16 medium two-shot. Reda checks that Amine is away, lowers his voice and says in Algerian Darija: “تعرف أمين؟ ديما يدير روحو فاهم كلش، بصح…” Fouad glances toward the direction Amine walked, then replies quietly: “صح، وحتى كي يعاون الناس، يبقى يحكي عليها كأنه هو اللي دار كلش.” Their behavior should feel like real friends gossiping, not cartoon villains. Amine’s chair stays empty; the elderly man is only subtly visible in the background. Natural lip sync, low café ambience, no music, no subtitles.
+
+════════════════════════════════════════════════════════
+NEGATIVE PROMPT عام (يُضاف عند الحاجة — من القسم G):
+photorealistic only, no illustration, no cartoon, no CGI appearance, no face drift, no identity swap, no wardrobe change, no extra characters, no duplicate person, no extra fingers, no malformed hands, no floating objects, no teleporting, no changed café layout, no mirrored image, no altered door/window placement, no inconsistent daylight, no random logos, no generated text, no subtitles, no watermark, no overacting, no artificial smiles, no abrupt camera movement.
