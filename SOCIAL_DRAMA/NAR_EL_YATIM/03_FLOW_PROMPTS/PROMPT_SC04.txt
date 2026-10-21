@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 04  —  دفاع يوسف — الوقاحة
+  Timing : 0:30–0:40   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC04_YOUSSEF_DEFENDS.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC04 — 0:30–0:40 — دفاع يوسف — الوقاحة
+FRAMES: start = SC04_YOUSSEF_DEFENDS.png | end = same frame, the raised finger lower, his chin still up.
+CONTINUITY: same shot size, Yousef centre-right, Amin's back to camera in the left foreground, same counter.
+ACTION AND TIMING: 0-3s Yousef raises the index finger and leans in; 3-7s he speaks with the chin up, a small head shake; 7-10s his eyes dart away once — the first crack.
+DIALOGUE: YOUSSEF — «نَقِّصْ صَوْتَكْ فِي حَانُوتِي! أَنَا لِي رَانِي شَاقِي، دْرَاهِمْهُمْ رَانِي مْخَبِّيهُمْلْهُمْ حَتَّى يْكَبْرُوا.» (0:02–0:08)
+CAMERA: medium close-up, eye level, static tripod, shallow focus on Yousef.
+PERFORMANCE: bravado performed for an audience of one; the lie visible in the eyes.
+SOUND: his voice filling the small shop, fluorescent hum. NO MUSIC.
+END FRAME: matches SC05 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC04 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
