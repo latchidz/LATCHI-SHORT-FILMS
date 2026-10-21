@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 02  —  بيت الأرملة — أمين يمسح دموع مريم
+  Timing : 0:10–0:20   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC02_ORPHANS_HOUSE.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC02 — 0:10–0:20 — بيت الأرملة — أمين يمسح دموع مريم
+FRAMES: start = SC02_ORPHANS_HOUSE.png | end = same frame, Amin's thumb has finished the stroke, the girl's head slightly lower.
+CONTINUITY: same poor room, same cold grey window light, Maryam centre, Yassin standing behind her right, Amin kneeling.
+ACTION AND TIMING: 0-4s Amin's thumb wipes slowly across her cheek; 4-7s the girl's chin trembles and she blinks; 7-10s Yassin's jaw clenches, he looks down.
+DIALOGUE: AMIN (soft, firm) — «عَمِّي مَا يْبَكِّيكُمْشْ… حَقْكُمْ يِرْجَعْ اليُومْ قَبْلْ غُدْوَة، ورَاسْ خُويا المَرْحُومْ.» (0:03–0:09)
+CAMERA: low at child eye level, static tripod, shallow focus on the girl's face.
+PERFORMANCE: tenderness held under control; the girl fragile; the boy rigid with silent anger.
+SOUND: quiet room tone, a distant car, the girl's soft breathing. NO MUSIC.
+END FRAME: matches SC03 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC02 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
