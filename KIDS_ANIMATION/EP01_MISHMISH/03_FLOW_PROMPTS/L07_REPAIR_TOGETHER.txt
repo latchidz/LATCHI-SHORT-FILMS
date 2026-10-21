@@ -1,0 +1,9 @@
+SHOT L07 — 1:00–1:10 — repairing together
+FRAMES: start = SC07_REPAIR_TOGETHER.png | end = same frame with the wheel pressed in and the tape wrapped.
+CONTINUITY: same four hands, same train, same grass.
+ACTION AND TIMING: 0-5s glue is applied; 5-8s the wheel is pressed on; 8-10s tape is wrapped around the axle.
+DIALOGUE: none.
+CAMERA: overhead 45°, static.
+SOUND: glue squish, tape rip, teamwork music.
+END FRAME: matches L08 opening.
+NEGATIVE: no extra fingers, no more than four hands, no changing clothes, no text.

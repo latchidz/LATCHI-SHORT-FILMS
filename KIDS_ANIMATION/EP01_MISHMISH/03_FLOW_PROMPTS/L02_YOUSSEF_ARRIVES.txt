@@ -1,0 +1,9 @@
+SHOT L02 — 0:10–0:20 — Youssef arrives, Amin hides the train
+FRAMES: start = SC02_YOUSSEF_ARRIVES.png | end = same frame, Amin's hands fully behind his back, Youssef one step closer.
+CONTINUITY: exact same playroom, same three characters, Yousef stays LEFT / Amin stays RIGHT.
+ACTION AND TIMING: 0-4s Youssef appears at the doorway and waves; 4-7s Amin quickly hides the train behind his back; 7-10s Youssef offers his hand, Amin looks away.
+DIALOGUE: Youssef — «أمين… ألعب معك؟» (0:02-0:06) | Amin — «لا! هذا لعبي أنا!» (0:06-0:09)
+CAMERA: static, same low angle.
+SOUND: footsteps, soft music, door creak.
+END FRAME: matches L03 opening mood.
+NEGATIVE: no character swap, no change of room, no camera pan, no text, no watermark.

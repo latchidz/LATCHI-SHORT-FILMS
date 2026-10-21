@@ -1,0 +1,9 @@
+SHOT L04 — 0:30–0:40 — the train tips over, the wheel pops off
+FRAMES: start = SC04_WHEEL_BREAKS.png | end = same frame with the wheel further right and the train fully still.
+CONTINUITY: same grass, same light, same train design.
+ACTION AND TIMING: 0-3s the train tips over; 3-7s the front red wheel pops off and rolls right; 7-10s a small dust puff settles, everything stops.
+DIALOGUE: none.
+CAMERA: static, shallow focus on the train.
+SOUND: small clack, wheel rolling, then silence + one soft sad note.
+END FRAME: matches L05 opening.
+NEGATIVE: no explosion, no injury, no shattering, no slow-motion gimmick, no text.

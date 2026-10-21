@@ -1,0 +1,10 @@
+SHOT L01 — 0:00–0:10 — Um Amin & Mishmish play with the new train
+FRAMES: start = SC01_PLAYROOM_TRAIN.png | end = same frame with Amin's arm further extended, train moved slightly left.
+CONTINUITY: same playroom, same two characters, same warm window light, same red wooden train.
+ACTION AND TIMING: 0-4s Amin pushes the train forward laughing; 4-7s the cat lifts a paw and taps the train; 7-10s both look at the moving train, delighted.
+DIALOGUE: Amin — «هيا يا مشمش! القطار طار!» (0:02-0:06)
+CAMERA: static on a tripod, very slight 3% push-in, low child-eye level.
+PERFORMANCE: joyful, natural child energy, big expressive eyes.
+SOUND: soft playful music, toy train wheels on wood, cat purr.
+END FRAME: matches L02 start state.
+NEGATIVE: no camera shake, no new characters, no change of clothes, no realistic humans, no text, no watermark.

@@ -1,0 +1,9 @@
+SHOT L03 — 0:20–0:30 — Mishmish gently drags the train
+FRAMES: start = SC03_CAT_PULLS_TRAIN.png | end = same frame with the train pulled slightly closer to the cat.
+CONTINUITY: same balcony, same grass, same afternoon light, same characters.
+ACTION AND TIMING: 0-5s the cat grips the rear coupling and pulls slowly; 5-10s Amin leans in with a worried face and reaches out.
+DIALOGUE: none.
+CAMERA: static with 4% push-in.
+SOUND: grass rustle, train scraping, soft tension music.
+END FRAME: matches L04 start.
+NEGATIVE: no aggression, no violence, no fast movement, no text, no watermark.

@@ -1,0 +1,9 @@
+SHOT L09 — 1:20–1:30 — the train runs, everyone laughs
+FRAMES: start = SC09_HAPPY_ENDING.png | end = same frame with the train further along the track.
+CONTINUITY: same garden, same golden light, repaired train with red-blue tape.
+ACTION AND TIMING: 0-4s the train runs on the track; 4-7s both boys raise their arms laughing; 7-10s the cat stands and claps with his front paws.
+DIALOGUE: narrator (optional) — «المشاركة تزيد الفرحة» (0:05-0:09)
+CAMERA: wide, static, gentle 2% pull-back.
+SOUND: joyful music peak, train chugging, children laughing, cat chirp.
+END FRAME: final freeze with empty bottom third for the title card.
+NEGATIVE: no third child, no camera shake, no dark ending, no text inside the image.
