@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 06  —  التحذير النبوي
+  Timing : 0:50–1:00   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC06_WARNING.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC06 — 0:50–1:00 — التحذير النبوي
+FRAMES: start = SC06_WARNING.png | end = same frame, the pointing finger still raised, Yousef's hand trembling more visibly.
+CONTINUITY: same shop, same positions. AMIN right, YOUSSEF left, counter between them.
+ACTION AND TIMING: 0-3s Amin raises the index finger and speaks; 3-7s Yousef swallows hard, his Adam's apple moving; 7-10s his hand on the counter trembles, his shoulders drop.
+DIALOGUE: AMIN — «الرَّسُولْ عَلَيْهِ الصَّلَاةْ والسَّلَامْ حَذَّرْنَا… رَاكْ تْوَكِّلْ فِي وْلادَكْ الجَمْرْ يَا يُوسُفْ!» (0:02–0:08)
+CAMERA: medium shot, eye level, static tripod, symmetrical framing.
+PERFORMANCE: Amin: the calm of a man who knows he is right. Yousef: physical fear finally showing.
+SOUND: Amin's voice, then only the fluorescent hum and Yousef's breath. NO MUSIC.
+END FRAME: matches SC07 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC06 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
