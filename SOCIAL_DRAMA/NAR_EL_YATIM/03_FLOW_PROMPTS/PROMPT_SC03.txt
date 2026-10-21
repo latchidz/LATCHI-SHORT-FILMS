@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 03  —  الدخول — أمين يقتحم المحل
+  Timing : 0:20–0:30   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC03_ENTER_SHOP.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC03 — 0:20–0:30 — الدخول — أمين يقتحم المحل
+FRAMES: start = SC03_ENTER_SHOP.png | end = same frame, Amin two steps further in, the door swinging closed behind him.
+CONTINUITY: same shop, same counter. AMIN enters from the LEFT, YOUSSEF stays behind the counter on the RIGHT.
+ACTION AND TIMING: 0-3s the glass door is thrown open and Amin steps through; 3-7s he advances two steps toward the counter; 7-10s Youssef twists his shoulder to hide the banknotes, his eyes widen.
+DIALOGUE: AMIN (shouting) — «يُوسُف! دْرَاهِمْ وْلادْ خُوكْ وَيْنْ رَاهُمْ؟ مَرْتُو رَاهَا تْبَكِّي مَا لْقَاتْشْ وَاشْ تْوَكِّلْهُمْ!» (0:02–0:08)
+CAMERA: medium shot, eye level, static tripod, deep focus.
+PERFORMANCE: Amin's body leads with the shoulder, jaw forward. Youssef's guilt shown through the hands, not the face.
+SOUND: glass door bang, heavy footsteps on the lino, fluorescent hum. NO MUSIC.
+END FRAME: matches SC04 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC03 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
