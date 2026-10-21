@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 07  —  المفاتيح في الهواء
+  Timing : 1:00–1:10   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC07_KEYS_THROWN.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC07 — 1:00–1:10 — المفاتيح في الهواء
+FRAMES: start = SC07_KEYS_THROWN.png | end = same frame, the keys landing flat on the counter, Amin gone from the left edge.
+CONTINUITY: same shop. The keys are the hero: a steel ring with three flat keys and one blank metal tag.
+ACTION AND TIMING: 0-3s the hand releases and the keys arc through the air; 3-7s they fall and hit the wooden counter with weight; 7-10s they settle, the tag spinning to a stop, Yousef does not move.
+DIALOGUE: AMIN — «هَذِي مْفَاتِيحِي… بَصَحْ دِيرْ فِي بَالَكْ، دَعْوَةْ اليْتِيمْ تْخُرْجْ فِيكْ غُدْوَة!» (0:02–0:08)
+CAMERA: low angle at counter level, static tripod, shallow focus locked on the keys in flight.
+PERFORMANCE: the throw is not theatrical — it is final, almost tired.
+SOUND: keys jingling in the air, then a hard metallic clatter on wood, then silence. NO MUSIC.
+END FRAME: matches SC08 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC07 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
