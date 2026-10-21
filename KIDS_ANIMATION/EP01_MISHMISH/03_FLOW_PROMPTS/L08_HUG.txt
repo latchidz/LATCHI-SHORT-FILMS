@@ -1,6 +1,6 @@
 SHOT L08 — 1:10–1:20 — Amin hugs Youssef
 FRAMES: start = SC08_HUG.png | end = same frame with the hug tightening slightly.
-CONTINUITY: same balcony, same characters, Amin stays LEFT.
+CONTINUITY: same balcony, same characters. YOUSSEF stays LEFT, AMIN stays RIGHT.
 ACTION AND TIMING: 0-3s Amin steps forward; 3-6s he hugs Youssef tight; 6-10s Youssef pats his back, both smile.
 DIALOGUE: Amin — «سامحني يا يوسف…» (0:01-0:05) | Youssef — «اللعب معاً أحلى!» (0:06-0:10)
 CAMERA: static, warm rim light.
