@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 08  —  الخاتمة — الندم
+  Timing : 1:10–1:20   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC08_REGRET.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC08 — 1:10–1:20 — الخاتمة — الندم
+FRAMES: start = SC08_REGRET.png | end = the same wide frame held, only candle of light shifts slightly; NO change of position.
+CONTINUITY: same shop, now empty. The glass door on the LEFT stays open with cold blue street light. Youssef alone behind the counter.
+ACTION AND TIMING: 0-4s Yousef stands perfectly still, staring down at the keys; 4-8s his hands on the counter begin to tremble visibly; 8-10s he exhales, his shoulders drop, hold.
+DIALOGUE: NONE. Complete silence — the sound of a man alone with what he has done.
+CAMERA: WIDE static shot from inside the shop, locked-off tripod, deep focus, ZERO movement for the full 10 seconds.
+PERFORMANCE: no crying, no gesture. Only stillness, a slow exhale, and trembling hands.
+SOUND: fluorescent hum, a distant street sound, a clock ticking off-screen, and nothing else. NO MUSIC.
+END FRAME: final freeze — hold on the keys and the trembling hands.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC08 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
