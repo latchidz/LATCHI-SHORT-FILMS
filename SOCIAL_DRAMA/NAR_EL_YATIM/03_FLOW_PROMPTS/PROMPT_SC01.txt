@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 01  —  الهوك — يد أمين تضرب الطاولة
+  Timing : 0:00–0:10   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC01_HOOK_SLAM.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC01 — 0:00–0:10 — الهوك — يد أمين تضرب الطاولة
+FRAMES: start = SC01_HOOK_SLAM.png | end = same frame, the hand still flat on the counter, papers settled.
+CONTINUITY: same shop, same counter, Youssef behind it, Amin's arm enters from lower left. DO NOT move Amin's face into frame.
+ACTION AND TIMING: 0-2s the hand is already slamming down; 2-5s the papers and pen jump and scatter; 5-10s Youssef recoils, his shoulders rise, his mouth opens.
+DIALOGUE: AMIN (voice-over, off-screen) — «خُوكْ يْمُوتْ… وتْسْرَقْ وْلادُو اليْتَامَى؟ هَذِي هِيَ الدُّنْيَا؟» (0:02–0:07)
+CAMERA: very low angle at counter height, locked-off tripod, ZERO movement.
+PERFORMANCE: explosive anger in the hand, shock in Youssef's face.
+SOUND: hard hand slap on wood, papers rustling, fluorescent hum, distant street noise. NO MUSIC.
+END FRAME: matches SC02 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC01 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
