@@ -1,0 +1,25 @@
+=================================================================
+  SCENE 05  —  المواجهة — الآية
+  Timing : 0:40–0:50   |   Duration : 10s   |   Frame : 9:16  (1080x1920)
+  Image  : SC05_AYAH.png   (upload as START FRAME)
+=================================================================
+
+--- COPY FROM HERE -------------------------------------------------
+
+SHOT SC05 — 0:40–0:50 — المواجهة — الآية
+FRAMES: start = SC05_AYAH.png | end = same frame, Amin half a step closer, Yousef half a step back.
+CONTINUITY: same shop, same positions: AMIN on the RIGHT of frame, YOUSSEF on the LEFT. Both faces fully visible.
+ACTION AND TIMING: 0-3s Amin leans in and speaks low; 3-6s Yousef's eyes drop and he pulls back; 6-10s Amin's finger comes up but does not touch him.
+DIALOGUE: AMIN — «تْخَبِّيهُمْلْهُمْ وتْبَنِّي فِي الفِيلَاتْ بْمَالْ اليْتَامَى؟ رَبِّي قَالْ: فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ!» (0:02–0:09)
+CAMERA: medium two-shot, eye level, static tripod, medium depth of field so both faces stay sharp.
+PERFORMANCE: Amin: righteous certainty, no shouting. Yousef: the body shrinking before the words land.
+SOUND: Amin's voice quiet and level, room tone, a distant scooter. NO MUSIC.
+END FRAME: matches SC06 opening.
+NEGATIVE: no camera shake, no handheld, no new characters, no change of clothes, no change of location, no CGI, no cartoon, no text, no watermark.
+
+--- COPY TO HERE ---------------------------------------------------
+
+ملاحظة: ارفع صورة SC05 في Google Flow كإطار البداية،
+ثم الصق البرومبت كما هو. الكاميرا ثابتة دائماً — لا تعدّل عليها.
+الصوت: صدى المكان فقط — صفر موسيقى.
+=================================================================
