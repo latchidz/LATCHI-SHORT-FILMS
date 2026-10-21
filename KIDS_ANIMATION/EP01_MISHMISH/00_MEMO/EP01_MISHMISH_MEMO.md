@@ -446,3 +446,25 @@ NEGATIVE: no third child, no camera shake, no dark ending.
 ---
 
 _الإصدار 1.0 — 21 أكتوبر 2026 — جاهزة للتنفيذ_
+
+---
+
+## ✅ تحديث 21/10/2026 — اللقطات التسع مكتملة (9/9)
+
+| # | الملف | الحالة |
+|---|---|---|
+| SC01 | `SC01_PLAYROOM_TRAIN.png` | ✅ معتمد |
+| SC02 | `SC02_YOUSSEF_ARRIVES.png` | ✅ معتمد |
+| SC03 | `SC03_CAT_PULLS_TRAIN.png` | ✅ معتمد |
+| SC04 | `SC04_WHEEL_BREAKS.png` | ✅ معتمد |
+| SC05 | `SC05_BOTH_SAD.png` | ✅ معتمد |
+| SC06 | `SC06_GLUE_AND_TAPE.png` | ✅ جديد |
+| SC07 | `SC07_REPAIR_TOGETHER.png` | ✅ جديد |
+| SC08 | `SC08_HUG.png` | ✅ جديد |
+| SC09 | `SC09_HAPPY_ENDING.png` | ✅ جديد |
+
+**تصحيح SQ:** في `L06` كان مكتوب «يوسف يمدّ الغراء نحو يسار الكادر» — والصحيح **يمين الكادر** (أمين يمين دائماً). طُبِّق في التوليد: أمين كتفه على يمين الكادر.
+
+**تصحيح L08:** كان «Amin stays LEFT» — والصحيح **يوسف يسار / أمين يمين**.
+
+**حزمة Flow:** `EP01_MISHMISH_FLOW_PACK.zip` — `PROMPTS/PROMPT_SC01..09.txt` + `SCENES/SCENE_01..09/`.
