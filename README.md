@@ -10,7 +10,8 @@ LATCHI-SHORT-FILMS/
 └── SOCIAL_DRAMA/            🎭 الدراما الاجتماعية الواقعية (لايف أكشن)
     ├── ATHAR_AL_ZAYT/
     ├── DAJAT_YEMMA/
-    └── TAANA_MIN_WARA_ZAHAR/
+    ├── TAANA_MIN_WARA_ZAHAR/
+    └── EL_SHEDDA_TBEYEN_ERDJAL/
 ```
 
 ## 📏 قاعدة التوثيق (إلزامية)
@@ -35,4 +36,4 @@ LATCHI-SHORT-FILMS/
 | الموسيقى | مسموحة (خفيفة) | **ممنوع تماماً** |
 | الجمهور | أطفال | عائلي/شبابي |
 
-_محدّث: 21 أكتوبر 2026_
+_محدّث: 22 أكتوبر 2026_
