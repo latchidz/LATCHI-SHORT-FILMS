@@ -1,16 +1,18 @@
 # 🎬 PROMPT 14 — SCENE 12 (OMNI 1.1 FLASH FIXED · FINAL SCENE)
-## THE WAIT / END — 02:20 AM Vigil ("الشدة تبيّن الرجال")
+## THE WAIT & GOOD NEWS — "ما تعمرش راسك خويا… الشدة تبيّن الرجال"
 
 | البند | الإعداد المعتمد |
 |---|---|
 | **Model** | `Gemini Omni 1.1 Flash` (Google Flow) |
 | **Mode** | `Video > Frames > First and last` |
 | **Aspect / Duration** | `9:16` · `8 seconds` · `24fps` |
-| **Audio** | **Native Algerian Darija Whisper ON** · **ZERO Background Music** |
+| **Audio** | **Native Algerian Darija Speech ON** · **ZERO Background Music** |
 | **FIRST FRAME** | `02_SCENES/SCENE_12/S12a_THE_WAIT_FIXED.png` |
 | **LAST FRAME** | `02_SCENES/SCENE_12/S12b_END_FIXED.png` |
 
-> ✅ **مشهد الختام (`02:20` ليلاً):** نفس قاعة الانتظار المعتمدة من المشهدين 09 و11 (`SET LOCK`: صف الكراسي البرتقالية على الجدار الأيسر، الساعة الليلية `02:20` وباب العيادة المفتوح على الجدار الخلفي تحت مصباح نيون واحد). أمين في الكرسي الأمامي الأيسر يستند برأسه مغمض العينين والظرف البني المغلق فوق حجره والملف الطبي على الكرسي الفارغ بجانبه، بينما يمد يوسف يده اليمنى بهدوء ليضعها على ساعد أمين الأيسر ويهمس بجملة عنوان الفيلم الختامية: **«يا أمين… الشدة تبيّن الرجال.»**
+> ✅ **مشهد الختام المعتمد (`02:20` ليلاً):**
+> - **الإطار الأول (`S12a`):** الأصدقاء الخمسة جالسون على صف الكراسي البرتقالية (أمين بملامحه الحقيقية `100%` مستيقظ ينتظر بقلق)، ويوسف يربّت بيده اليمنى على فخذ أمين ليطمئنه ويقول له: **«ما تعمرش راسك خويا… الشدة تبيّن الرجال.»**
+> - **الإطار الأخير (`S12b`):** يدخل **الدكتور** من باب العيادة المفتوح ليُبشّرهم بنجاح عملية مريم، فينهض أمين وأصدقاؤه الأربعة واقفين أمام الكراسي ينتظرون سماع البشارة بلهفة وأمل.
 
 ---
 
@@ -22,18 +24,19 @@ Single continuous, unbroken shot with a completely static, locked-off tripod cam
 FRAME AND SET LOCK:
 Animate smoothly in one unbroken take from <FIRST_FRAME> to <LAST_FRAME>. Keep the blank pale-green hospital walls (zero posters, zero text), the round analog wall clock on the back wall reading 02:20, the open white-framed frosted-glass clinic door leading to the dark hospital corridor on the back-right, the single overhead fluorescent tube, the speckled terrazzo floor, and the row of orange plastic waiting chairs along the left wall 100% locked in place.
 
-CHARACTER AND GAZE LOCK:
-Medium-wide shot angled down the row of orange plastic chairs along the left wall; the camera is an invisible observer — strictly zero eye contact with the lens by anyone.
-- FOREGROUND-LEFT CHAIR (beside the foreground empty orange chair holding the plain beige manila medical folder): AMIN (worn olive-green long-sleeve button-up shirt, dark charcoal trousers, dark shoes, short curly black hair on top with clean mid-high taper skin-fade, short trimmed black chin beard) resting the back of his head peacefully against the pale-green wall with his eyes gently closed in quiet exhaustion, both hands resting lightly on the completely sealed plain brown kraft A4 envelope lying flat across his lap (zero text, zero visible banknotes).
-- SECOND CHAIR BESIDE AMIN: YOUSSEF (short dark buzz cut, black rectangular sunglasses kept permanently on over his eyes, black rolled-sleeve button-up shirt, black trousers, black shoes) sitting upright and awake in silent brotherly vigil.
-- BACK THREE CHAIRS ALONG THE LEFT WALL (exhausted late-night stillness): RAMI (dark-blue mechanic coveralls, dark-brown work boots) bowed forward looking down at the floor; KARIM (clean-shaven, spiky fade hair, black shirt, white sneakers) resting his forehead in his left hand with eyes closed; UNCLE HAMZA near the back wall (balding older man with short grey beard, grey polo, dark-green work apron) sleeping quietly with his head leaning against the wall.
+CHARACTER, FACE, AND GAZE LOCK:
+Medium-wide group shot inside the waiting room; the camera is an invisible observer — strictly zero eye contact with the lens by anyone.
+- AMIN ON FOREGROUND LEFT: Exact real unfiltered Algerian father from <FIRST_FRAME> and <LAST_FRAME> (elongated oval face, natural prominent nose, short natural curly black hair on top with clean mid-high taper skin-fade, bare skin gap under lower lip, sparse cheek hairs, short ~1 cm closely-trimmed black chin beard, worn olive-green long-sleeve button-up shirt, dark charcoal trousers, black shoes; zero facial reshaping or smoothing).
+- THE FOUR BROTHERS BESIDE AMIN: YOUSSEF (short dark buzz cut, black rectangular sunglasses kept permanently on over his eyes, black rolled-sleeve shirt, black trousers, black shoes), RAMI (dark-blue mechanic coveralls, brown work boots), KARIM (clean-shaven, spiky fade hair, black shirt, white sneakers), and UNCLE HAMZA (balding older man with short grey beard, grey polo, dark-green work apron).
+- THE DOCTOR (entering from the open clinic doorway on the back-right): Senior Algerian surgeon in his 50s with salt-and-pepper hair combed back, thin metal eyeglasses, short salt-and-pepper beard, white medical lab coat over dark navy undershirt, stethoscope around neck, dark grey trousers, and black leather shoes.
 
 TIMING AND PHYSICAL ACTION (8 SECONDS, SINGLE CONTINUOUS SHOT):
-[0.0s–4.2s] Complete vocal silence starting from <FIRST_FRAME> — only quiet late-night hospital room tone, soft clock ticking, and slow exhausted breathing — as Amin, Rami, Karim, and Uncle Hamza remain completely still, while Youssef slowly lifts his right hand from his own thigh across a few inches to rest gently and reassuringly on Amin's left forearm/wrist just above the sealed brown envelope, smoothly settling into <LAST_FRAME>.
-[4.2s–7.2s] Keeping his right hand resting gently on Amin's forearm while Amin continues resting peacefully with his eyes closed, ONLY Youssef speaks in a low, quiet, deeply brotherly Algerian Darija whisper:
-"يا أمين… الشدة تبيّن الرجال."
-[7.2s–8.0s] Complete stillness and quiet 02:20 AM hospital room tone holding the exact final tableau of <LAST_FRAME>.
+[0.0s–3.8s] Starting from <FIRST_FRAME>, all five men sit along the row of orange waiting chairs on the left wall in anxious late-night vigil. Youssef gently pats his right hand reassuringly twice on Amin's left thigh/knee to comfort him as ONLY Youssef speaks in a warm, steady, brotherly Algerian Darija male voice:
+"ما تعمرش راسك خويا… الشدة تبيّن الرجال."
+[3.8s–7.4s] Through the open frosted-glass clinic doorway on the back-right, the senior Doctor steps calmly into the waiting room and turns to face the men. Seeing the Doctor enter, Amin immediately picks up his beige medical folder from the foreground chair with his right hand (keeping the sealed brown kraft A4 envelope in his left hand) as Amin, Youssef, Rami, Karim, and Uncle Hamza all rise eagerly to their feet in front of their orange chairs facing right toward the Doctor, smoothly settling into <LAST_FRAME>. Raising his right hand in a warm, reassuring gesture, ONLY the Doctor speaks in a calm, relieved Algerian Darija male voice:
+"الحمد لله يا جماعة… العملية تاع مريم نجحت وراهي بخير."
+[7.4s–8.0s] Quiet collective breath of deep relief as Amin and his four brothers stand facing the Doctor in the exact hopeful final tableau of <LAST_FRAME>.
 
 SOUND DESIGN:
-Quiet late-night hospital fluorescent hum, faint wall-clock tick, soft slow breathing, gentle touch of hand on sleeve, and Youssef's natural whispered Algerian Darija final line with subtle profile lip-sync. Strictly no background music, no swells, no smiling, no subtitles, no wall text, and no watermarks.
+Natural Algerian Darija speech with accurate profile lip-sync, gentle reassuring pat of Youssef's hand on Amin's trouser thigh, crisp rustle of clothes, folders, and shoes rising from plastic chairs onto the terrazzo floor, calm footsteps of the Doctor entering, soft late-night hospital fluorescent hum. Strictly no background music, no subtitles, no wall text, and no watermarks.
 ```
