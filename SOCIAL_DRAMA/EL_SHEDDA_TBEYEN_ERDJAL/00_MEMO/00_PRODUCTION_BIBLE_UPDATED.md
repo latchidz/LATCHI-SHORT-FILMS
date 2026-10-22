@@ -39,3 +39,9 @@
 8. **قفل اللقطة الواحدة في Omni 1.1 Flash:** كتابة `In a single unbroken scene and a single continuous shot` لمنع تقطيع الزوايا التلقائي.
 9. **خلو الخلفيات من النصوص:** جدران المستشفى خالية تماماً من الملصقات والكتابات المشوهة.
 10. **صفر موسيقى · صفر ترجمة مكتوبة · صفر CGI.**
+
+---
+## 😊 مراجع تعابير وجه أمين المعتمدة دائماً (3 Expressions Lock)
+1. **الوجه العادي والمحايد + الزوايا الأربع:** `01_REFERENCES/REF_AMIN_V2_MASTER_SHEET.png`
+2. **الوجه المبتسم الخفيف + الضحوك مجتمعين:** `01_REFERENCES/REF_AMIN_V2_EXPRESSIONS_SHEET.png`
+3. **الوجه الضحوك الحقيقي (للمشاهد المفرحة ومشاهد الضحك دائماً):** `01_REFERENCES/REF_AMIN_V2_SMILING_LAUGHING.png`
