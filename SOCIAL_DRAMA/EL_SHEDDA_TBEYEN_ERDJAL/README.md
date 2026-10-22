@@ -1,7 +1,7 @@
 # 🎬 الشدة تبيّن الرجال — EL SHEDDA TBEYEN ERDJAL
 ### *(THE TRUE TEST OF MEN)*
 
-**دراما اجتماعية جزائرية واقعية — 9:16 عمودي • 12 مشهد • لايف أكشن 35mm • صفر موسيقى • 🟢 قيد الإنتاج (المشاهد 01–09 جاهزة ومصلّحة · المتبقي 10–12)**
+**دراما اجتماعية جزائرية واقعية — 9:16 عمودي • 12 مشهد مكتمل • لايف أكشن 35mm • صفر موسيقى • ✅ مكتمل وجاهز للإنتاج (المشاهد 01–12 جاهزة ومصلّحة بالكامل)**
 
 ---
 
@@ -15,13 +15,13 @@
 | المجلد | المحتوى |
 |---|---|
 | `00_MEMO/` | **المذكرة التنفيذية المحدّثة** (`00_PRODUCTION_BIBLE_UPDATED.md`) + البروتوكول + الأقفال العشرة المقدسة (`01_LOCKS/`) |
-| `01_REFERENCES/` | جميع مراجع الشخصيات القديمة والجديدة (`CHAR_AMIN_MASTER_SHEET.png`, `REF_AMIN_SHEET.png`, **`REF_AMIN_V2_MASTER_SHEET.png`**, `CHAR_YUSUF_MASTER_SHEET.png`, `ENV_03C_SHOP_PLATE.jpg` + تجارب المراجع) |
-| `02_SCENES/` | **12 مجلد مشهد (`SCENE_01` إلى `SCENE_12`)** يحتوي كل مجلد على إطاراته الصافية الجاهزة فقط (والإطارات القديمة المعطوبة مفصولة في `_LEGACY_DEFECTIVE_ORIGINALS/`) |
-| `03_FLOW_PROMPTS/` | **برومبتات التحريك المصلّحة والجاهزة لـ Google Flow (`Gemini Omni 1.1 Flash`)** بالدارجة الجزائرية 100% ومتوافقة مع معايير الأمان (`Policy-Safe`) |
+| `01_REFERENCES/` | جميع المراجع الرئيسية الموحّدة بجودة 4K (`REF_AMIN_V2_MASTER_SHEET.png`, `REF_YOUSSEF_V2_SUNGLASSES_MASTER_SHEET.png`, `CHAR_YUSUF_V2_NATURAL_MASTER_SHEET.png`, `REF_{RAMI,KARIM,HAMZA,DOCTOR}_SHEET_ENHANCED.png` + المراجع الأصلية وتجارب الاختبار) |
+| `02_SCENES/` | **12 مجلد مشهد (`SCENE_01` إلى `SCENE_12`)** يحتوي كل مجلد على إطاراته الصافية الجاهزة فقط بمقاس `9:16` (والإطارات القديمة المعطوبة مفصولة في `_LEGACY_DEFECTIVE_ORIGINALS/`) |
+| `03_FLOW_PROMPTS/` | **البرومبتات الـ14 الكاملة (`PROMPT_01` إلى `PROMPT_14`) الجاهزة لـ Google Flow (`Gemini Omni 1.1 Flash`)** بالدارجة الجزائرية 100% ومتوافقة مع معايير الأمان (`Policy-Safe`) |
 
 ---
 
-## 📊 جدول تقدّم المشاهد
+## 📊 جدول المشاهد الكامل (01–12)
 
 | المشهد | العنوان | الإطارات المعتمدة | البرومبت | الحالة |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@
 | **SCENE 06** | الباب الرابع — عمي حمزة (البقالة) | `S06a_GROCERY_FIXED.png`, `S06b_HAMZA_NO_FIXED.png` | `PROMPT_08_OMNI_FIXED` | ✅ مصلّح وجاهز |
 | **SCENE 07** | لحظة الانكسار في الشارع | `S07a_STREET_STANDING_FIXED.png`, `S07b_STREET_CRYING_FIXED.png` | `PROMPT_09_OMNI_FIXED` | ✅ مصلّح وجاهز |
 | **SCENE 08** | مكتب الطبيب ليلاً (الأمانة) | `S08a_THE_PRICE_FIXED.png`, `S08b_THE_HAND_FIXED.png` | `PROMPT_10_OMNI_POLICY_SAFE` | ✅ مصلّح وجاهز |
-| **SCENE 09** | الباب ينفتح — مفاجأة قاعة الانتظار | `S09a_DOOR_OPENS_FIXED.png`, `S09b_FOUR_MEN_RISE_FIXED.png` | `PROMPT_11_OMNI_POLICY_SAFE` | ✅ مصلّح وجاهز |
-| **SCENE 10** | الظرف المغلق (فال خير لمريم) | `SCENE_10/` | `PROMPT_12` | ⏳ المهمة القادمة |
-| **SCENE 11** | العناق الأخوي (الرجال الخمسة) | `SCENE_11/` | `PROMPT_13` | ⏳ المهمة القادمة |
-| **SCENE 12** | الانتظار والنهاية | `SCENE_12/` | `PROMPT_14` | ⏳ المهمة القادمة |
+| **SCENE 09** | الباب ينفتح — مفاجأة قاعة الانتظار (V2) | `S09a_DOOR_OPENS_FIXED.png`, `S09b_FOUR_MEN_RISE_FIXED.png` | `PROMPT_11_SCENE_09_OMNI_POLICY_SAFE` | ✅ مصلّح وجاهز |
+| **SCENE 10** | الظرف المغلق — فال خير لمريم (V2) | `S10a_THE_ENVELOPE_FIXED.png`, `S10b_TAKING_IT_FIXED.png` | `PROMPT_12_SCENE_10_OMNI_POLICY_SAFE` | ✅ مصلّح وجاهز |
+| **SCENE 11** | العناق الأخوي — الرجال الخمسة (V2) | `S11a_THE_EMBRACE_FIXED.png`, `S11b_FIVE_MEN_FIXED.png` | `PROMPT_13_SCENE_11_OMNI_POLICY_SAFE` | ✅ مصلّح وجاهز |
+| **SCENE 12** | الانتظار والنهاية — 02:20 ليلاً (V2) | `S12a_THE_WAIT_FIXED.png`, `S12b_END_FIXED.png` | `PROMPT_14_SCENE_12_OMNI_POLICY_SAFE` | ✅ مصلّح وجاهز |
 
 ---
 
-_محدّث: 22 أكتوبر 2026_
+_محدّث ومكتمل: 22 أكتوبر 2026_
