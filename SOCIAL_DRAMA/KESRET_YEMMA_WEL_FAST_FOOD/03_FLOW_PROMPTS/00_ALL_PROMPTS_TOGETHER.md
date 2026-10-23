@@ -1,6 +1,6 @@
 # 🎬 الملف الجامع لجميع برومبتات الفيديوهات — «كَسْرَة يَمَّا وَالفَاسْت فُود» (`01` إلى `12B`)
 
-> جميع البرومبتات مرتبة بالتسلسل وفق قواعد مذكرة الاستوديو المعتمدة (`35mm Live-Action`، صفر موسيقى، حركة شفاه للمتحدث فقط، استمرارية بصرية 100%).
+> جميع البرومبتات مرتبة بالتسلسل وفق قواعد مذكرة الاستوديو المعتمدة (`35mm Live-Action`، صفر موسيقى، حركة شفاه للمتحدث فقط، استمرارية مكانية وبصرية 100%، وأمين الأصلي 100% من كل الزوايا).
 
 
 ---
@@ -300,13 +300,13 @@ tone, zero music, no text, no subtitles, no watermark.
 
 ---
 
-# 🎬 المشهد 08 — دخول يوسف وبداية المواجهة (`YUSUF_ENTERS_CONFRONTATION`)
+# 🎬 المشهد 08 — دخول يوسف وبداية المواجهة بعد خروج الأم مباشرة (`YUSUF_ENTERS_CONFRONTATION`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
 - **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_08/S08_YUSUF_ENTERS_CONFRONTATION.png`
 - **الحوار المنطوق (دارجة جزائرية طبيعية بالتتابع دون تداخل):**
-  - يوسف (`0.3s – 5.2s`): `"وَاشْ هَادْ الحِسْ وَالعْيَاطْ؟ غِيرْ خِيرْ إِنْ شَاءَ الله... وَاشْ كَايَنْ يَا أَمِينْ؟"`
-  - أمين (`5.5s – 9.0s`، بنبرة انفعال ونرفزة حادة): `"رَانِي مَعَ يَمَّا! مَا تْدَخَّلْشْ رُوحَكْ!"`
+  - **يوسف** (`0.3s – 5.2s`): `"وَاشْ هَادْ الحِسْ وَالعْيَاطْ؟ غِيرْ خِيرْ إِنْ شَاءَ الله... وَاشْ كَايَنْ يَا أَمِينْ؟"`
+  - **أمين** (`5.5s – 9.2s`، بعصبية وتوتر حاد): `"رَانِي مَعَ يَمَّا! مَا تْدَخَّلْشْ رُوحَكْ!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -315,21 +315,25 @@ In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
 switches, and a rock-steady locked medium-wide camera. DO NOT MIRROR THE ROOM,
-keeping the left window, metal-legged wooden table with burger boxes, fries, and
-cups, the closed grey waste bin with the clean upright cream-and-red-striped
-cloth bag resting on the clean tiled floor beside it, and the open right doorway
-unchanged with zero extra people (Aunt Yamina has already left). Preserve 100%
-identical faces and clothes on Ramzi (seated left looking down evasively), Amin
-(standing center in plain dark forest-green polo shirt, light-blue jeans, white
-sneakers, and rimless emerald-teal gold-hinged sunglasses kept firmly on his
-face), and 24-year-old Yusuf standing at the open right doorway threshold
-(buzzcut hair, short beard, clean slate-blue button-up work shirt over white tee
-and dark navy trousers). From 0.3 to 5.2 seconds, glancing from the cloth bag
-beside the bin to tense Amin, Yusuf speaks calmly with serious concern in
-natural Algerian Darja: "وَاشْ هَادْ الحِسْ وَالعْيَاطْ؟ غِيرْ خِيرْ إِنْ شَاءَ الله... وَاشْ كَايَنْ يَا أَمِينْ؟"
+keeping the left white window, the wooden fast-food table in the foreground with
+two paper cups, two burger boxes, and French fries, the open white door on the
+right, the sunlit beige doorway vestibule with the closed grey swing-lid waste
+bin in its corner, and ONLY the closed cream-and-red-striped cloth bag lying
+dropped alone on the tiled floor right beside the waste bin unchanged with zero
+extra people (Aunt Yamina has just left). Preserve 100% identical faces and
+clothes on Ramzi (seated left with his head bowed in awkward shame), Amin
+(standing tense and angry behind the right side of the table in his plain dark
+forest-green polo shirt, light-blue jeans, short fade haircut, trimmed beard,
+and rimless emerald-teal gold-hinged sunglasses kept firmly on his face), and
+24-year-old Yusuf stopped just inside the open doorway threshold (buzzcut hair,
+short beard, slate-blue button-up work shirt over white tee, dark navy
+trousers). From 0.3 to 5.2 seconds, glancing in shocked surprise at the dropped
+cloth bag beside the bin and then at tense Amin, Yusuf speaks with serious
+concern in natural Algerian Darja:
+"وَاشْ هَادْ الحِسْ وَالعْيَاطْ؟ غِيرْ خِيرْ إِنْ شَاءَ الله... وَاشْ كَايَنْ يَا أَمِينْ؟"
 — during this line ONLY Yusuf's lips move while Amin and Ramzi keep their mouths
-closed. From 5.5 to 9.0 seconds, Yusuf closes his mouth and Amin snaps back
-defensively in sharp, irritated Algerian Darja with clenched hands:
+closed. From 5.5 to 9.2 seconds, Yusuf closes his mouth and Amin snaps back in
+sharp, tense, irritated Algerian Darja refusing any interference:
 "رَانِي مَعَ يَمَّا! مَا تْدَخَّلْشْ رُوحَكْ!" — during this reply ONLY Amin's lips
 move while Yusuf and Ramzi keep their mouths closed. NO eye contact with the
 camera, natural indoor room acoustics, zero music, no text, no subtitles, no
@@ -342,11 +346,9 @@ watermark.
 # 🎬 المشهد 09 (الجزء الأول 09A) — يوسف يرفع كيس الكسرة بوقار ويبدأ الموعظة (`YUSUF_LIFTS_KESRA_BAG`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
-- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_09/S09A_YUSUF_LIFTS_KESRA_BAG.png`
-- **لماذا قسّمنا المشهد 09 إلى `09A` + `09B` وفق قواعد الاستوديو؟**
-  - لأن موعظة يوسف القوية تتجاوز `55 كلمة` وتستغرق نحو `18 ثانية` في الأداء الواقعي؛ تقسيمها إلى `09A` (رفع الكيس + النصف الأول من الموعظة في لقطة متوسطة) ثم `09B` (النصف الثاني الأعمق في لقطة ثنائية مقربة وجهاً لوجه) يمنع تسريع الكلام أو تشويهه ويمنح المشهد ذروة سينمائية مزلزلة.
+- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_09/S09A_YUSUF_LIFTS_KESRA_BAG.png` *(ملاحظة احترافية: يمكن أيضاً وضع `S09B_YUSUF_MORAL_TRUTH_TWO_SHOT.png` كـ `Last Frame` عند الرغبة لأن زاوية الغرفة مطابقة 100%)*
 - **الحوار المنطوق في `09A` (دارجة جزائرية قوية بنبرة حرقة صادقة دون صراخ مفرط):**
-  - يوسف فقط: `"كِيفَاشْ مَا نْدَخَّلْشْ رُوحِي؟! رَاكْ تْعَيَّطْ عْلَى يَمَّاكْ اللِّي جَابَتَكْ، سَهْرَتْ عْلِيكْ اللِّيَالِي، وَكَبّْرَتَكْ حَتَّى رَدَّاتَكْ رَاجَلْ؟! عْلَى جَالْ بْلَاطُو فَاسْتْ فُودْ تْطَيَّحْ بْقَدْرْ اللِّي الجَنَّة تَحْتْ رَجْلِيهَا؟!"`
+  - **يوسف فقط:** `"كِيفَاشْ مَا نْدَخَّلْشْ رُوحِي؟! رَاكْ تْعَيَّطْ عْلَى يَمَّاكْ اللِّي جَابَتَكْ، سَهْرَتْ عْلِيكْ اللِّيَالِي، وَكَبّْرَتَكْ حَتَّى رَدَّاتَكْ رَاجَلْ؟! عْلَى جَالْ بْلَاطُو فَاسْتْ فُودْ تْطَيَّحْ بْقَدْرْ اللِّي الجَنَّة تَحْتْ رَجْلِيهَا؟!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -354,21 +356,25 @@ watermark.
 In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a steady locked medium-wide camera. DO NOT MIRROR THE ROOM,
-keeping the wooden fast-food table on the left, closed grey waste bin, and empty
-hallway doorway on the right unchanged with zero extra people. Preserve 100%
-identical faces and clothes on Ramzi (seated left with head bowed in shame),
-Amin (standing beside the table in plain dark forest-green polo shirt,
-light-blue jeans, white sneakers, and rimless emerald-teal gold-hinged
-sunglasses kept firmly on his face), and 24-year-old Yusuf (slate-blue button-up
-work shirt over white tee and dark navy trousers). From 0.0 to 2.2 seconds,
-Yusuf gently lifts the clean cream-and-red-striped cloth bag by its handles from
-the spotless tiled floor beside the closed bin WITHOUT touching the bin,
-straightening up firmly and stepping toward Amin while holding the cloth bag
-respectfully with both hands against his chest. From 2.2 to 9.8 seconds, facing
-Amin with deep moral grief and heartfelt earnestness without theatrical
-screaming, Yusuf speaks clearly in natural Algerian Darja:
-"كِيفَاشْ مَا نْدَخَّلْشْ رُوحِي؟! رَاكْ تْعَيَّطْ عْلَى يَمَّاكْ اللِّي جَابَتَكْ، سَهْرَتْ عْلِيكْ اللِّيَالِي، وَكَبّْرَتَكْ حَتَّى رَدَّاتَكْ رَاجَلْ؟! عْلَى جَالْ بْلَاطُو فَاسْتْ فُودْ تْطَيَّحْ بْقَدْرْ اللِّي الجَنَّة تَحْتْ رَجْلِيهَا؟!".
+switches, and a rock-steady locked medium-wide camera. DO NOT MIRROR THE ROOM,
+keeping the left white window, foreground wooden fast-food table, open white
+doorway on the right, and sunlit beige vestibule with the closed grey swing-lid
+waste bin in its corner unchanged with zero extra people. Preserve 100%
+identical faces and clothes on Ramzi (seated left with his head bowed in shame),
+Amin (standing behind the right side of the table in his plain dark forest-green
+polo shirt, light-blue jeans, short fade haircut, trimmed beard, and rimless
+emerald-teal gold-hinged sunglasses kept firmly on his face), and 24-year-old
+Yusuf (slate-blue button-up work shirt over white tee, dark navy trousers, white
+sneakers). From 0.0 to 2.2 seconds, Yusuf gently lifts the closed
+cream-and-red-striped cloth bag cleanly off the floor beside the grey waste bin
+WITHOUT touching the bin, straightening up to full height inside the room while
+holding the closed cloth bag respectfully with both hands against his chest and
+turning directly to face Amin. From 2.2 to 9.8 seconds, facing Amin with deep
+moral grief and heartfelt earnestness without theatrical screaming, Yusuf speaks
+clearly in natural Algerian Darja:
+"كِيفَاشْ مَا نْدَخَّلْشْ رُوحِي؟! رَاكْ تْعَيَّطْ عْلَى يَمَّاكْ اللِّي جَابَتَكْ،
+سَهْرَتْ عْلِيكْ اللِّيَالِي، وَكَبّْرَتَكْ حَتَّى رَدَّاتَكْ رَاجَلْ؟! عْلَى جَالْ بْلَاطُو
+فَاسْتْ فُودْ تْطَيَّحْ بْقَدْرْ اللِّي الجَنَّة تَحْتْ رَجْلِيهَا؟!".
 ONLY Yusuf's lips move naturally while Amin's defensive anger falters with his
 mouth closed and Ramzi sits bowed with his mouth closed. NO eye contact with the
 camera, natural room acoustics, zero music, no text, no subtitles, no watermark.
@@ -377,12 +383,12 @@ camera, natural room acoustics, zero music, no text, no subtitles, no watermark.
 
 ---
 
-# 🎬 المشهد 09 (الجزء الثاني 09B) — ذروة موعظة يوسف وجهاً لوجه (`YUSUF_MORAL_TRUTH_TWO_SHOT`)
+# 🎬 المشهد 09 (الجزء الثاني 09B) — ذروة موعظة يوسف المؤثرة عن الأم (`YUSUF_MORAL_TRUTH_TWO_SHOT`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
 - **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_09/S09B_YUSUF_MORAL_TRUTH_TWO_SHOT.png`
 - **الحوار المنطوق في `09B` (دارجة جزائرية مؤثرة تقطع القلب بنبرة حزن صادق):**
-  - يوسف فقط: `"أَنَا يَمَّا تَحْتْ التّْرَابْ وَنَتْمَنَّى غِيرْ نْشَمْ رِيحَتْهَا وَلَا نَاكُلْ كَسْرَة مَنْ يَدِّيهَا... وَأَنْتَ تَرْمِي خِيرْهَا قُدَّامْ صْحَابَكْ؟! وَالله عِيبْ وَعَارْ عْلِيكْ، طَيَّحْتْ بْرُوحَكْ مَشْ بِيهَا!"`
+  - **يوسف فقط:** `"أَنَا يَمَّا تَحْتْ التّْرَابْ وَنَتْمَنَّى غِيرْ نْشَمْ رِيحَتْهَا وَلَا نَاكُلْ كَسْرَة مَنْ يَدِّيهَا... وَأَنْتَ تَرْمِي خِيرْهَا قُدَّامْ صْحَابَكْ؟! وَالله عِيبْ وَعَارْ عْلِيكْ، طَيَّحْتْ بْرُوحَكْ مَشْ بِيهَا!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -390,23 +396,27 @@ camera, natural room acoustics, zero music, no text, no subtitles, no watermark.
 In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a very subtle slow push-in on the emotional Medium Two-Shot inside
-the exact same break room. DO NOT MIRROR THE ROOM, keeping Ramzi seated softly
-out-of-focus at the wooden table in the left background with his head bowed in
-shame. Preserve 100% identical faces and clothes on Amin on the left-center
-(plain dark forest-green polo shirt, light-blue jeans, short trimmed beard, and
-rimless emerald-teal gold-hinged sunglasses kept firmly on his face) and
-24-year-old Yusuf standing close opposite him on the right-center (slate-blue
-button-up work shirt over white tee and dark navy trousers, cradling the clean
-cream-and-red-striped cloth bag respectfully against his chest in both hands).
-From 0.3 to 9.6 seconds, mourning his late mother with quiet, devastating
-sincerity and wounded dignity rather than loud shouting, Yusuf looks directly at
-Amin and speaks in natural Algerian Darja:
-"أَنَا يَمَّا تَحْتْ التّْرَابْ وَنَتْمَنَّى غِيرْ نْشَمْ رِيحَتْهَا وَلَا نَاكُلْ كَسْرَة مَنْ يَدِّيهَا... وَأَنْتَ تَرْمِي خِيرْهَا قُدَّامْ صْحَابَكْ؟! وَالله عِيبْ وَعَارْ عْلِيكْ، طَيَّحْتْ بْرُوحَكْ مَشْ بِيهَا!".
+switches, and a very subtle slow emotional push-in inside the exact same break
+room. DO NOT MIRROR THE ROOM, keeping the left white window, foreground wooden
+fast-food table, Ramzi seated on the left with his head bowed in shame, the open
+white doorway on the right, and the closed grey swing-lid waste bin in the
+sunlit beige vestibule unchanged with zero extra people. Preserve 100% identical
+faces and clothes on Amin standing behind the right side of the table (plain
+dark forest-green polo shirt, light-blue jeans, short fade haircut, trimmed
+beard, and rimless emerald-teal gold-hinged sunglasses kept firmly on his face)
+and 24-year-old Yusuf standing upright opposite him on the right-center
+(slate-blue button-up work shirt over white tee and dark navy trousers, holding
+the closed cream-and-red-striped cloth bag respectfully against his chest in
+both hands). From 0.3 to 9.6 seconds, mourning his late mother with quiet,
+devastating sincerity and wounded dignity rather than loud shouting, Yusuf looks
+directly at Amin and speaks in natural Algerian Darja:
+"أَنَا يَمَّا تَحْتْ التّْرَابْ وَنَتْمَنَّى غِيرْ نْشَمْ رِيحَتْهَا وَلَا نَاكُلْ كَسْرَة
+مَنْ يَدِّيهَا... وَأَنْتَ تَرْمِي خِيرْهَا قُدَّامْ صْحَابَكْ؟! وَالله عِيبْ وَعَارْ عْلِيكْ،
+طَيَّحْتْ بْرُوحَكْ مَشْ بِيهَا!".
 ONLY Yusuf's lips move naturally throughout this speech, while Amin's head bows
-deeper in visible shame and confusion staring at the cloth bag with his mouth
-completely closed, and Ramzi stays motionless with his mouth closed. NO eye
-contact with the camera, quiet room acoustics, zero music, no text, no
+deeper in visible shame and guilt staring at his mother's cloth bag with his
+mouth completely closed, and Ramzi stays motionless with his mouth closed. NO
+eye contact with the camera, quiet room acoustics, zero music, no text, no
 subtitles, no watermark.
 ```
 
@@ -418,7 +428,7 @@ subtitles, no watermark.
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
 - **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_10/S10_AMIN_REMORSE_AWAKENING.png`
 - **الحوار المنطوق (كلمات أمين بصوت مكسور لنفسه قبل اندفاعه راكضاً للحاق بأمه):**
-  - أمين فقط (`1.2s – 6.2s`): `"وَاشْ دَرْتْ أَنَا؟! كِيفَاشْ قْدَرْتْ نَهْدَرْ مَعَ يَمَّا هَكْذَاكْ... يَمَّا سَمْحِيلِي!"`
+  - **أمين فقط** (`1.2s – 6.2s`): `"وَاشْ دَرْتْ أَنَا؟! كِيفَاشْ قْدَرْتْ نَهْدَرْ مَعَ يَمَّا هَكْذَاكْ... يَمَّا سَمْحِيلِي!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -426,25 +436,27 @@ subtitles, no watermark.
 In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a gentle steady camera pan rightward following Amin as he bolts
-out the doorway. DO NOT MIRROR THE ROOM, keeping Ramzi seated bowed in shame at
-the wooden fast-food table on the far left, Yusuf standing motionless in the
-center-left midground in his slate-blue work shirt holding the clean
-cream-and-red-striped cloth bag respectfully against his chest, the closed grey
-waste bin, and the open doorway on the right unchanged. Preserve 100% identical
-faces and clothes on Amin in the right-center foreground (plain dark
-forest-green polo shirt, light-blue jeans, short trimmed beard, and rimless
-emerald-teal gold-hinged sunglasses kept firmly on his face). From 0.0 to 1.2
-seconds, suffocating silence fills the room as Amin stands frozen in shock with
-his hand trembling at his forehead above his sunglasses. From 1.2 to 6.2
-seconds, overwhelmed by sudden remorse and tearful realization, Amin speaks to
-himself in a broken, trembling voice in natural Algerian Darja:
+switches, and a steady locked medium-wide camera with a gentle pan rightward as
+Amin bolts out the doorway. DO NOT MIRROR THE ROOM, keeping the left white
+window, foreground wooden fast-food table, Ramzi seated bowed in shame on the
+left, 24-year-old Yusuf standing quietly in the center midground in his
+slate-blue work shirt holding the closed cream-and-red-striped cloth bag
+respectfully against his chest, the open white doorway on the right, and the
+closed grey swing-lid waste bin in the sunlit beige vestibule unchanged.
+Preserve 100% identical authentic V3 facial features and clothes on Amin
+standing on the right-center just before the open doorway (plain dark
+forest-green polo shirt, light-blue jeans, short fade haircut, trimmed beard,
+and rimless emerald-teal gold-hinged sunglasses kept firmly on his face). From
+0.0 to 1.2 seconds, suffocating silence fills the room as Amin stands frozen in
+shock with his right hand trembling at his forehead just above his sunglasses.
+From 1.2 to 6.2 seconds, overwhelmed by sudden remorse and tearful realization,
+Amin speaks to himself in a broken, trembling voice in natural Algerian Darja:
 "وَاشْ دَرْتْ أَنَا؟! كِيفَاشْ قْدَرْتْ نَهْدَرْ مَعَ يَمَّا هَكْذَاكْ... يَمَّا سَمْحِيلِي!"
 — ONLY Amin's lips move while Yusuf and Ramzi keep their mouths closed. From 6.2
-to 10.0 seconds, Amin abruptly turns and rushes swiftly out through the open
-right doorway down the corridor to catch up with his mother. Crisp hurried
-footsteps and room tone, NO eye contact with the camera, zero music, no text, no
-subtitles, no watermark.
+to 10.0 seconds, Amin lowers his hand, turns sharply right, and rushes swiftly
+out through the open doorway past the grey waste bin to catch up with his
+mother. Crisp hurried footsteps and room tone, NO eye contact with the camera,
+zero music, no text, no subtitles, no watermark.
 ```
 
 
