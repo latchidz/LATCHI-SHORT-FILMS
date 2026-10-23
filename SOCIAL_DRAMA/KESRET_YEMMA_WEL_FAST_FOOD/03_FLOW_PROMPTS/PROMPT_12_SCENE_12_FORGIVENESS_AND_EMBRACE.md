@@ -3,7 +3,7 @@
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
 - **الصورة المرجعية المستقلة:** `02_SCENES/S12_FORGIVENESS_AND_EMBRACE.png`
 - **الحوار المنطوق (دارجة جزائرية مؤثرة بالتتابع مع وقفة صمت قصيرة بينهما):**
-  - أمين *(بصوت مكسور ومختنق)*: `"اسْمَحِيلِي يَا يَمَّا… الشِّطَانْ عْمَانِي. حَقَّكْ عْلِيَّا، وَرَبِّي شَاهَدْ مَا نْزِيدْ نَجْرْحَكْ هَكَّا."`
+  - أمين *(بصوت مكسور ومختنق)*: `"سَمْحِيلِي يَا يَمَّا... الشِّيطَانْ عْمَانِي، وَحَقَّكْ عْلِيَّا، وَرَبِّي شَاهَدْ وَالله مَا نْزِيدْ نَجْرَحْكْ وَلَا نْقِيسْكْ حْتَّى بِكَلْمَة... رَانِي فْرِي نَدْمَانْ!"`
   - *(وقفة صمت قصيرة مؤلمة تسحب فيها يمينة يديها قليلًا إلى صدرها وتنظر إليه بحزن، ثم تلين ملامحها وتمسح دموعه)*
   - يمينة *(بهدوء حنون صادق)*: `"مْسَامْحَاتَكْ يَا وْلِيدِي… رَبِّي يَهْدِيكْ وَيَرْضَى عْلِيكْ."` *(عناق هادئ)*
 
@@ -23,7 +23,7 @@ firmly on his face) and 62-year-old Aunt Yamina seated on the concrete step on
 the right (modest slate-navy cotton dress and cream-beige headscarf). From 0 to
 4.5 seconds, holding his mother's hands gently with bowed head and tearful
 remorse, Amin speaks in a broken, choked voice in natural Algerian Darja:
-"اسْمَحِيلِي يَا يَمَّا… الشِّطَانْ عْمَانِي. حَقَّكْ عْلِيَّا، وَرَبِّي شَاهَدْ مَا نْزِيدْ نَجْرْحَكْ هَكَّا."
+"سَمْحِيلِي يَا يَمَّا... الشِّيطَانْ عْمَانِي، وَحَقَّكْ عْلِيَّا، وَرَبِّي شَاهَدْ وَالله مَا نْزِيدْ نَجْرَحْكْ وَلَا نْقِيسْكْ حْتَّى بِكَلْمَة... رَانِي فْرِي نَدْمَانْ!"
 — ONLY Amin's lips move while Yamina's mouth stays closed. From 4.5 to 6.2
 seconds, in a brief painful silent pause, Yamina gently draws her hands slightly
 back toward her chest and looks at him in silent hurt while both mouths stay

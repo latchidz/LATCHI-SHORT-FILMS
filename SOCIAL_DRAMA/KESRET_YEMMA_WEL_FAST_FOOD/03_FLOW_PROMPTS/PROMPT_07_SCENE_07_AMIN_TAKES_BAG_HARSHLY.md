@@ -3,7 +3,7 @@
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
 - **الصورة المرجعية المستقلة:** `02_SCENES/S07_AMIN_TAKES_BAG_HARSHLY.png`
 - **الحوار المنطوق (دارجة جزائرية طبيعية بنبرة توتر وانزعاج واقعية):**
-  - أمين فقط: `"بَهْدَلْتِينِي قُدَّامْ صْحَابِي! قُتْلَكْ مَا تْجِيشْ تَتَّبْعِينِي لِلْخَدْمَة. حْنَا نَاكْلُو المَاكْلَة النّْقِيَّة، مَاشِي هَادْ الشِّي!"`
+  - أمين فقط: `"وَعْلَاهْ يَا يَمَّا جِيتِي لْهنَا؟ بَهْدَلْتِينِي قُدَّامْ صْحَابِي! رَانِي قُتْلَكْ مَا تْزِيدِيشْ تْجِينِي لِلْخَدْمَة... رَانِي نْدَبَّرْ رَاسِي وَحْدِي!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -24,7 +24,7 @@ cream-and-red-striped cloth bag abruptly from his mother's hands by its fabric
 straps without touching or pushing his mother. From 2.5 to 9 seconds, holding
 the cloth bag tensely, Amin speaks to his mother in sharp, embarrassed,
 frustrated natural Algerian Darja without theatrical screaming:
-"بَهْدَلْتِينِي قُدَّامْ صْحَابِي! قُتْلَكْ مَا تْجِيشْ تَتَّبْعِينِي لِلْخَدْمَة. حْنَا نَاكْلُو المَاكْلَة النّْقِيَّة، مَاشِي هَادْ الشِّي!".
+"وَعْلَاهْ يَا يَمَّا جِيتِي لْهنَا؟ بَهْدَلْتِينِي قُدَّامْ صْحَابِي! رَانِي قُتْلَكْ مَا تْزِيدِيشْ تْجِينِي لِلْخَدْمَة... رَانِي نْدَبَّرْ رَاسِي وَحْدِي!".
 ONLY Amin's lips move naturally during this line, while Aunt Yamina stands
 frozen in silent heartbreak with her mouth completely closed and Ramzi's smirk
 fades completely into uncomfortable silence with his mouth closed. NO eye
