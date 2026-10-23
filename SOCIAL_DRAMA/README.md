@@ -10,3 +10,4 @@
 | [`EL_SHEDDA_TBEYEN_ERDJAL/`](EL_SHEDDA_TBEYEN_ERDJAL) — الشدة تبيّن الرجال (*THE TRUE TEST OF MEN*) | ✅ مكتمل (SC01–SC12 جاهزة ومصلّحة بالكامل) | 9:16 | `00_MEMO/` | `03_FLOW_PROMPTS/` |
 
 > ℹ️ «حكايات أمين EP1» حُذف نهائياً بطلب العميل (21/10/2026) — مكتمل ومُسلَّم.
+- **`AMANAH_FI_AL_QUMAMA/`** — «أمانة في القمامة» (12 مشهداً × 10 ثوانٍ · `First & Last` · بطولة أمين V3).
