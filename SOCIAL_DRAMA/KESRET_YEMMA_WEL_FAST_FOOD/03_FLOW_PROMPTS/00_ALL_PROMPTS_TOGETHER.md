@@ -1,6 +1,6 @@
 # 🎬 الملف الجامع لجميع برومبتات الفيديوهات — «كَسْرَة يَمَّا وَالفَاسْت فُود» (`01` إلى `12B`)
 
-> جميع البرومبتات مرتبة بالتسلسل ومضبوطة بالثانية على مدة ملفات صوت **أمين** المسجَّلة والمقسَّمة، مع تحديث المشهد 02 للواقعية التامة (`S02A` + `S02B`).
+> جميع البرومبتات مرتبة بالتسلسل وفق قواعد مذكرة الاستوديو المعتمدة (`35mm Live-Action`، صفر موسيقى، حركة شفاه للمتحدث فقط، استمرارية بصرية 100%).
 
 
 ---
@@ -39,92 +39,43 @@ dialogue, zero music, no subtitles, no text, no watermark.
 
 ---
 
-# 🎬 المشهد 02 — خروج أمين مسرعاً وحده ووصول أمه بعد خروجه (`AMIN_LEAVES_WITHOUT_BREAKFAST`)
+# 🎬 المشهد 02 — برومبت واحد احترافي يجمع الصورتين معاً (`First & Last Frame`)
 
-- **المقاس والمدة:** أفقي `16:9` (`1920×1080`)
-- **الصورتان المرجعيتان داخل `02_SCENES/SCENE_02/` (لضمان واقعية 100% وعدم اختراع وجه غريب للأم):**
-  1. **`S02A_AMIN_LEAVES_ALONE.png`** — أمين وحده تماماً عند باب الشقة والممر خلفه فارغ.
-  2. **`S02B_YAMINA_FINDS_AMIN_GONE.png`** — الباب مغلق بعد خروج أمين، والخالة يمينة خرجت لتوّها من المطبخ حاملة كيس الكسرة فوجدته قد خرج.
-- **الحوار المنطوق (لخالتي يمينة فقط بعد خروج أمين):**
-  - `"مَسْكِينْ وْلِيدِي أَمِينْ خْرَجْ بْلَا فْطُورْ... خْلَاصْ دْرُكْ نْوَصَّلْهَالُو لِلْخَدْمَة عْلَى زَهْرِي."`
+- **الإعداد في Google Flow:** `Frames > First and last` · أفقي `16:9`
+  - **First Frame (إطار البداية):** `S02A_AMIN_LEAVES_ALONE.png`
+  - **Last Frame (إطار النهاية):** `S02B_YAMINA_FINDS_AMIN_GONE.png`
 
----
-
-## 📋 الخيار 1 (موصى به لفيديو واحد متصل `10 ثوانٍ` بنظام `First and Last Frame`)
-- **الإعداد في Google Flow:** اختر وضع `Frames > First and last`، ارفع **`S02A_AMIN_LEAVES_ALONE.png`** كإطار بداية (`First Frame`) وارفع **`S02B_YAMINA_FINDS_AMIN_GONE.png`** كإطار نهاية (`Last Frame`)، والصق هذا البرومبت المصحّح الخالي من أي رموز زائدة:
+## 📋 البرومبت الواحد النهائي الجاهز للنسخ
 
 ```text
-In a single unbroken scene and a single continuous 10-second horizontal
-widescreen 16:9 live-action 35mm Algerian family drama shot bridging smoothly
-from the First Frame to the Last Frame, with zero cut edits, zero axis flips,
-and a completely locked static camera in the exact same apartment entrance
-hallway. DO NOT MIRROR THE HALLWAY, keeping the white walls, left kitchen
+Single continuous, unbroken horizontal widescreen 16:9 live-action 35mm
+Algerian realism shot bridging cleanly from the First Frame to the Last Frame,
+with zero cut edits, zero dissolves, zero character morphing, and a rock-steady
+locked camera keeping the apartment entrance hallway, white walls, left kitchen
 doorway, floor mat with shoes, wall intercom, and dark brown wooden front door
-on the right 100% unchanged. Preserve 100% identical faces and outfits on Amin
-in the First Frame (plain dark forest-green polo shirt, light-blue jeans, and
-rimless emerald-teal gold-hinged sunglasses) and 62-year-old Aunt Yamina in the
-Last Frame (modest slate-navy long dress and cream-beige headscarf holding the
-clean cream-and-red-striped cloth bag). From 0.0 to 3.3 seconds, Amin is alone
-in the hallway: he presses the handle down, opens the dark brown front door,
-steps outside to leave for work without speaking, and pulls the door shut behind
-him with a clear audible latch click. From 3.3 to 4.8 seconds, right after the
-front door clicks shut, Aunt Yamina steps hurriedly out from the left kitchen
-doorway into the hallway carrying the striped cloth bag to give her son his
-breakfast, stopping short as she sees the closed front door and realizes he has
-already left. From 4.8 to 9.2 seconds, looking gently at the closed front door
-with warm maternal concern, Aunt Yamina speaks softly to herself in natural
-Algerian Darja: "مَسْكِينْ وْلِيدِي أَمِينْ خْرَجْ بْلَا فْطُورْ... خْلَاصْ دْرُكْ نْوَصَّلْهَالُو لِلْخَدْمَة عْلَى زَهْرِي."
-— ONLY Yamina's lips move naturally during this line and close cleanly at 9.2
-seconds as she stands holding the cloth bag in the hallway matching the Last
-Frame. Quiet indoor acoustics, realistic door latch click, clear Algerian
-speech, NO eye contact with the camera, zero music, no subtitles, no text, no
-watermark.
-```
-
----
-
-## 📋 الخيار 2 (بديل مضمون جداً بنظام الصورة الواحدة `Single Image` على لقطتين متتاليتين `02A` + `02B`)
-*(إذا فضّلت التوليد بصورة مرجعية واحدة لكل فيديو لضمان أقصى استقرار لحركة الباب وحركة شفاه الأم دون دمج شخصيتين تتبدلان في كادر واحد):*
-
-### 🔹 اللقطة `02A` — خروج أمين وحده (`S02A_AMIN_LEAVES_ALONE.png` · بدون كلام):
-```text
-In a single unbroken scene and a single continuous horizontal widescreen 16:9
-live-action 35mm Algerian family drama shot starting directly from the uploaded
-reference image, with zero scene cuts and a completely locked static camera in
-the modest apartment entrance hallway. DO NOT MIRROR THE HALLWAY, keeping the
-empty left kitchen doorway, white walls, shoes on the floor mat, intercom, and
-dark brown wooden front door on the right unchanged with ONLY Amin in the frame
-completely alone. Preserve 100% identical facial features and outfit on Amin
-(plain dark forest-green polo shirt, light-blue slim jeans, and rimless
-emerald-teal gold-hinged sunglasses kept firmly on his face). Nobody speaks and
-Amin's mouth stays closed throughout. Amin presses the metal handle down, opens
-the dark brown wooden front door, steps briskly outside into the landing to head
-to work, and pulls the wooden door firmly shut behind him with a realistic
-audible latch click, leaving the apartment hallway completely empty for the
-final two seconds. Quiet indoor room tone, footsteps and crisp door click, zero
-speech, zero music, no text, no subtitles, no watermark.
-```
-
-### 🔹 اللقطة `02B` — وصول الخالة يمينة متأخرة بثوانٍ (`S02B_YAMINA_FINDS_AMIN_GONE.png` · ناطقة):
-```text
-In a single unbroken scene and a single continuous 10-second horizontal
-widescreen 16:9 live-action 35mm Algerian family drama shot starting directly
-from the uploaded reference image, with zero scene cuts and a steady locked
-camera in the exact same apartment entrance hallway with the dark brown front
-door on the right fully closed and ONLY 62-year-old Aunt Yamina in the frame. DO
-NOT MIRROR THE HALLWAY. Preserve 100% identical facial features and modest
-clothes on Aunt Yamina (slate-navy long cotton dress and warm cream-beige
-headscarf holding the clean cream-and-red-striped cloth bag in both hands). From
-0.0 to 2.2 seconds, having just emerged from the kitchen to hand her son his
-breakfast, Yamina pauses in the hallway looking across at the closed brown front
-door, realizing with gentle maternal concern that Amin has already gone out.
-From 2.2 to 7.8 seconds, looking toward the closed door, Aunt Yamina speaks
-softly to herself in natural Algerian Darja:
+100% fixed without mirroring. Strictly separate the two characters in time with
+zero overlap: In the first 0.0 to 3.0 seconds, ONLY the young man Amin (plain
+dark forest-green polo shirt, light-blue slim jeans, and rimless emerald-teal
+gold-hinged sunglasses kept on his face, mouth closed) is in the hallway; with
+brisk, natural real-life speed he presses down the right lever handle, pulls
+the dark brown wooden door swiftly open inward on its left hinges, steps
+quickly outside into the stairwell landing, and pulls the wooden door firmly
+shut behind him with a crisp latch click — Amin stays completely outside behind
+the closed door for the rest of the shot. Immediately from 3.0 to 4.2 seconds,
+right on the sound of the door clicking shut, 62-year-old Aunt Yamina (exact
+woman from the Last Frame in her modest slate-navy long dress and cream-beige
+headscarf carrying the cream-and-red-striped cloth bag in both hands) walks
+briskly out from the open left kitchen doorway into the hallway to hand her son
+his breakfast, stopping naturally as she immediately notices the closed front
+door. From 4.2 to 8.8 seconds, with a quick, authentic maternal reaction of
+warm concern (no melodrama or crying), she looks at the closed door and speaks
+at a natural, lively everyday pace in clear Algerian Darja:
 "مَسْكِينْ وْلِيدِي أَمِينْ خْرَجْ بْلَا فْطُورْ... خْلَاصْ دْرُكْ نْوَصَّلْهَالُو لِلْخَدْمَة عْلَى زَهْرِي."
-— ONLY Yamina's lips move naturally during this line and then close. From 7.8 to
-10.0 seconds, she takes two calm determined steps forward toward the front door
-holding the cloth bag. Quiet indoor acoustics, clear Algerian speech, NO eye
-contact with the camera, zero music, no subtitles, no text, no watermark.
+— ONLY Aunt Yamina's lips move crisply and naturally during this line, closing
+her mouth cleanly at 8.8 seconds as she settles into the exact calm standing
+pose of the Last Frame holding the striped cloth bag. Natural indoor room
+acoustics, quick footsteps, realistic wooden door latch click, NO eye contact
+with the camera, zero music, no subtitles, no text, no watermark.
 ```
 
 
@@ -310,22 +261,15 @@ subtitles, no watermark.
 
 ---
 
-# 🎬 المشهد 07 — غضب أمين وأخذ الكيس بجفاء (`AMIN_TAKES_BAG_HARSHLY`)
+# 🎬 المشهد 07 — غضب أمين، أخذ الكيس بجفاء، ورميه بجانب السلة (`AMIN_TAKES_BAG_HARSHLY`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
 - **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_07/S07_AMIN_TAKES_BAG_HARSHLY.png`
-- **ملف صوت أمين الجاهز للمونتاج:** `SCENE_07_AMIN.mp3` *(مدته الصافية `7.86s` — يوضع على التايملاين بدءاً من الثانية `1.2s` حتى `9.7s` مع كتم صوت الفيديو الأصلي)*
-- **التوقيت الزمني الدقيق المطابق لتسجيلك الصوتي كلمة بكلمة:**
-  - `0.0s – 1.4s`: أمين ينهض متوتراً ويمسك مقبض الكيس *(فمه مغلق)*.
-  - `1.4s – 5.1s` (`3.7s`): الجزء الأول من جملتك: `"وَعْلَاهْ يَا يَمَّا جِيتِي لْهنَا؟ بَهْدَلْتِينِي قُدَّامْ صْحَابِي!"`
-  - `5.1s – 5.6s` (`0.5s`): وقفة نفس قصيرة مطابقة لتنفسك في التسجيل.
-  - `5.6s – 9.4s` (`3.8s`): الجزء الثاني من جملتك: `"رَانِي قُتْلَكْ مَا تْزِيدِيشْ تْجِينِي لِلْخَدْمَة... رَانِي نْدَبَّرْ رَاسِي وَحْدِي!"`
-  - `9.4s – 10.0s`: إغلاق الفم بنظرة انزعاج متوترة.
+- **ملف صوت أمين الجاهز للمونتاج:** `SCENE_07_AMIN.mp3` *(يوضع بدءاً من الثانية `1.1s` حتى `9.5s`)*
+- **الحوار المنطوق (لأمين وحده):**
+  - `"وَعْلَاهْ يَا يَمَّا جِيتِي لْهنَا؟ بَهْدَلْتِينِي قُدَّامْ صْحَابِي! رَانِي قُتْلَكْ مَا تْزِيدِيشْ تْجِينِي لِلْخَدْمَة... رَانِي نْدَبَّرْ رَاسِي وَحْدِي!"`
 
----
-
-## 📋 الخيار (A) — برومبت Google Flow الموصى به (تطابق شفاه دقيق 100% مع الـ `7.9 ثانية` في تسجيلك)
-*(في المونتاج تكتم صوت الفيديو وتحط ملف `SCENE_07_AMIN.mp3` بدءاً من الثانية `1.2s` — يتطابق حتى في وقفة النفس عند الثانية `5.1s`!).*
+## 📋 برومبت Google Flow الجاهز للنسخ
 
 ```text
 In a single unbroken scene and a single continuous 10-second horizontal
@@ -337,53 +281,32 @@ horizontal safe zone. DO NOT MIRROR THE ROOM and keep zero extra people.
 Preserve 100% identical faces and clothes on Ramzi (seated left in tan-beige
 overshirt over black t-shirt), Amin (rising tensely in the center in his plain
 dark forest-green polo shirt, light-blue jeans, and rimless emerald-teal
-gold-hinged sunglasses kept firmly on his face), and 62-year-old Aunt Yamina
-on the right (modest slate-navy long dress and cream-beige headscarf). From
-0.0 to 1.4 seconds, Amin rises beside the table and pulls the clean
-cream-and-red cloth bag abruptly by its fabric straps without touching his
-mother while all mouths stay closed. From 1.4 to 5.1 seconds, ONLY Amin's lips
-move clearly in frustrated Algerian Darja: "وَعْلَاهْ يَا يَمَّا جِيتِي
-لْهنَا؟ بَهْدَلْتِينِي قُدَّامْ صْحَابِي!". After a brief 0.5-second breath
-pause from 5.1 to 5.6 seconds, from 5.6 to 9.4 seconds ONLY Amin's lips
-continue speaking in tense Algerian Darja: "رَانِي قُتْلَكْ مَا تْزِيدِيشْ
-تْجِينِي لِلْخَدْمَة... رَانِي نْدَبَّرْ رَاسِي وَحْدِي!", closing his mouth
-at 9.4 seconds. Aunt Yamina stands frozen in silent heartbreak with her mouth
-closed and Ramzi sits uncomfortable with his mouth closed. NO eye contact with
-the camera, crisp indoor room tone, zero music, no text, no subtitles, no
-watermark.
-```
-
----
-
-## 📋 الخيار (B) — نسخة تحريك شفاه أمين بدون صوت كلام مسموع (`Silent Lip Articulation`)
-
-```text
-In a single unbroken scene and a single continuous 10-second horizontal
-widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
-from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a steady locked medium-wide camera. DO NOT MIRROR THE ROOM and
-keep zero extra people. Preserve 100% identical faces and clothes on Ramzi
-(seated left), Amin (center, plain dark forest-green polo shirt and rimless
-emerald-teal gold-hinged sunglasses kept firmly on his face), and Aunt Yamina
-(right, modest slate-navy dress and cream-beige headscarf). From 0.0 to 1.4
-seconds, Amin rises and takes the cloth bag by its straps while all mouths
-stay closed. From 1.4 to 5.1 seconds, ONLY Amin's lips and jaw articulate
-naturally as if speaking a frustrated phrase, pausing briefly for breath from
-5.1 to 5.6 seconds, then continuing realistic tense lip movement from 5.6 to
-9.4 seconds before closing his mouth at 9.4 seconds — while Yamina and Ramzi
-keep their mouths completely closed throughout. Audio consists ONLY of quiet
-room tone and soft cloth rustle with ZERO audible spoken voice and zero music.
-NO eye contact with the camera, no text, no subtitles, no watermark.
+gold-hinged sunglasses kept firmly on his face), and 62-year-old Aunt Yamina on
+the right (modest slate-navy long dress and cream-beige headscarf). From 0.0 to
+1.2 seconds, Amin rises beside the table and pulls the clean cream-and-red
+cloth bag abruptly by its fabric straps without touching his mother while all
+mouths stay closed. From 1.2 to 4.9 seconds, ONLY Amin's lips move clearly in
+frustrated Algerian Darja: "وَعْلَاهْ يَا يَمَّا جِيتِي لْهنَا؟ بَهْدَلْتِينِي قُدَّامْ صْحَابِي!".
+After a brief 0.5-second breath pause from 4.9 to 5.4 seconds, from 5.4 to 9.1
+seconds ONLY Amin's lips continue speaking in tense Algerian Darja:
+"رَانِي قُتْلَكْ مَا تْزِيدِيشْ تْجِينِي لِلْخَدْمَة... رَانِي نْدَبَّرْ رَاسِي وَحْدِي!".
+From 9.1 to 10.0 seconds, Amin closes his mouth and carelessly drops the closed
+cloth bag upright onto the clean floor right beside the grey waste bin while
+heartbroken Yamina turns silently to leave out the doorway and Ramzi looks down
+in uncomfortable silence. NO eye contact with the camera, crisp indoor room
+tone, zero music, no text, no subtitles, no watermark.
 ```
 
 
 ---
 
-# 🎬 المشهد 08 — لحظة الصدمة وسقوط الكيس بجانب السلة (`KESRA_BAG_BESIDE_BIN`)
+# 🎬 المشهد 08 — دخول يوسف وبداية المواجهة (`YUSUF_ENTERS_CONFRONTATION`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
-- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_08/S08_KESRA_BAG_BESIDE_BIN.png`
-- **الحوار المنطوق:** بدون كلام نهائيًا *(صوت ارتطام الكيس بحافة السلة وسقوطه على الأرض النظيفة بجانبها، وصمت ثقيل خانق)*
+- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_08/S08_YUSUF_ENTERS_CONFRONTATION.png`
+- **الحوار المنطوق (دارجة جزائرية طبيعية بالتتابع دون تداخل):**
+  - يوسف (`0.3s – 5.2s`): `"وَاشْ هَادْ الحِسْ وَالعْيَاطْ؟ غِيرْ خِيرْ إِنْ شَاءَ الله... وَاشْ كَايَنْ يَا أَمِينْ؟"`
+  - أمين (`5.5s – 9.0s`، بنبرة انفعال ونرفزة حادة): `"رَانِي مَعَ يَمَّا! مَا تْدَخَّلْشْ رُوحَكْ!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -391,77 +314,39 @@ NO eye contact with the camera, no text, no subtitles, no watermark.
 In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a steady locked medium-wide camera keeping the fast-food table
-on the left, Amin, Aunt Yamina, and the closed grey plastic waste bin on the
-right clearly inside the horizontal safe zone. DO NOT MIRROR THE ROOM and keep
-zero extra people. Preserve 100% identical faces and clothes on Ramzi (seated
-left in tan-beige overshirt, mouth closed, expression sober and
-uncomfortable), Amin (standing center in plain dark forest-green polo shirt,
-light-blue jeans, and rimless emerald-teal gold-hinged sunglasses kept firmly
-on his face), and Aunt Yamina (standing behind him in modest slate-navy dress
-and cream-beige headscarf). Nobody speaks a single word and ALL mouths remain
-completely closed for the entire 10 seconds. From 0 to 3 seconds, Amin tosses
-the closed cream-and-red-striped cloth bag carelessly toward the closed grey
-plastic waste bin on the right; the cloth bag brushes the clean outer rim of
-the closed bin lid and drops upright onto the clean tiled floor right beside
-the bin WITHOUT going inside the bin, WITHOUT touching any trash, and WITHOUT
-opening or spilling any food. From 3 to 10 seconds, heavy stunned silence
-fills the room: Ramzi lowers his eyes uncomfortably, Amin stands breathing
-tensely looking down, and Aunt Yamina stares silently at the cloth bag on the
-floor with wounded maternal dignity and shimmering unshed tears before slowly
-turning away toward the open doorway. Natural foley of the soft cloth thud on
-clean tiles and heavy room silence, zero speech, zero music, no text, no
-subtitles, no watermark.
-```
-
-
----
-
-# 🎬 المشهد 09 — تدخل ياسين وكلمات توقظ الضمير (`YASSINE_RESPECTS_KESRA`)
-
-- **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
-- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_09/S09_YASSINE_RESPECTS_KESRA.png`
-- **الحوار المنطوق (دارجة جزائرية طبيعية بنبرة هادئة وصادقة وحزينة):**
-  - ياسين فقط: `"أَنَا يَمَّا مَاتَتْ… وَنَتْمَنَّى غِيرْ نَلْقَى شْكُونْ يْطَيَّبْلِي كَسْرَة كِيمَا هَذِي. يَمَّاكْ تَعْبَتْ وَجَابَتْهَالَكْ بْيَدِّيهَا، وَانْتَ رْمِيتْهَا قُدَّامْهَا؟"`
-
-## 📋 برومبت Google Flow الجاهز للنسخ
-
-```text
-In a single unbroken scene and a single continuous 10-second horizontal
-widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
-from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a completely locked medium-wide camera. DO NOT MIRROR THE ROOM,
-keeping the wooden fast-food table on the left, closed grey waste bin, and
-open hallway doorway on the right unchanged. Preserve 100% identical faces and
-clothes on Ramzi (seated left with head bowed in shame), Amin (standing beside
-the table in plain dark forest-green polo shirt, light-blue jeans, white
+switches, and a rock-steady locked medium-wide camera. DO NOT MIRROR THE ROOM,
+keeping the left window, metal-legged wooden table with burger boxes, fries, and
+cups, the closed grey waste bin with the clean upright cream-and-red-striped
+cloth bag resting on the clean tiled floor beside it, and the open right doorway
+unchanged with zero extra people (Aunt Yamina has already left). Preserve 100%
+identical faces and clothes on Ramzi (seated left looking down evasively), Amin
+(standing center in plain dark forest-green polo shirt, light-blue jeans, white
 sneakers, and rimless emerald-teal gold-hinged sunglasses kept firmly on his
-face), 24-year-old coworker Yassine (buzzcut hair, short beard, plain
-slate-blue button-up work shirt over white tee and dark navy trousers), and
-Aunt Yamina walking quietly away down the bright hallway on the far right.
-From 0 to 2.5 seconds, while Aunt Yamina disappears quietly down the outer
-corridor, Yassine gently lifts the clean upright cream-and-red-striped cloth
-bag by its fabric handles from the spotless floor beside the bin WITHOUT
-touching the waste bin, straightening up while holding the clean cloth bag
-respectfully against his chest in both hands. From 2.5 to 9.5 seconds, turning
-earnestly toward Amin, Yassine speaks calmly with quiet, wounded sincerity in
-natural Algerian Darja: "أَنَا يَمَّا مَاتَتْ… وَنَتْمَنَّى غِيرْ نَلْقَى
-شْكُونْ يْطَيَّبْلِي كَسْرَة كِيمَا هَذِي. يَمَّاكْ تَعْبَتْ وَجَابَتْهَالَكْ
-بْيَدِّيهَا، وَانْتَ رْمِيتْهَا قُدَّامْهَا؟". ONLY Yassine's lips move during
-this speech, while Amin stands struck with remorse with his mouth closed and
-Ramzi sits motionless looking down with his mouth closed. NO eye contact with
-the camera, quiet room acoustics, zero music, no text, no subtitles, no
+face), and 24-year-old Yusuf standing at the open right doorway threshold
+(buzzcut hair, short beard, clean slate-blue button-up work shirt over white tee
+and dark navy trousers). From 0.3 to 5.2 seconds, glancing from the cloth bag
+beside the bin to tense Amin, Yusuf speaks calmly with serious concern in
+natural Algerian Darja: "وَاشْ هَادْ الحِسْ وَالعْيَاطْ؟ غِيرْ خِيرْ إِنْ شَاءَ الله... وَاشْ كَايَنْ يَا أَمِينْ؟"
+— during this line ONLY Yusuf's lips move while Amin and Ramzi keep their mouths
+closed. From 5.5 to 9.0 seconds, Yusuf closes his mouth and Amin snaps back
+defensively in sharp, irritated Algerian Darja with clenched hands:
+"رَانِي مَعَ يَمَّا! مَا تْدَخَّلْشْ رُوحَكْ!" — during this reply ONLY Amin's lips
+move while Yusuf and Ramzi keep their mouths closed. NO eye contact with the
+camera, natural indoor room acoustics, zero music, no text, no subtitles, no
 watermark.
 ```
 
 
 ---
 
-# 🎬 المشهد 10 — بداية الندم وخروج أمين خلف أمه (`BEGINNING_OF_REGRET`)
+# 🎬 المشهد 09 (الجزء الأول 09A) — يوسف يرفع كيس الكسرة بوقار ويبدأ الموعظة (`YUSUF_LIFTS_KESRA_BAG`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
-- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_10/S10_BEGINNING_OF_REGRET.png`
-- **الحوار المنطوق:** بدون كلام نهائيًا *(خطوات أمين السريعة وحفيف الهواء الطبيعي)*
+- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_09/S09A_YUSUF_LIFTS_KESRA_BAG.png`
+- **لماذا قسّمنا المشهد 09 إلى `09A` + `09B` وفق قواعد الاستوديو؟**
+  - لأن موعظة يوسف القوية تتجاوز `55 كلمة` وتستغرق نحو `18 ثانية` في الأداء الواقعي؛ تقسيمها إلى `09A` (رفع الكيس + النصف الأول من الموعظة في لقطة متوسطة) ثم `09B` (النصف الثاني الأعمق في لقطة ثنائية مقربة وجهاً لوجه) يمنع تسريع الكلام أو تشويهه ويمنح المشهد ذروة سينمائية مزلزلة.
+- **الحوار المنطوق في `09A` (دارجة جزائرية قوية بنبرة حرقة صادقة دون صراخ مفرط):**
+  - يوسف فقط: `"كِيفَاشْ مَا نْدَخَّلْشْ رُوحِي؟! رَاكْ تْعَيَّطْ عْلَى يَمَّاكْ اللِّي جَابَتَكْ، سَهْرَتْ عْلِيكْ اللِّيَالِي، وَكَبّْرَتَكْ حَتَّى رَدَّاتَكْ رَاجَلْ؟! عْلَى جَالْ بْلَاطُو فَاسْتْ فُودْ تْطَيَّحْ بْقَدْرْ اللِّي الجَنَّة تَحْتْ رَجْلِيهَا؟!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -469,35 +354,71 @@ watermark.
 In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a gentle steady pan-and-push rightward following Amin toward the
-open doorway. DO NOT MIRROR THE ROOM, keeping the exact break room, wooden
-fast-food table on the left, closed grey waste bin, and open doorway on the
-right unchanged with ONLY Ramzi, Yassine, and Amin in frame (Aunt Yamina has
-already left). Preserve 100% identical faces and clothes on Ramzi (seated left
-in silent shame), Yassine (standing center-right in his slate-blue work shirt
-holding the clean cream-and-red-striped cloth bag respectfully with both hands
-against his chest), and Amin on the right (plain dark forest-green polo shirt,
-light-blue jeans, and rimless emerald-teal gold-hinged sunglasses kept firmly
-on his face). Nobody speaks a single word and ALL mouths remain closed
-throughout the entire 10 seconds. From 0 to 4 seconds, Amin stands frozen near
-the open doorway with bowed head and heavy breathing as deep guilt washes over
-him, glancing once back at the untouched fast food and then toward the empty
-corridor where his mother walked out. From 4 to 10 seconds, Amin abruptly
-turns and hurries swiftly out through the open doorway down the bright hallway
-to catch up with his mother while Yassine watches him go quietly holding the
-kesra cloth bag. NO eye contact with the camera, crisp footsteps echoing in
-the hallway and natural room tone, zero speech, zero music, no text, no
+switches, and a steady locked medium-wide camera. DO NOT MIRROR THE ROOM,
+keeping the wooden fast-food table on the left, closed grey waste bin, and empty
+hallway doorway on the right unchanged with zero extra people. Preserve 100%
+identical faces and clothes on Ramzi (seated left with head bowed in shame),
+Amin (standing beside the table in plain dark forest-green polo shirt,
+light-blue jeans, white sneakers, and rimless emerald-teal gold-hinged
+sunglasses kept firmly on his face), and 24-year-old Yusuf (slate-blue button-up
+work shirt over white tee and dark navy trousers). From 0.0 to 2.2 seconds,
+Yusuf gently lifts the clean cream-and-red-striped cloth bag by its handles from
+the spotless tiled floor beside the closed bin WITHOUT touching the bin,
+straightening up firmly and stepping toward Amin while holding the cloth bag
+respectfully with both hands against his chest. From 2.2 to 9.8 seconds, facing
+Amin with deep moral grief and heartfelt earnestness without theatrical
+screaming, Yusuf speaks clearly in natural Algerian Darja:
+"كِيفَاشْ مَا نْدَخَّلْشْ رُوحِي؟! رَاكْ تْعَيَّطْ عْلَى يَمَّاكْ اللِّي جَابَتَكْ، سَهْرَتْ عْلِيكْ اللِّيَالِي، وَكَبّْرَتَكْ حَتَّى رَدَّاتَكْ رَاجَلْ؟! عْلَى جَالْ بْلَاطُو فَاسْتْ فُودْ تْطَيَّحْ بْقَدْرْ اللِّي الجَنَّة تَحْتْ رَجْلِيهَا؟!".
+ONLY Yusuf's lips move naturally while Amin's defensive anger falters with his
+mouth closed and Ramzi sits bowed with his mouth closed. NO eye contact with the
+camera, natural room acoustics, zero music, no text, no subtitles, no watermark.
+```
+
+
+---
+
+# 🎬 المشهد 09 (الجزء الثاني 09B) — ذروة موعظة يوسف وجهاً لوجه (`YUSUF_MORAL_TRUTH_TWO_SHOT`)
+
+- **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
+- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_09/S09B_YUSUF_MORAL_TRUTH_TWO_SHOT.png`
+- **الحوار المنطوق في `09B` (دارجة جزائرية مؤثرة تقطع القلب بنبرة حزن صادق):**
+  - يوسف فقط: `"أَنَا يَمَّا تَحْتْ التّْرَابْ وَنَتْمَنَّى غِيرْ نْشَمْ رِيحَتْهَا وَلَا نَاكُلْ كَسْرَة مَنْ يَدِّيهَا... وَأَنْتَ تَرْمِي خِيرْهَا قُدَّامْ صْحَابَكْ؟! وَالله عِيبْ وَعَارْ عْلِيكْ، طَيَّحْتْ بْرُوحَكْ مَشْ بِيهَا!"`
+
+## 📋 برومبت Google Flow الجاهز للنسخ
+
+```text
+In a single unbroken scene and a single continuous 10-second horizontal
+widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
+from the uploaded reference image, with zero scene cuts, zero camera angle
+switches, and a very subtle slow push-in on the emotional Medium Two-Shot inside
+the exact same break room. DO NOT MIRROR THE ROOM, keeping Ramzi seated softly
+out-of-focus at the wooden table in the left background with his head bowed in
+shame. Preserve 100% identical faces and clothes on Amin on the left-center
+(plain dark forest-green polo shirt, light-blue jeans, short trimmed beard, and
+rimless emerald-teal gold-hinged sunglasses kept firmly on his face) and
+24-year-old Yusuf standing close opposite him on the right-center (slate-blue
+button-up work shirt over white tee and dark navy trousers, cradling the clean
+cream-and-red-striped cloth bag respectfully against his chest in both hands).
+From 0.3 to 9.6 seconds, mourning his late mother with quiet, devastating
+sincerity and wounded dignity rather than loud shouting, Yusuf looks directly at
+Amin and speaks in natural Algerian Darja:
+"أَنَا يَمَّا تَحْتْ التّْرَابْ وَنَتْمَنَّى غِيرْ نْشَمْ رِيحَتْهَا وَلَا نَاكُلْ كَسْرَة مَنْ يَدِّيهَا... وَأَنْتَ تَرْمِي خِيرْهَا قُدَّامْ صْحَابَكْ؟! وَالله عِيبْ وَعَارْ عْلِيكْ، طَيَّحْتْ بْرُوحَكْ مَشْ بِيهَا!".
+ONLY Yusuf's lips move naturally throughout this speech, while Amin's head bows
+deeper in visible shame and confusion staring at the cloth bag with his mouth
+completely closed, and Ramzi stays motionless with his mouth closed. NO eye
+contact with the camera, quiet room acoustics, zero music, no text, no
 subtitles, no watermark.
 ```
 
 
 ---
 
-# 🎬 المشهد 11 — الأم تبكي بهدوء على حافة الرصيف (`YAMINA_CRYING_ON_SIDEWALK`)
+# 🎬 المشهد 10 — يقظة الضمير، صحوة أمين، واندفاعه للخارج (`AMIN_REMORSE_AWAKENING`)
 
 - **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
-- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_11/S11_YAMINA_CRYING_ON_SIDEWALK.png`
-- **الحوار المنطوق:** بدون كلام نهائيًا *(خطوات أمين المتباطئة على الرصيف وصوت الشارع الهادئ جدًا)*
+- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_10/S10_AMIN_REMORSE_AWAKENING.png`
+- **الحوار المنطوق (كلمات أمين بصوت مكسور لنفسه قبل اندفاعه راكضاً للحاق بأمه):**
+  - أمين فقط (`1.2s – 6.2s`): `"وَاشْ دَرْتْ أَنَا؟! كِيفَاشْ قْدَرْتْ نَهْدَرْ مَعَ يَمَّا هَكْذَاكْ... يَمَّا سَمْحِيلِي!"`
 
 ## 📋 برومبت Google Flow الجاهز للنسخ
 
@@ -505,25 +426,57 @@ subtitles, no watermark.
 In a single unbroken scene and a single continuous 10-second horizontal
 widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
 from the uploaded reference image, with zero scene cuts, zero camera angle
-switches, and a very slow, subtle forward dolly keeping both mother and son
-cleanly inside the horizontal safe zone on a quiet Algerian neighborhood
-sidewalk in natural morning daylight. DO NOT MIRROR THE SCENE and keep zero
-extra passersby, zero street signs, and zero text. Preserve 100% identical
-faces and clothes on 62-year-old Aunt Yamina seated quietly on the clean low
-concrete stone doorstep on the right (modest full-length slate-navy cotton
-dress and cream-beige headscarf, empty-handed with NO cloth bag) and her son
-Amin walking toward her along the sidewalk on the left (plain dark
-forest-green polo shirt, light-blue slim jeans, white sneakers, and rimless
-emerald-teal gold-hinged sunglasses kept firmly on his face). Nobody speaks a
-single word and BOTH mouths stay closed throughout the entire 10 seconds. From
-0 to 5 seconds, Aunt Yamina sits with quiet maternal dignity, gently dabbing
-silent tears from her eye with the soft edge of her cream headscarf without
-dramatic sobbing, unaware of Amin approaching. From 5 to 10 seconds, seeing
-his mother crying alone on the stone step, Amin slows his hurried footsteps to
-a hesitant, heartbroken walk, stopping right beside her with his shoulders
-dropping in deep remorse. NO eye contact with the camera, quiet morning street
-breeze and soft footsteps on concrete, zero speech, zero music, no text, no
+switches, and a gentle steady camera pan rightward following Amin as he bolts
+out the doorway. DO NOT MIRROR THE ROOM, keeping Ramzi seated bowed in shame at
+the wooden fast-food table on the far left, Yusuf standing motionless in the
+center-left midground in his slate-blue work shirt holding the clean
+cream-and-red-striped cloth bag respectfully against his chest, the closed grey
+waste bin, and the open doorway on the right unchanged. Preserve 100% identical
+faces and clothes on Amin in the right-center foreground (plain dark
+forest-green polo shirt, light-blue jeans, short trimmed beard, and rimless
+emerald-teal gold-hinged sunglasses kept firmly on his face). From 0.0 to 1.2
+seconds, suffocating silence fills the room as Amin stands frozen in shock with
+his hand trembling at his forehead above his sunglasses. From 1.2 to 6.2
+seconds, overwhelmed by sudden remorse and tearful realization, Amin speaks to
+himself in a broken, trembling voice in natural Algerian Darja:
+"وَاشْ دَرْتْ أَنَا؟! كِيفَاشْ قْدَرْتْ نَهْدَرْ مَعَ يَمَّا هَكْذَاكْ... يَمَّا سَمْحِيلِي!"
+— ONLY Amin's lips move while Yusuf and Ramzi keep their mouths closed. From 6.2
+to 10.0 seconds, Amin abruptly turns and rushes swiftly out through the open
+right doorway down the corridor to catch up with his mother. Crisp hurried
+footsteps and room tone, NO eye contact with the camera, zero music, no text, no
 subtitles, no watermark.
+```
+
+
+---
+
+# 🎬 المشهد 11 — الأم الباكية وحدها عند مدخل الكراج المغلق (`YAMINA_ALONE_BY_GARAGE`)
+
+- **المقاس والمدة:** أفقي `16:9` (`1920×1080`) · `10 ثوانٍ`
+- **الصورة المرجعية المستقلة:** `02_SCENES/SCENE_11/S11_YAMINA_ALONE_BY_GARAGE.png`
+- **الحوار المنطوق:** صامت بالكامل *(بدون أي كلام — فقط أنفاس حزن مكتومة ومؤثرة تعكس عزة نفس الأم وانكسارها)*
+
+## 📋 برومبت Google Flow الجاهز للنسخ
+
+```text
+In a single unbroken scene and a single continuous 10-second horizontal
+widescreen 16:9 live-action 35mm Algerian social drama shot starting directly
+from the uploaded reference image, with zero scene cuts, zero camera angle
+switches, and a very slow, subtle low-angle push-in on the quiet Algerian street
+sidewalk beside the closed metal garage roller shutter in natural morning
+daylight. DO NOT MIRROR THE SCENE and keep zero extra people, zero passersby,
+zero street signs, and zero text. Preserve 100% identical facial features and
+modest clothes on 62-year-old Aunt Yamina seated completely alone on the low
+concrete stone step beside the closed metal garage shutter (modest full-length
+slate-navy cotton dress and warm cream-beige headscarf, empty-handed with NO
+cloth bag). Nobody speaks a single word and her mouth stays closed with quiet
+restraint throughout all 10 seconds. Sitting slightly hunched forward under the
+heavy weight of maternal heartbreak after being hurt in front of strangers,
+Aunt Yamina trembles subtly with quiet, muffled catches of breath, gently wiping
+silent tears from her cheek and eyes with the soft edge of her cream headscarf
+in dignified solitude. Soft natural morning street air, subtle cloth rustle and
+quiet muffled breathing, zero speech, zero music, NO eye contact with the
+camera, no text, no subtitles, no watermark.
 ```
 
 
