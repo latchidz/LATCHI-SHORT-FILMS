@@ -67,6 +67,17 @@ Photorealistic 35mm live-action vertical 9:16 cinema clip starting from the exac
 
 ---
 
+### 💔 SCENE 01B *(مشهد مضاف بين الأول والثاني)* — استهزاء الأطفال بريان في ساحة المسيد (المدرسة)
+- **الإطار الأوّل (`First Frame` — `Lossless PNG`):** `SCENE_01B_SCHOOLYARD_BULLYING_9x16.png`
+- **الحوار بالدارجة الجزائرية (الطفل المتنمّر الذي يشدّ أنفه + ضحك الأطفال — ريان صامت تماماً):**
+  > **الطفل المتنمّر (`0.4s – 3.6s`):** «إييه رِيحَةْ الزّبَلْ! باباكْ زَبّالْ.. أيا نْروحوا خَلّيوهْ وَحْدُو!»
+
+```text
+Photorealistic 35mm live-action vertical 9:16 cinema clip starting from the exact uploaded frame inside the sunlit Algerian public primary school courtyard, shot on 50mm prime lens. Camera: Steady medium shot for the first 4 seconds, then a slow, intimate emotional push-in onto 6-year-old Rayan on screen-right; zero lens gaze. Action: As shy Rayan on screen-right (in his sky-blue buttoned Algerian school smock over grey sweater, clutching his dark-navy backpack straps) stops eagerly looking at his three gathered classmates on screen-left hoping to join them, the boy facing him pinches his nose shut tightly with his fingers in cruel provocation and waves his other hand in mocking disgust while the other two boys point at Rayan and burst out laughing. At 3.8s, all three boys turn their backs on Rayan and walk away together out of frame-left still laughing and jeering, abandoning Rayan completely alone in the courtyard. Left standing alone as the camera pushes slowly in onto his face, Rayan's innocent smile shatters completely — his small fingers clench his backpack straps, his lower lip trembles, he lowers his gaze slightly off-camera swallowing hard, and thick glistening tears well up and brim in his big dark eyes in silent heartbreak. Dialogue strictly locked — ONLY the nose-pinching boy on screen-left speaks mockingly in authentic Algerian child Darja (0.4s–3.6s): "إييه رِيحَةْ الزّبَلْ! باباكْ زَبّالْ.. أيا نْروحوا خَلّيوهْ وَحْدُو!" followed by realistic mocking children's laughter from the three boys walking off; Rayan on screen-right stays 100% silent with his mouth closed the entire clip, lower lip quivering softly. Audio: authentic schoolyard recess ambience, cruel children's laughter fading left, sneakers scuffing courtyard gravel as the boys walk away, cotton strap rustle in Rayan's small hands, quiet shaky child breath holding back tears, ZERO background music.
+```
+
+---
+
 ### 🔹 SCENE 02 (`00:08 – 00:16`) — شقاء الخبزة الحلال تحت الشمس
 - **الإطار الأوّل (`First Frame`):** `02_SCENES_9x16/SCENE_02_HARD_LABOR_FOR_SON_9x16.jpg`
 - **الحوار بالدارجة الجزائرية (أمين فقط):**
