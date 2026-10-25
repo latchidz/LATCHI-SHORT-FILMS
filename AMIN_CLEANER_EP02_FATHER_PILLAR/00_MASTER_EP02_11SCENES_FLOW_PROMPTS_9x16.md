@@ -100,6 +100,16 @@ Photorealistic 35mm live-action vertical 9:16 cinema clip starting from the exac
 
 ---
 
+### 💔 SCENE 03B *(مشهد مضاف بين 03 و04 — ويصلح أيضاً كهوك افتتاحي `00:00`)* — ريان مروّح في الطريق منهار يبكي ويجرّ محفظته على الأرض
+- **الإطار الأوّل (`First Frame` — `Lossless PNG`):** `SCENE_03B_RAYAN_WALKING_HOME_CRYING_9x16.png`
+- **الصوت والأداء:** **بدون كلام منطوق** — شهقات بكاء طفل مكسور الخاطر + صوت احتكاك وجرّ المحفظة القماشية على الأرضية الإسمنتية.
+
+```text
+Photorealistic 35mm live-action vertical 9:16 cinema clip starting from the exact uploaded full-length shot inside the sunlit Algerian working-class neighborhood alley, shot on 50mm prime lens. Camera: Slow, steady backward tracking dolly-out at child's height moving just ahead of 7-year-old Rayan's slow footsteps, keeping both his tear-streaked face and his backpack dragging on the ground sharp in frame; zero lens gaze. Action: Walking home completely alone down the quiet cracked-concrete alley in his sky-blue buttoned Algerian school smock, dark-navy jeans, and Velcro sneakers, emotionally heartbroken Rayan trudges slowly forward crying silently and heavily. His right hand hangs low holding the top loop of his dark-navy fabric school backpack so the bottom of the heavy bag scrapes and drags continuously along the dusty concrete pavement beside his shoes. With his left hand and sky-blue sleeve raised to his face, he wipes streaming glistening tears from beneath his red-rimmed eyes, lowers his hand slightly as his small shoulders hitch with a broken child sob and quivering chin looking down at the ground ahead, then raises his sleeve again to wipe new tears rolling down his wet cheeks. Strictly zero spoken words — only natural, fragile child sobbing, shaky tearful breaths, and quiet sniffles. Audio: continuous rough canvas scraping sound of the school backpack dragging across dusty concrete and tiny pebbles, slow heavy shuffling of small sneakers on pavement, soft cotton sleeve wiping wet tears, raw heartbreaking child sobs and sniffles, faint midday Algiers alley ambience, ZERO background music.
+```
+
+---
+
 ### 🔹 SCENE 04 (`00:24 – 00:32`) — وقت الغداء في المطبخ: الأمّ تكتشف حزن ابنها غير المعتاد
 - **الإطار الأوّل (`First Frame`):** `02_SCENES_9x16/SCENE_04_LUNCH_SAD_SILENCE_9x16.jpg`
 - **الحوار بالدارجة الجزائرية (مريم فقط):**
