@@ -1,0 +1,22 @@
+{
+  "id": "algerian-cinematic-film-director",
+  "name_ar": "المخرج السينمائي الجزائري",
+  "version": "1.0.0",
+  "source_file": "ARENA_ALGERIAN_CINEMATIC_FILM_DIRECTOR_SKILL-1.md",
+  "source_sha256": "ddd256ab8cf9c97227e8e47be148bee478a279c2296a8966a77064fd3e94347c",
+  "saved_on": "2026-10-25",
+  "preserve_on_cleanup": true,
+  "use_for": [
+    "Algerian live-action film planning",
+    "silent or spoken animated stories",
+    "character identity locking",
+    "scene continuity checks",
+    "image-to-video prompt writing"
+  ],
+  "priority_notes": [
+    "Explicit project choices override skill defaults.",
+    "Never claim unsupported video durations or models.",
+    "When creating character references with the available image tool, create separate standalone views rather than a multi-view grid.",
+    "Preserve existing approved references; do not invent missing reference files."
+  ]
+}
