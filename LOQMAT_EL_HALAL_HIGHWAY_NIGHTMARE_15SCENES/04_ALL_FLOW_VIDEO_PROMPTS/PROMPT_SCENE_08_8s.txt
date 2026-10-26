@@ -1,0 +1,20 @@
+SCENE 08 — NIGHT HIGHWAY DRIVING & SCOUT PHONE CALL (100% MATCHED TO SCENE_08_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action thriller (50mm interior car rig), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze (eyes fixed forward on the dark road).
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_08_FIRST_FRAME_1080x1920.png inside Amin's moving car cruising along the dark highway at night: gripping the top of the steering wheel with his right hand and holding his glowing smartphone on speaker with his left hand, tense Amin asks if the highway ahead is clear (0.3s–3.9s). From 4.1s to 7.0s, Amin keeps his mouth 100% closed listening intently as Ramzi's voice answers through the phone speaker. At 7.1s, Amin taps the phone screen ending the call, lowers his hand to grip the wheel firmly with both hands, and stares fixedly at the dark asphalt ahead (7.1s–8.0s).
+
+DIALOGUE & PHONE SPEAKER FIREWALL:
+- Amin ON SCREEN (0.3s–3.9s — tense, cautious 26-year-old Algerian chest baritone; Amin's lips move):
+"أَلُو رَمْزِي، الطْرِيقْ رَاهِي نْقِيَّة؟"
+- Ramzi OFF-SCREEN VIA PHONE SPEAKER (4.1s–7.0s — realistic filtered mobile-phone speaker audio, overconfident 28-year-old Algerian tenor-baritone; Amin's mouth stays 100% CLOSED):
+"افْتَحْ الغَازْ وْمَا تْخَافْشْ، رَانِي كَاشَفْلَكْ الطْرِيقْ وْقُدَّامَكْ مَا كَايَنْ وَالُو."
+
+CAMERA & AUDIO:
+Locked dashboard-mount 50mm close medium shot with subtle natural road vibration. Steady engine & tire hum on night asphalt, authentic phone speaker filter on Ramzi's line, end-call beep at 7.1s, ZERO background music.
+
+NEGATIVE:
+No lip movement on Amin during 4.1s–7.0s, no passengers, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.

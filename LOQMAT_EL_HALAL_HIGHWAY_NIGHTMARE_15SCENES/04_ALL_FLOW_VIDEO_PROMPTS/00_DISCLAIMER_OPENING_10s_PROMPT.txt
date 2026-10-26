@@ -1,0 +1,37 @@
+# ==============================================================================
+# برومبت شاشة التنويه الافتتاحية (10 ثوانٍ) — نسخة 9:16 العمودية المطابقة للفيلم + نسخة 16:9 الأصلية
+# ==============================================================================
+
+## [أولاً: النسخة العمودية 9:16 المطابقة لمقاس الفيلم 1080x1920]
+Cinematic disclaimer screen, 10 seconds duration, 9:16 vertical aspect ratio, Full HD / 4K resolution. Solid matte black background with subtle film grain. Elegant white Arabic typography (modern Naskh or clean Sans-Serif font) appearing centered on the screen with a clean fade-in and typewriter text-reveal effect.
+
+The on-screen Arabic text displays clearly in three distinct sequential parts:
+
+Part 1 (Top Center, bold, prominent):
+"تنويه"
+
+Part 2 (Middle, clean and centered):
+"هذا العمل درامي فني من وحي الخيال، وأي تشابه مع أشخاص أو وقائع حقيقية هو محض صدفة."
+
+Part 3 (Bottom, slightly smaller, centered):
+"جميع اللقطات التي تظهر فيها بدلات أو مركبات رسمية هي مشاهد تمثيلية لأغراض التوعية الفنية، ولا يقصد بها المساس بأي هيئة نظامية."
+
+Audio & Sound Design: Synchronized rhythmic typewriter mechanical clicks matching each Arabic letter as it appears on the screen, accompanied by a subtle low-frequency cinematic ambient drone in the background. Highly professional crime drama documentary opening, sharp contrast, zero visual clutter.
+
+--------------------------------------------------------------------------------
+
+## [ثانياً: النسخة الأفقية 16:9 كما أرسلتها حرفياً]
+Cinematic disclaimer screen, 10 seconds duration, 16:9 aspect ratio, 4K resolution. Solid matte black background with subtle film grain. Elegant white Arabic typography (modern Naskh or clean Sans-Serif font) appearing centered on the screen with a clean fade-in and typewriter text-reveal effect.
+
+The on-screen Arabic text displays clearly in three distinct sequential parts:
+
+Part 1 (Top Center, bold, prominent):
+"تنويه"
+
+Part 2 (Middle, clean and centered):
+"هذا العمل درامي فني من وحي الخيال، وأي تشابه مع أشخاص أو وقائع حقيقية هو محض صدفة."
+
+Part 3 (Bottom, slightly smaller, centered):
+"جميع اللقطات التي تظهر فيها بدلات أو مركبات رسمية هي مشاهد تمثيلية لأغراض التوعية الفنية، ولا يقصد بها المساس بأي هيئة نظامية."
+
+Audio & Sound Design: Synchronized rhythmic typewriter mechanical clicks matching each Arabic letter as it appears on the screen, accompanied by a subtle low-frequency cinematic ambient drone in the background. Highly professional crime drama documentary opening, sharp contrast, zero visual clutter.

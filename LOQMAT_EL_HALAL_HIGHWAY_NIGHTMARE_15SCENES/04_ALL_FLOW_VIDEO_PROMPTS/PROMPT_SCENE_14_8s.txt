@@ -1,0 +1,18 @@
+SCENE 14 — JOLTING AWAKE FROM THE NIGHTMARE & ISTIGHFAR (100% MATCHED TO SCENE_14_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close medium shot, pre-dawn bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_14_FIRST_FRAME_1080x1920.png inside Amin's dim pre-dawn bedroom: drenched in beads of cold sweat in his damp dark-olive home t-shirt, Amin sits bolted upright clutching the dark navy-grey blanket to his chest, chest heaving raggedly for air as he looks around his familiar bedroom realizing the arrest and courthouse tragedy were only a nightmare (0.0s–1.4s). From 1.5s to 6.4s, trembling between lingering fear and overwhelming gratitude, he speaks breathlessly praising Allah. From 6.5s to 8.0s, he releases the blanket and wipes his sweat-drenched face with both trembling hands exhaling a deep sigh of relief.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.5s–6.4s — breathless, trembling, deeply relieved 26-year-old Algerian chest baritone):
+"أَسْتَغْفِرُ اللّهَ العَظِيمْ.. الحَمْدُ لِلّه، مْنَامَة! يَا رَبِّي لَكْ الحَمْدْ اللِّي كَانَتْ كَابُوسْ!"
+
+CAMERA & AUDIO:
+Intimate 50mm close-medium shot settling steadily as his breathing calms. Bedsheet rustle, ragged gasping breaths softening into a relieved sigh, hands wiping sweaty skin, pre-dawn quiet, ZERO background music.
+
+NEGATIVE:
+No handcuffs in bedroom, no identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.

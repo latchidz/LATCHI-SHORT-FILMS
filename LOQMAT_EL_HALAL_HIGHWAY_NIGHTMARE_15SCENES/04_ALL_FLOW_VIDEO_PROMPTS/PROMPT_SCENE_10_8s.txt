@@ -1,0 +1,18 @@
+SCENE 10 — SPOTTING THE CHECKPOINT & SHEER PANIC (100% MATCHED TO SCENE_10_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action thriller (50mm interior cabin shot), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_10_FIRST_FRAME_1080x1920.png inside Amin's moving car at night as pulsing blue-and-red checkpoint beacons flash across the car windows and reflect directly off Amin's rimless emerald-gold lenses: drenched in beads of cold sweat on his forehead, Amin's hands tremble visibly on the steering wheel as he gasps in instant panic and regret (0.0s–1.3s). From 1.4s to 6.4s, he whispers a trembling desperate prayer staring ahead in terror as the checkpoint lights grow brighter across his face. From 6.5s to 8.0s, he swallows hard and eases gently onto the brake pedal slowing the car smoothly to a stop.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.4s–6.4s — breathless, trembling, panic-stricken 26-year-old Algerian chest baritone):
+"يَا رَبِّي تَسْلَكْ عْلَى خِيرْ.. يَا رَبِّي اسْتُرْ، وَاشْ دَرْتْ فِي رُوحِي!"
+
+CAMERA & AUDIO:
+Tense slow 50mm push-in onto Amin's sweat-drenched panicked face bathed in pulsing blue/red checkpoint reflections. Decelerating engine hum, soft brake hiss, shaky breathing, steering wheel leather creak, ZERO background music.
+
+NEGATIVE:
+No identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.

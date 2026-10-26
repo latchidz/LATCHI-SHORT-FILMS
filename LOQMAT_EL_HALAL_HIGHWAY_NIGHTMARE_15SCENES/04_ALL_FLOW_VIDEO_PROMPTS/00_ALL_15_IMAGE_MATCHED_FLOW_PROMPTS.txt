@@ -1,0 +1,377 @@
+# ==============================================================================
+# لقمة الحلال (كابوس الطريق السريع) — جميع برومبتات التحريك الـ 15 مطابقة 100% للصور المولّدة
+# المقاس: Full HD 1080x1920 (9:16) | المرجع المباشر في Google Flow: صورة البداية لكل مشهد
+# ==============================================================================
+
+### المشهد 01 (10s) — الهوك — حڤرة في الورشة
+# المدير فقط (0.4s–7.2s): "اسْمَعْ نْتَا، زَيَّرْ رُوحَكْ وَاخْدَمْ مْلِيحْ! الغَاشِي يْطَايَحْ بَرَّا عْلَى الخَدْمَة.. حَرْكَة زَايْدَة نَبْعْثَكْ لْبَابْ الدَّارْ!"
+
+SCENE 01 — WORKSHOP HUMILIATION HOOK (100% MATCHED TO SCENE_01_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+The stocky 48-year-old garage manager on screen-left (dark brown leather vest over burgundy polo, silver watch) has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_01_FIRST_FRAME_1080x1920.png inside the Algerian auto-repair garage: from 0.4s to 7.2s, the arrogant 48-year-old manager on screen-left berates Amin harshly, jabbing his pointing right index finger aggressively toward the sunlit open garage entrance behind him threatening to fire him, then turns away dismissively at 7.3s walking out of frame-left. From 7.3s to 10.0s, Amin on screen-right (oil-smudged dark-navy mechanic button-up jacket over charcoal tee) swallows hard—his throat visibly tightening—tightens both grease-stained hands around the heavy steel wrench beside the red tool cabinet, and bows his head patiently toward the floor holding back his pain.
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Manager ONLY (screen-left, 0.4s–7.2s — harsh, domineering 48-year-old gravelly Algerian male baritone):
+"اسْمَعْ نْتَا، زَيَّرْ رُوحَكْ وَاخْدَمْ مْلِيحْ! الغَاشِي يْطَايَحْ بَرَّا عْلَى الخَدْمَة.. حَرْكَة زَايْدَة نَبْعْثَكْ لْبَابْ الدَّارْ!"
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — his mouth remains completely closed the entire clip.
+
+CAMERA & AUDIO:
+Steady 50mm medium two-shot (0.0s–7.0s), then a subtle slow push-in onto Amin's bowed head (7.0s–10.0s). Authentic garage room tone, metallic clink of steel wrench in Amin's grip, manager's footsteps walking away, ZERO background music.
+
+NEGATIVE:
+No identity drift, no eyewear transfer, no lip movement on Amin, no camera eye contact, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 02 (8s) — كتمان الضيق والتمسك بالصبر
+# صوت أمين الداخلي وفمه مغلق (0.3s–5.9s): "صَابَرْ عْلَى الحَقْرَة غِيرْ عْلَى جَالْ لُقْمَة الحَلَالْ.. كُونْ نَخْرُجْ كِيفَاشْ نْعَيَّشْ مِيمْتِي؟" | همس مسموع بحركة شفاه خفيفة (6.2s–7.9s): "يَا رَبِّي فَرَّجْهَا مَنْ عَنْدَكْ."
+
+SCENE 02 — SILENT PATIENCE & INTERNAL MONOLOGUE (100% MATCHED TO SCENE_02_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social drama (50mm close medium portrait), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_02_FIRST_FRAME_1080x1920.png: close chest-up portrait of exhausted Amin alone beside the blurred red tool chest. From 0.0s to 5.9s, Amin keeps his mouth 100% closed while finishing wiping the glistening sweat from his forehead with his grease-stained right wrist/hand, then lowers his hand looking down silently at his oil-smudged fingers. At 6.0s, he takes a deep tired breath expanding his chest, exhales slowly, and from 6.2s to 7.9s his lips move gently in a quiet, heartfelt whispered supplication looking slightly upward off-camera.
+
+DIALOGUE & INTERNAL VOICEOVER LOCK:
+- 0.3s–5.9s (INTERNAL THOUGHT VOICEOVER ONLY — Amin's lips stay 100% CLOSED on screen; intimate, resonant 26-year-old Algerian male chest baritone):
+"صَابَرْ عْلَى الحَقْرَة غِيرْ عْلَى جَالْ لُقْمَة الحَلَالْ.. كُونْ نَخْرُجْ كِيفَاشْ نْعَيَّشْ مِيمْتِي؟"
+- 6.2s–7.9s (AUDIBLE WHISPER ON SCREEN — Amin's lips move softly and naturally):
+"يَا رَبِّي فَرَّجْهَا مَنْ عَنْدَكْ."
+
+CAMERA & AUDIO:
+Intimate micro push-in 50mm close-up. Rough skin wiping sweat, deep authentic sigh, quiet workshop room tone, ZERO background music.
+
+NEGATIVE:
+No lip movement during 0.0s–5.9s internal monologue, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 03 (10s) — دخول الصديق رمزي والإغراء
+# رمزي فقط (0.6s–7.3s): "شَفْتْ الحَقْرَة كِيفَاشْ دَايْرَة؟ كَايَنْ خَدْمَة تَاعْ لِيلَة تَدِّي فِيهَا مَصْرُوفْ شَهْرِينْ.. خَمَّمْ فِيهَا وْكِي تُوجَدْ عَيَّطْلِي."
+
+SCENE 03 — RAMZI ENTERS WITH TEMPTATION (100% MATCHED TO SCENE_03_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Ramzi on screen-left (buzz-fade haircut with temple line, black faux-leather bomber jacket open over maroon tee with silver chain) has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_03_FIRST_FRAME_1080x1920.png at the sunlit open garage entrance: from 0.6s to 7.3s, streetwise 28-year-old Ramzi leaning in the doorway on screen-left smirks knowingly and speaks persuasively to Amin on screen-right (who wipes his hands slowly on the dark shop cloth listening with a closed mouth). At 7.4s, Ramzi steps half a pace closer, pats Amin twice on the shoulder with his right hand, and turns walking out onto the sunlit street at frame-left (7.5s–9.2s), leaving Amin staring off into empty space in troubled inner conflict (9.2s–10.0s).
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Ramzi ONLY (screen-left, 0.6s–7.3s — sly, persuasive 28-year-old Algerian streetwise tenor-baritone):
+"شَفْتْ الحَقْرَة كِيفَاشْ دَايْرَة؟ كَايَنْ خَدْمَة تَاعْ لِيلَة تَدِّي فِيهَا مَصْرُوفْ شَهْرِينْ.. خَمَّمْ فِيهَا وْكِي تُوجَدْ عَيَّطْلِي."
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — mouth closed throughout.
+
+CAMERA & AUDIO:
+Steady 50mm medium two-shot, subtly reframing right onto Amin's conflicted stare as Ramzi leaves. Leather jacket rustle, double shoulder pat, footsteps fading outside, ZERO background music.
+
+NEGATIVE:
+No eyewear on Ramzi, no lip movement on Amin, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 04 (10s) — الدخول للدار وبر الوالدة
+# أمين فقط (1.2s–7.2s): "مَسَاءْ الخِيرْ يَمَّا.. هَاكِي وَاشْ كْتَبْ رَبِّي لْلْيُومْ. أَنَا نْرُوحْ نَرْقُدْ، رَانِي فْرِي عَيَّانْ."
+
+SCENE 04 — RETURNING HOME & HONORING MOTHER (100% MATCHED TO SCENE_04_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens, warm evening tungsten light), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+The 62-year-old elderly mother seated on screen-left (warm-beige modest headscarf over burgundy house gandoura) has 100% bare uncovered eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_04_FIRST_FRAME_1080x1920.png inside the humble Algerian living room: tired Amin leaning tenderly on screen-right leans forward briefly kissing the top of his seated mother's beige-scarved forehead (0.0s–1.4s), then gently places the folded Algerian banknotes into her open right palm while speaking softly with heavy exhaustion (1.4s–7.2s). From 7.3s to 10.0s, his mother closes her fingers around the notes smiling warmly and raising her hand slightly in a silent maternal blessing (zero audible words), while exhausted Amin straightens up and walks slowly toward the open bedroom doorway visible in the hallway behind him.
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Amin ONLY (screen-right, 1.2s–7.2s — tired, gentle, respectful 26-year-old Algerian chest baritone):
+"مَسَاءْ الخِيرْ يَمَّا.. هَاكِي وَاشْ كْتَبْ رَبِّي لْلْيُومْ. أَنَا نْرُوحْ نَرْقُدْ، رَانِي فْرِي عَيَّانْ."
+- Mother (screen-left, 0.0s–10.0s): 100% SILENT — warm tender smile and silent blessing gesture, zero audible speech.
+
+CAMERA & AUDIO:
+Warm locked 50mm medium shot with gentle pan-reframe following Amin toward the hallway. Soft kiss on headscarf, crisp banknote paper rustle, weary footsteps on terrazzo tiles, ZERO background music.
+
+NEGATIVE:
+No eyewear on mother, no audible speech from mother, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 05 (10s) — لهفة الأم وتضحية الشبع
+# الأم (0.3s–4.1s): "بَصَّحْ أَرْوَاحْ تَاكُلْ حَاجَة يَا وْلِيدِي.. مَا تْدِيرْشْ هَكْذَا فِي رُوحَكْ!" | أمين (4.4s–8.1s): "لَالَا يَمَّا، شَبْعَانْ وْكْلِيتْ بَزَّافْ بَرَّا.. بْصَحَّتْكُمْ نْتُومَا."
+
+SCENE 05 — MOTHER'S PLEA AT BEDROOM DOOR & AMIN'S SACRIFICE (100% MATCHED TO SCENE_05_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+The 62-year-old mother standing in the warm amber hallway on screen-left has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_05_FIRST_FRAME_1080x1920.png at the open wooden bedroom door: from 0.3s to 4.1s, Amin's mother on screen-left pleads anxiously with her son to come eat something while Amin on screen-right (holding the brass door handle inside the dim bedroom) listens silently with a closed mouth. From 4.4s to 8.1s, Mother keeps her mouth closed as Amin places his left hand gently over his chest with a warm, selfless reassuring half-smile pretending he is full. From 8.2s to 10.0s, Amin gently pulls the wooden bedroom door closed between them, and the camera pushes slowly in on his mother's sad, worried eyes standing alone in the hallway.
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Mother ONLY (screen-left, 0.3s–4.1s — authentic 62-year-old elderly Algerian mother's warm, weathered mezzo-contralto voice, NEVER a young woman's voice; Amin silent):
+"بَصَّحْ أَرْوَاحْ تَاكُلْ حَاجَة يَا وْلِيدِي.. مَا تْدِيرْشْ هَكْذَا فِي رُوحَكْ!"
+- Amin ONLY (screen-right, 4.4s–8.1s — gentle, tired 26-year-old Algerian chest baritone; Mother silent):
+"لَالَا يَمَّا، شَبْعَانْ وْكْلِيتْ بَزَّافْ بَرَّا.. بْصَحَّتْكُمْ نْتُومَا."
+
+CAMERA & AUDIO:
+50mm doorway two-shot (0.0s–8.0s), then smooth push-in onto the mother's sorrowful eyes as the wooden door clicks shut at 8.8s. Wooden door creak, soft latch click, quiet hallway sigh, ZERO background music.
+
+NEGATIVE:
+No simultaneous speech, no young voice on elderly mother, no eyewear transfer, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 06 (8s) — اتخاذ القرار المكلف
+# أمين فقط (1.2s–6.2s): "أَلُو رَمْزِي؟ خْلَاصْ رَانِي خَمَّمْتْ مْلِيحْ وْقَابَلْ.. وَقْتَاشْ نْجِي؟"
+
+SCENE 06 — THE COSTLY LATE-NIGHT PHONE CALL (100% MATCHED TO SCENE_06_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social thriller (50mm lens, dim nocturnal bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_06_FIRST_FRAME_1080x1920.png inside Amin's dark moonlit bedroom: Amin lies propped against the white pillow on his single wooden bed under the dark navy-grey blanket in his dark-olive home t-shirt, holding his black smartphone to his left ear with his left hand. From 1.2s to 6.2s, weighed down by financial pressure, he speaks heavily into the phone accepting Ramzi's offer. From 6.3s to 8.0s, he lowers the phone onto the blanket ending the call, swallowing hard as deep anxiety and dread settle over his face in the dark.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.2s–6.2s — tense, reluctant, heavy 26-year-old Algerian chest baritone):
+"أَلُو رَمْزِي؟ خْلَاصْ رَانِي خَمَّمْتْ مْلِيحْ وْقَابَلْ.. وَقْتَاشْ نْجِي؟"
+
+CAMERA & AUDIO:
+Slow tense 50mm push-in toward Amin's anxious face on the bed. Blanket rustle, phone tap ending call, heavy anxious breath in dead-of-night room silence, ZERO background music.
+
+NEGATIVE:
+No identity drift, no eyewear loss, no extra voices, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 07 (10s) — التمويه وشحن الممنوعات
+# رمزي فقط بصوت خافت وسريع (0.6s–4.2s): "خَبِّيهَا هْنَا مْلِيحْ.. وَالُو مَا يْبَانْ."
+
+SCENE 07 — CONCEALING THE DISGUISED BOXES UNDER THE CAR SEAT (100% MATCHED TO SCENE_07_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, gritty sodium night warehouse light), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Ramzi on screen-left (black leather bomber over maroon tee, holding black duffel bag) has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_07_FIRST_FRAME_1080x1920.png inside the dimly lit abandoned warehouse beside the open rear passenger door of the silver-grey sedan: from 0.6s to 4.2s, Ramzi on screen-left hands the plain off-white taped carton to tense Amin on screen-right (matte-black zip hoodie over dark-olive tee), who tucks the cartons tightly underneath the lifted grey rear car seat cushion. From 4.3s to 8.2s, Amin presses the thick grey rear seat cushion firmly back down flat until nothing shows and shuts the rear car door solidly at 8.3s. From 8.4s to 10.0s, Amin and Ramzi straighten up and exchange a taut, anxious silent glance under the sodium lamp.
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Ramzi ONLY (screen-left, 0.6s–4.2s — hushed, urgent, rapid 28-year-old Algerian tenor-baritone):
+"خَبِّيهَا هْنَا مْلِيحْ.. وَالُو مَا يْبَانْ."
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — mouth closed tightly in tense concentration.
+
+CAMERA & AUDIO:
+Steady 50mm medium shot tightening subtly as the rear door shuts. Cardboard sliding into seat cavity, heavy seat upholstery thud, solid car door clunk at 8.3s, warehouse night draft, ZERO background music.
+
+NEGATIVE:
+No readable text on boxes, no eyewear on Ramzi, no lip movement on Amin, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 08 (8s) — سياقة ليلية واتصال فتح الطريق
+# أمين (0.3s–3.9s): "أَلُو رَمْزِي، الطْرِيقْ رَاهِي نْقِيَّة؟" | صوت رمزي عبر الهاتف وفم أمين مغلق (4.1s–7.0s): "افْتَحْ الغَازْ وْمَا تْخَافْشْ، رَانِي كَاشَفْلَكْ الطْرِيقْ وْقُدَّامَكْ مَا كَايَنْ وَالُو."
+
+SCENE 08 — NIGHT HIGHWAY DRIVING & SCOUT PHONE CALL (100% MATCHED TO SCENE_08_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action thriller (50mm interior car rig), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze (eyes fixed forward on the dark road).
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_08_FIRST_FRAME_1080x1920.png inside Amin's moving car cruising along the dark highway at night: gripping the top of the steering wheel with his right hand and holding his glowing smartphone on speaker with his left hand, tense Amin asks if the highway ahead is clear (0.3s–3.9s). From 4.1s to 7.0s, Amin keeps his mouth 100% closed listening intently as Ramzi's voice answers through the phone speaker. At 7.1s, Amin taps the phone screen ending the call, lowers his hand to grip the wheel firmly with both hands, and stares fixedly at the dark asphalt ahead (7.1s–8.0s).
+
+DIALOGUE & PHONE SPEAKER FIREWALL:
+- Amin ON SCREEN (0.3s–3.9s — tense, cautious 26-year-old Algerian chest baritone; Amin's lips move):
+"أَلُو رَمْزِي، الطْرِيقْ رَاهِي نْقِيَّة؟"
+- Ramzi OFF-SCREEN VIA PHONE SPEAKER (4.1s–7.0s — realistic filtered mobile-phone speaker audio, overconfident 28-year-old Algerian tenor-baritone; Amin's mouth stays 100% CLOSED):
+"افْتَحْ الغَازْ وْمَا تْخَافْشْ، رَانِي كَاشَفْلَكْ الطْرِيقْ وْقُدَّامَكْ مَا كَايَنْ وَالُو."
+
+CAMERA & AUDIO:
+Locked dashboard-mount 50mm close medium shot with subtle natural road vibration. Steady engine & tire hum on night asphalt, authentic phone speaker filter on Ramzi's line, end-call beep at 7.1s, ZERO background music.
+
+NEGATIVE:
+No lip movement on Amin during 4.1s–7.0s, no passengers, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 09 (10s) — نصب حاجز الجمارك الجزائرية ليلاً
+# المسؤول الجمركي فقط (0.5s–5.2s): "ازْرْبُوا رْوَاحْكُمْ، سَرِيعاً سَرِيعاً.. حُطّ البَرَّاجْ هْنَا فِي الدُّورَة!"
+
+SCENE 09 — SURPRISE ALGERIAN CUSTOMS HIGHWAY CHECKPOINT DEPLOYMENT (100% MATCHED TO SCENE_09_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, flashing blue/red patrol beacons at night), one continuous unbroken shot from the exact starting frame, no cuts.
+
+IDENTITY & UNIFORM LOCK:
+Amin is NOT in this scene. All Algerian Customs officers ("أعوان الجمارك الجزائرية") wear their exact charcoal slate-grey field combat uniforms, slate-grey caps, wide light-grey canvas web belts, and bare eyes (NO sunglasses). Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_09_FIRST_FRAME_1080x1920.png at the dark highway curve with flashing patrol SUVs: from 0.5s to 5.2s, the 35-year-old commanding Algerian Customs officer in foreground-right gestures briskly with his outstretched right arm ordering rapid roadblock deployment while the fellow officer in midground-left (back showing "الجمارك الجزائرية CUSTOMS") finishes positioning the orange reflective cones and checkpoint stop barrier across the curve. From 5.3s to 10.0s, the officers take alert positions along the cones and switch on bright handheld LED tactical flashlights aimed toward approaching traffic.
+
+DIALOGUE FIREWALL:
+- Commanding Customs Officer ONLY (foreground-right, 0.5s–5.2s — brisk, authoritative, commanding 35-year-old Algerian officer baritone; other officers silent):
+"ازْرْبُوا رْوَاحْكُمْ، سَرِيعاً سَرِيعاً.. حُطّ البَرَّاجْ هْنَا فِي الدُّورَة!"
+
+CAMERA & AUDIO:
+Stabilized 50mm medium-wide shot settling into alert checkpoint readiness. Boots on asphalt, rubber cones & metal stop sign thudding onto tarmac, flashlight clicks, idling patrol SUVs, ZERO background music.
+
+NEGATIVE:
+No Amin in frame, no firearms drawn, no camera eye contact, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 10 (8s) — رؤية الحاجز والهلع داخل السيارة
+# أمين فقط بصوت مرتجف (1.4s–6.4s): "يَا رَبِّي تَسْلَكْ عْلَى خِيرْ.. يَا رَبِّي اسْتُرْ، وَاشْ دَرْتْ فِي رُوحِي!"
+
+SCENE 10 — SPOTTING THE CHECKPOINT & SHEER PANIC (100% MATCHED TO SCENE_10_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action thriller (50mm interior cabin shot), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_10_FIRST_FRAME_1080x1920.png inside Amin's moving car at night as pulsing blue-and-red checkpoint beacons flash across the car windows and reflect directly off Amin's rimless emerald-gold lenses: drenched in beads of cold sweat on his forehead, Amin's hands tremble visibly on the steering wheel as he gasps in instant panic and regret (0.0s–1.3s). From 1.4s to 6.4s, he whispers a trembling desperate prayer staring ahead in terror as the checkpoint lights grow brighter across his face. From 6.5s to 8.0s, he swallows hard and eases gently onto the brake pedal slowing the car smoothly to a stop.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.4s–6.4s — breathless, trembling, panic-stricken 26-year-old Algerian chest baritone):
+"يَا رَبِّي تَسْلَكْ عْلَى خِيرْ.. يَا رَبِّي اسْتُرْ، وَاشْ دَرْتْ فِي رُوحِي!"
+
+CAMERA & AUDIO:
+Tense slow 50mm push-in onto Amin's sweat-drenched panicked face bathed in pulsing blue/red checkpoint reflections. Decelerating engine hum, soft brake hiss, shaky breathing, steering wheel leather creak, ZERO background music.
+
+NEGATIVE:
+No identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 11 (10s) — التوقيف وفحص الوثائق من عون الجمارك
+# عون الجمارك فقط (0.4s–6.4s): "السَّلَامُ عَلَيْكُمْ، وَثَائِقْ السَّيَّارَة مَنْ فَضْلَكْ.. مَعْلِيشْ تَهْبَطْ خَطْوَة؟"
+
+SCENE 11 — ALGERIAN CUSTOMS DOCUMENT INSPECTION AT DRIVER WINDOW (100% MATCHED TO SCENE_11_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+The 35-year-old Algerian Customs officer standing outside on screen-right (authentic charcoal slate-grey uniform, slate-grey cap, gold "الجمارك" sleeve patch, wide light-grey canvas web belt) has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_11_FIRST_FRAME_1080x1920.png outside the rolled-down driver window of Amin's stopped silver-grey sedan: sweating Amin seated on screen-left hands the white folded vehicle documents with trembling fingers to the Algerian Customs officer standing on screen-right (0.4s–3.2s). From 3.2s to 4.7s, the officer glances down at the papers then looks sharply at Amin's pale, sweating face sensing his extreme tension, and calmly asks him to step out of the vehicle (4.8s–6.4s). From 6.5s to 10.0s, silent terrified Amin swallows hard, unlatches the driver's door from inside, and pushes the car door open beginning to step out as the officer steps half a pace back.
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Algerian Customs Officer ONLY (screen-right, 0.4s–6.4s with a natural 1s inspection pause — calm, sharp, authoritative 35-year-old Algerian officer baritone):
+"السَّلَامُ عَلَيْكُمْ، وَثَائِقْ السَّيَّارَة مَنْ فَضْلَكْ.. مَعْلِيشْ تَهْبَطْ خَطْوَة؟"
+- Amin (screen-left, 0.0s–10.0s): 100% SILENT — mouth closed tightly, trembling hands.
+
+CAMERA & AUDIO:
+Tight 50mm checkpoint two-shot widening slightly as the car door opens at 8.0s. Idling engine, paper rustle of car documents, metallic click of door latch opening, highway night wind, ZERO background music.
+
+NEGATIVE:
+No eyewear on officer, no lip movement on Amin, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 12 (10s) — اكتشاف الممنوعات وتقييد أمين
+# عون الجمارك للشاف فقط (0.8s–5.0s): "بُوزِيتِيفْ شَافْ! السَّلْعَة مْخَبِّيَة هْنَا.. وَقّْفُوهُمْ!"
+
+SCENE 12 — CONTRABAND DISCOVERED & HANDCUFFING AMIN (100% MATCHED TO SCENE_12_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action dramatic thriller (50mm lens, flashing blue/red patrol beacon), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+The Algerian Customs officer on screen-right (authentic charcoal slate-grey uniform with white arched "الجمارك الجزائرية CUSTOMS" back print and wide light-grey canvas web belt) has bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png beside the open rear passenger door of the silver-grey sedan where the discovered plain off-white taped carton sits exposed on the rear seat on screen-left: from 0.8s to 5.0s, the Algerian Customs officer calls out sharply confirming the contraband discovery while ratcheting the silver steel handcuffs shut around stunned, hollow-eyed Amin's wrists in front of him. From 5.1s to 10.0s, paralyzed in utter disbelief as blue-and-red patrol lights pulse across the foggy night air, handcuffed Amin is gripped firmly by the arm and led forward toward the patrol vehicle.
+
+DIALOGUE FIREWALL:
+- Algerian Customs Officer ONLY (0.8s–5.0s — sharp, urgent, authoritative 35-year-old Algerian officer baritone):
+"بُوزِيتِيفْ شَافْ! السَّلْعَة مْخَبِّيَة هْنَا.. وَقّْفُوهُمْ!"
+- Amin (center, 0.0s–10.0s): 100% SILENT — frozen in dazed shock, mouth slightly slack/closed without speech.
+
+CAMERA & AUDIO:
+Gritty 50mm medium-full shot tracking slightly right as handcuffed Amin is escorted away from the open car door. Crisp metallic ratchet click of steel handcuffs locking, boots on wet asphalt, patrol radio crackle, ZERO background music.
+
+NEGATIVE:
+No excessive violence, no firearms, no eyewear transfer, no speech from Amin, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 13 (10s) — صدمة الأم وإغماؤها في رواق المحكمة
+# أمين فقط صرخة مفجوعة في النهاية (7.0s–9.8s): "يَمَّااااا!"
+
+SCENE 13 — MOTHER COLLAPSES IN COURTHOUSE CORRIDOR (100% MATCHED TO SCENE_13_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action tragic climax (50mm lens, cool courthouse daylight), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Both the 62-year-old mother on screen-right (warm-beige Shar'i Khimar over loose charcoal outdoor Abaya) and the escorting slate-grey uniformed officer on far left have 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_13_FIRST_FRAME_1080x1920.png inside the marble courthouse corridor: from 0.0s to 6.8s, as handcuffed Amin walks escorted on screen-left, his heartbroken 62-year-old mother on screen-right clutches her right hand tightly over her chest seeing her son in steel handcuffs, gasps silently, loses consciousness, and slumps fainting onto the marble floor beside the wooden bench amid hushed startled gasps in the background. From 6.9s to 10.0s, the camera pushes sharply in onto devastated Amin straining desperately forward in his handcuffs while the officer holds his arm back, screaming out for his fallen mother in raw agony!
+
+DIALOGUE FIREWALL:
+- 0.0s–6.8s: Hushed corridor murmurs and Mother's faint breathless gasp as she collapses (zero spoken words).
+- Amin ONLY (7.0s–9.8s — raw, shattered, agonized 26-year-old Algerian son's scream echoing down the marble corridor):
+"يَمَّااااا!"
+
+CAMERA & AUDIO:
+50mm corridor two-shot (0.0s–6.8s), then urgent dramatic push-in onto Amin's anguished screaming face (6.9s–10.0s) cutting directly into his awakening in Scene 14! Echoing footsteps on marble, metallic clink of handcuffs, soft fabric thud as mother faints, raw echoing cry "Yemmaaaa!", ZERO background music.
+
+NEGATIVE:
+No eyewear on mother or officer, no awkward/cartoony fall, no camera gaze, no cuts inside clip, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 14 (8s) — الصحوة من الكابوس والاستغفار
+# أمين فقط بأنفاس لاهثة (1.5s–6.4s): "أَسْتَغْفِرُ اللّهَ العَظِيمْ.. الحَمْدُ لِلّه، مْنَامَة! يَا رَبِّي لَكْ الحَمْدْ اللِّي كَانَتْ كَابُوسْ!"
+
+SCENE 14 — JOLTING AWAKE FROM THE NIGHTMARE & ISTIGHFAR (100% MATCHED TO SCENE_14_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close medium shot, pre-dawn bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_14_FIRST_FRAME_1080x1920.png inside Amin's dim pre-dawn bedroom: drenched in beads of cold sweat in his damp dark-olive home t-shirt, Amin sits bolted upright clutching the dark navy-grey blanket to his chest, chest heaving raggedly for air as he looks around his familiar bedroom realizing the arrest and courthouse tragedy were only a nightmare (0.0s–1.4s). From 1.5s to 6.4s, trembling between lingering fear and overwhelming gratitude, he speaks breathlessly praising Allah. From 6.5s to 8.0s, he releases the blanket and wipes his sweat-drenched face with both trembling hands exhaling a deep sigh of relief.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.5s–6.4s — breathless, trembling, deeply relieved 26-year-old Algerian chest baritone):
+"أَسْتَغْفِرُ اللّهَ العَظِيمْ.. الحَمْدُ لِلّه، مْنَامَة! يَا رَبِّي لَكْ الحَمْدْ اللِّي كَانَتْ كَابُوسْ!"
+
+CAMERA & AUDIO:
+Intimate 50mm close-medium shot settling steadily as his breathing calms. Bedsheet rustle, ragged gasping breaths softening into a relieved sigh, hands wiping sweaty skin, pre-dawn quiet, ZERO background music.
+
+NEGATIVE:
+No handcuffs in bedroom, no identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.
+
+================================================================================
+
+### المشهد 15 (10s) — المكالمة الفاصلة عند نافذة الفجر وأذان الفجر
+# أمين فقط بثبات ويقين (0.4s–8.0s): "أَلُو رَمْزِي.. أَخْطِينِي يَا خُويَا، القَرْشْ الحَرَامْ اللِّي يْضَيَّعْ شَرْفِي وْيْطَيَّحْ مِيمْتِي مَانِيشْ مَحْتَاجُو، رَبِّي يَهْدِيكْ وْيَهْدِينَا." (ثم ابتسامة راحة مع صوت أذان الفجر 8.0s–10.0s)
+
+SCENE 15 — FINAL DAWN CALL REJECTING HARAM & FAJR ADHAN FINALE (100% MATCHED TO SCENE_15_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action moral finale (50mm lens, serene golden-blue Fajr dawn sunlight), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_15_FIRST_FRAME_1080x1920.png beside the open wooden bedroom window on screen-right overlooking quiet Algerian rooftops and a distant mosque minaret in golden-blue Fajr dawn light: standing tall and composed in his dark-olive cotton home t-shirt, Amin holds his black smartphone to his left ear and speaks from 0.4s to 8.0s with calm, firm, unshakable dignity rejecting the haram money forever. At 8.1s, Amin lowers the phone tapping the screen decisively to end the call, inhales the pure dawn breeze looking out toward the sunlit sky and distant minaret, and smiles a peaceful, dignified gentle smile of inner peace (8.2s–10.0s) as the Fajr Adhan echoes across the morning sky.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (0.4s–8.0s — calm, firm, dignified, peaceful 26-year-old Algerian chest baritone):
+"أَلُو رَمْزِي.. أَخْطِينِي يَا خُويَا، القَرْشْ الحَرَامْ اللِّي يْضَيَّعْ شَرْفِي وْيْطَيَّحْ مِيمْتِي مَانِيشْ مَحْتَاجُو، رَبِّي يَهْدِيكْ وْيَهْدِينَا."
+
+CAMERA & AUDIO:
+Graceful slow 50mm push-in toward Amin's serene dawn-lit profile at the open window. Quiet morning breeze, phone end-call tap at 8.1s, followed from 7.8s to 10.0s by the serene, authentic distant echo of an Algerian mosque Fajr Adhan ("اللّهُ أَكْبَرْ... اللّهُ أَكْبَرْ") drifting gently across the rooftops — STRICTLY ZERO musical instruments or background score.
+
+NEGATIVE:
+No musical instruments, no background score, no exaggerated wide grin, no identity drift, no camera gaze, no cuts, no subtitles, no watermark.
+
+================================================================================
