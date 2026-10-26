@@ -1,0 +1,30 @@
+SCENE 04 — RETURNING HOME & HONORING MOTHER
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens, warm tungsten evening interior), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01A_AMIN_MECHANIC], [Slot 2: CHAR_04A_MOTHER_YEMMA], [Slot 3: LOC_02_HUMBLE_LIVING_ROOM] (or start from SCENE_04_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+His 62-year-old mother on screen-left wears modest full-coverage beige headscarf and burgundy house dress with 100% bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+Evening inside the humble Algerian living room. Mother sits on the low sedari sofa on screen-left; tired Amin in his mechanic jacket leans tenderly over her at center-right.
+
+ACTION (0.0s – 10.0s):
+From 0.0s to 1.4s, Amin finishes kissing the top of his seated mother's head with deep filial tenderness and straightens slightly, placing the few folded worn Algerian banknotes gently into her open right palm (1.5s–4.5s). Speaking softly with heavy physical exhaustion until 7.4s, Amin gives her a weary, reassuring half-smile. From 7.5s to 10.0s, his mother smiles back with compassionate maternal warmth raising her palms slightly in a silent blessing while exhausted Amin turns slowly right toward the bedroom hallway arch.
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Amin ONLY (center-right, 1.5s–7.4s — tired, gentle, respectful 26-year-old Algerian chest baritone):
+"مَسَاءْ الخِيرْ يَمَّا.. هَاكِي وَاشْ كْتَبْ رَبِّي لْلْيُومْ. أَنَا نْرُوحْ نَرْقُدْ، رَانِي فْرِي عَيَّانْ."
+- Mother (screen-left, 0.0s–10.0s): 100% SILENT — warm tender smile and silent maternal nod, zero audible speech.
+
+CAMERA:
+Warm, intimate locked 50mm medium shot with a gentle pan-reframe following Amin's turn toward the hallway arch on screen-right.
+
+AUDIO:
+Soft kiss on cotton headscarf, crisp paper rustle of folded banknotes placed in palm, heavy weary footsteps on tiled floor, quiet evening home room tone, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 05:
+Amin steps toward his bedroom door while his worried mother watches him; Scene 05 continues seconds later right at Amin's bedroom doorway.
+
+NEGATIVE:
+No identity drift, no eyewear on mother, no audible speech from mother, no camera eye contact, no mirror flip of living room, no cuts, no music, no subtitles, no watermark.

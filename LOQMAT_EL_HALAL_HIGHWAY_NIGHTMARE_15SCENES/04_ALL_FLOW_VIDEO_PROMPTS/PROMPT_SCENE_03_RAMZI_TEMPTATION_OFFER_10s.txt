@@ -1,0 +1,30 @@
+SCENE 03 — FRIEND ENTERS WITH TEMPTATION
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm prime lens), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01A_AMIN_MECHANIC], [Slot 2: CHAR_03_RAMZI], [Slot 3: LOC_01_AUTO_WORKSHOP] (or start from SCENE_03_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Ramzi on screen-left has 100% bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+At the open entrance doorway of the auto-repair workshop in late-afternoon golden light. Ramzi steps in on screen-left; tired Amin stands on screen-right holding a grease rag.
+
+ACTION (0.0s – 10.0s):
+Stepping casually inside the garage door with a mocking, knowing smirk at Amin's humiliation, Ramzi leans closer from 0.6s to 7.3s pitching an easy overnight deal with subtle persuasive hand gestures. At 7.4s, Ramzi claps his right hand twice on Amin's left shoulder, gives a knowing nod, and turns walking out through the sunlit doorway on screen-left (7.4s–9.2s), leaving Amin standing frozen staring off into empty space in troubled hesitation (9.2s–10.0s).
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Ramzi ONLY (screen-left, 0.6s–7.3s — sly, persuasive 28-year-old Algerian streetwise tenor-baritone):
+"شَفْتْ الحَقْرَة كِيفَاشْ دَايْرَة؟ كَايَنْ خَدْمَة تَاعْ لِيلَة تَدِّي فِيهَا مَصْرُوفْ شَهْرِينْ.. خَمَّمْ فِيهَا وْكِي تُوجَدْ عَيَّطْلِي."
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — mouth closed the entire clip, jaw tense in silent inner conflict.
+
+CAMERA:
+Steady 50mm medium two-shot, subtly reframing slightly right as Ramzi exits left to hold on Amin's conflicted distant stare.
+
+AUDIO:
+Faux-leather jacket rustle, firm double hand-pat on cotton mechanic shoulder, footsteps fading onto outside pavement, distant Algiers street hum, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 04:
+Amin stares into space conflicted as dusk approaches; Scene 04 cuts to Amin arriving home that evening in his mother's modest living room.
+
+NEGATIVE:
+No identity drift, no eyewear on Ramzi, no lip movement on Amin, no camera eye contact, no cuts, no music, no subtitles, no watermark.

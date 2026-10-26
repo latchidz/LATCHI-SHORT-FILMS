@@ -1,0 +1,30 @@
+SCENE 13 — MOTHER COLLAPSES IN COURTHOUSE CORRIDOR (NIGHTMARE CLIMAX)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action high-emotion social drama (50mm lens, solemn cool daylight), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01C_AMIN_NIGHTMARE_JACKET], [Slot 2: CHAR_04A_MOTHER_YEMMA], [Slot 3: LOC_06_COURTHOUSE_CORRIDOR] (or start from SCENE_13_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Mother on screen-right wears modest beige Shar'i Khimar and loose charcoal outdoor Abaya with 100% bare eyes (NO glasses). Officer has bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+Inside the austere marble courthouse corridor. Handcuffed Amin is escorted along screen-left while his elderly mother stands horrified beside the wooden bench on screen-right.
+
+ACTION (0.0s – 10.0s):
+From 0.0s to 6.8s, as handcuffed Amin passes in the corridor and locks eyes with his mother, overwhelming heartbreak strikes the 62-year-old mother on screen-right — she clutches her hand tightly against her chest gasping silently, loses her balance, and slumps unconscious onto the marble floor beside the bench amid quiet startled gasps in the corridor. From 6.9s to 10.0s, the camera reframes sharply onto devastated Amin straining desperately forward in his handcuffs toward his fallen mother while the officer holds his arm back, crying out for her in raw agony!
+
+DIALOGUE FIREWALL:
+- 0.0s–6.8s: Hushed shocked corridor murmurs and Mother's faint breathless gasp as she faints (zero words).
+- Amin ONLY (7.1s–9.8s — raw, shattered, agonized 26-year-old Algerian son's cry echoing in the hallway):
+"يَمَّااااا!"
+
+CAMERA:
+50mm medium shot holding both Amin and his collapsing mother (0.0s–6.8s), then an urgent dramatic push-in/whip-reframe onto Amin's anguished screaming face (6.9s–10.0s) — cutting straight into his sudden awakening in Scene 14!
+
+AUDIO:
+Echoing footsteps on courthouse marble, metallic clink of handcuffs, soft thud of fabric Abaya as mother slumps onto floor, hushed background gasp, Amin's raw echoing cry "Yemmaaaa!", ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 14:
+At the peak of Amin's anguished cry, Scene 14 smash-cuts directly to Amin bolting upright in his dark bedroom waking from the nightmare!
+
+NEGATIVE:
+No identity drift, no eyewear transfer, no camera eye contact, no comedic/exaggerated fall, no cuts inside clip, no music, no subtitles, no watermark.

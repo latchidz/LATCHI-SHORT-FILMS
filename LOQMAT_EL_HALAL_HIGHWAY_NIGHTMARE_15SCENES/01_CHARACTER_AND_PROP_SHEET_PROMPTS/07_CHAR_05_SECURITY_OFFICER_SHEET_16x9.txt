@@ -1,0 +1,14 @@
+[GOOGLE FLOW / NANO BANANA PRO SETTINGS: Aspect Ratio = 16:9 | Mode = Image Generation]
+
+Create a professional 4-panel character reference sheet on one single 16:9 landscape canvas, divided into four equal vertical panels with thin, clean gaps between them. Solid flat neutral mid-gray background (#808080) in all four panels — no white, no gradient, no floor line, no shadow puddle, no weapons, no props, no text, no labels. Photorealistic 35mm cinema quality, raw natural skin pores.
+
+CHARACTER (ALGERIAN HIGHWAY SECURITY OFFICER — SCENES 09, 11, 12, 13): Disciplined Algerian law-enforcement officer, 35 years old, 182 cm, upright athletic build. STRICTLY NO EYEGLASSES OR SUNGLASSES (100% bare eyes).
+
+OUTFIT: Dark forest-navy long-sleeved tactical duty uniform shirt and matching tactical trousers tucked into black leather combat boots, wearing a high-visibility neon-yellow/silver reflective checkpoint vest zipped over the chest (clean generic reflective strips, zero readable text or badges), dark navy peaked patrol cap, black leather utility belt.
+
+PANEL 1 (FAR LEFT) — FULL-BODY FRONT VIEW, NO FACE: Upright A-pose, frame cropped cleanly at the chin line, face completely out of frame, neck down to boots.
+PANEL 2 (SECOND FROM LEFT) — FULL-BODY BACK VIEW: Turned 180 degrees from patrol cap down to boot heels, clean reflective silver stripes on vest back, zero text.
+PANEL 3 (THIRD FROM LEFT) — DETAILED FRONT FACE CLOSE-UP: 85mm head-and-shoulders close-up wearing dark patrol cap, alert serious authoritative expression, chiseled North African jaw, weathered tanned-olive skin with visible pores, observant dark-brown eyes (NO glasses), thick straight dark eyebrows, neat trimmed dark mustache with clean-shaven jaw.
+PANEL 4 (FAR RIGHT) — DETAILED SIDE PROFILE CLOSE-UP: 85mm 90-degree side profile wearing patrol cap.
+
+RULES: One character only, NO glasses, zero readable text or emblems, no weapons.

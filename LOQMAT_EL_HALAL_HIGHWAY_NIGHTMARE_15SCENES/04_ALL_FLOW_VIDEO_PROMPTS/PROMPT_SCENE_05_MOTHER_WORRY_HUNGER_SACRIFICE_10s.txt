@@ -1,0 +1,31 @@
+SCENE 05 — MOTHER'S PLEA AT BEDROOM DOOR & AMIN'S SELFLESS LIE
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01A_AMIN_MECHANIC], [Slot 2: CHAR_04A_MOTHER_YEMMA], [Slot 3: LOC_03_AMIN_BEDROOM_AND_DOOR] (or start from SCENE_05_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Mother on screen-left has 100% bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+At the open wooden bedroom doorway. Worried mother stands in the hallway on screen-left; exhausted Amin stands inside the bedroom threshold on screen-right holding the door handle.
+
+ACTION (0.0s – 10.0s):
+From 0.3s to 4.1s, Amin's mother pleads tenderly with him to come eat dinner, lifting her right hand gently toward his arm while Amin listens with a closed mouth. From 4.4s to 8.1s, Mother keeps her mouth closed as Amin places his left hand reassuringly over his chest with a gentle, selfless smile pretending he already ate outside so she keeps the food. From 8.2s to 10.0s, Amin steps back closing the wooden bedroom door softly, and the camera pushes slowly in onto his mother's sorrowful, worried eyes left standing in the dim hallway.
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Mother ONLY (screen-left, 0.3s–4.1s — authentic 62-year-old elderly Algerian mother's warm, weathered mezzo-contralto voice, NEVER a young woman's voice; Amin silent):
+"بَصَّحْ أَرْوَاحْ تَاكُلْ حَاجَة يَا وْلِيدِي.. مَا تْدِيرْشْ هَكْذَا فِي رُوحَكْ!"
+- Amin ONLY (screen-right, 4.4s–8.1s — gentle, tired 26-year-old Algerian chest baritone; Mother silent):
+"لَالَا يَمَّا، شَبْعَانْ وْكْلِيتْ بَزَّافْ بَرَّا.. بْصَحَّتْكُمْ نْتُومَا."
+
+CAMERA:
+50mm medium-close shot at doorway (0.0s–8.0s), then a smooth emotional push-in onto the mother's worried, glistening eyes outside the closed wooden door (8.0s–10.0s).
+
+AUDIO:
+Creak of wooden bedroom door, soft click of metal latch closing at 8.8s, quiet maternal sigh in hallway, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 06:
+Closed wooden bedroom door with mother worried outside; Scene 06 cuts inside the dark bedroom to Amin lying awake on his bed.
+
+NEGATIVE:
+No simultaneous speech, no young voice on elderly mother, no eyewear transfer, no camera eye contact, no cuts, no music, no subtitles, no watermark.

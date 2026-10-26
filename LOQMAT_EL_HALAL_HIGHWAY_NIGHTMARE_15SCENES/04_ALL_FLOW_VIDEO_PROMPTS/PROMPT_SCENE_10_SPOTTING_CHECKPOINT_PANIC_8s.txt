@@ -1,0 +1,29 @@
+SCENE 10 — SPOTTING THE ROADBLOCK & SHEER PANIC
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action thriller (50mm interior cabin shot), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01C_AMIN_NIGHTMARE_JACKET], [Slot 2: LOC_05_HIGHWAY_CHECKPOINT_NIGHT] (or start from SCENE_10_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Zero direct eye contact with camera lens.
+
+SCENE & STARTING STATE:
+Inside Amin's moving sedan rounding the dark highway curve as flashing blue-and-red checkpoint lights suddenly appear ahead through the windshield.
+
+ACTION (0.0s – 8.0s):
+At 0.0s–1.5s, blue and red strobe reflections wash across the windshield and across Amin's rimless emerald-gold lenses as he spots the roadblock; his breath catches sharply and his fingers visibly tremble on the steering wheel. From 1.6s to 6.4s, sweating heavily in sheer panic and instant regret, Amin whispers a trembling desperate prayer staring ahead at the approaching cones. From 6.5s to 8.0s, forcing himself not to panic visibly, he eases his foot steadily onto the brake pedal slowing the car smoothly toward a stop.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.6s–6.4s — breathless, trembling, panic-stricken 26-year-old Algerian chest baritone):
+"يَا رَبِّي تَسْلَكْ عْلَى خِيرْ.. يَا رَبِّي اسْتُرْ، وَاشْ دَرْتْ فِي رُوحِي!"
+
+CAMERA:
+Starts showing the flashing roadblock lights through the windshield (0.0s–1.5s), then smoothly pushes in and pans slightly onto Amin's sweating, terrified face as blue/red strobes pulse across his cheeks (1.5s–8.0s).
+
+AUDIO:
+Engine decelerating smoothly, soft brake pedal hiss, Amin's shaky shallow breathing, leather steering wheel creak under trembling hands, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 11:
+Amin's sedan rolls gently to a full stop right at the checkpoint cones; Scene 11 opens immediately outside his rolled-down driver's window as the officer steps up.
+
+NEGATIVE:
+No identity drift, no eyewear loss, no camera eye contact, no extra passengers, no cuts, no music, no subtitles, no watermark.

@@ -1,0 +1,31 @@
+SCENE 08 — NIGHT HIGHWAY DRIVING & SCOUT PHONE CALL
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action thriller (50mm interior car rig, nocturnal dashboard lighting), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01C_AMIN_NIGHTMARE_JACKET] (or start from SCENE_08_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Amin is alone inside the car; zero direct eye contact with camera lens (eyes fixed forward on the dark road).
+
+SCENE & STARTING STATE:
+Inside Amin's moving sedan cruising down a dark Algerian national highway at night. Passing dim road reflectors streak outside the side window.
+
+ACTION (0.0s – 8.0s):
+Gripping the steering wheel with his left hand while holding his smartphone on speaker with his right hand, tense Amin asks if the highway ahead is clear (0.3s–3.9s). From 4.1s to 7.0s, Amin keeps his mouth 100% closed listening intently as Ramzi's voice answers through the phone speaker. At 7.1s, Amin taps the phone screen ending the call, lowers it toward the center console, and grips the wheel with both hands staring fixedly at the dark asphalt ahead (7.1s–8.0s).
+
+DIALOGUE & PHONE SPEAKER FIREWALL:
+- Amin ON SCREEN (0.3s–3.9s — tense, cautious 26-year-old Algerian chest baritone; Amin's lips move):
+"أَلُو رَمْزِي، الطْرِيقْ رَاهِي نْقِيَّة؟"
+- Ramzi OFF-SCREEN VIA PHONE SPEAKER (4.1s–7.0s — realistic filtered mobile-phone speaker quality, overconfident 28-year-old Algerian tenor-baritone; Amin's mouth remains 100% CLOSED):
+"افْتَحْ الغَازْ وْمَا تْخَافْشْ، رَانِي كَاشَفْلَكْ الطْرِيقْ وْقُدَّامَكْ مَا كَايَنْ وَالُو."
+
+CAMERA:
+Locked interior dashboard-mount 50mm medium close-up with authentic subtle car road vibration.
+
+AUDIO:
+Steady sedan engine hum and highway tire rumble on asphalt, authentic telephone speaker acoustic filter on Ramzi's reply, phone hang-up beep at 7.1s, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 09:
+Amin accelerates down the dark highway trusting Ramzi; Scene 09 cuts just ahead around the highway bend where security forces are deploying a surprise roadblock!
+
+NEGATIVE:
+No lip movement on Amin during Ramzi's phone line (4.1s–7.0s), no second person inside car, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.

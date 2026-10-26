@@ -1,0 +1,29 @@
+SCENE 14 — AWAKENING FROM THE NIGHTMARE & ISTIGHFAR
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close medium shot, pre-dawn bedroom lighting), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01B_AMIN_HOME_BEDROOM], [Slot 2: LOC_03_AMIN_BEDROOM_AND_DOOR] (or start from SCENE_14_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Zero direct eye contact with camera lens.
+
+SCENE & STARTING STATE:
+Pre-dawn inside Amin's quiet modest bedroom (exact same room and dark-olive home t-shirt from Scene 06).
+
+ACTION (0.0s – 8.0s):
+From 0.0s to 1.5s, Amin jolts upright in bed gasping heavily for air, drenched in cold sweat, glancing frantically at his bare, un-handcuffed hands and around his familiar bedroom realizing it was all a terrifying dream! From 1.6s to 6.4s, trembling between residual terror and overwhelming relief, he speaks breathlessly praising Allah that it was only a nightmare. From 6.5s to 8.0s, he wipes his sweat-covered forehead and face with both trembling hands, exhaling a long, shuddering breath of pure gratitude.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.6s–6.4s — breathless, trembling, deeply relieved 26-year-old Algerian chest baritone):
+"أَسْتَغْفِرُ اللّهَ العَظِيمْ.. الحَمْدُ لِلّه، مْنَامَة! يَا رَبِّي لَكْ الحَمْدْ اللِّي كَانَتْ كَابُوسْ!"
+
+CAMERA:
+Intimate 50mm close-medium shot starting with a slight startled jolt at 0.0s, then settling into a steady, comforting frame as his breathing slows.
+
+AUDIO:
+Sudden rustle of bedsheets, heavy ragged gasping breaths transitioning into a trembling sigh of relief, hands wiping sweaty skin, quiet pre-dawn stillness, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 15:
+Amin lowers his hands from his face looking toward the first glimmer of dawn at his bedroom window; Scene 15 concludes the film with Amin standing at that window making the final call.
+
+NEGATIVE:
+No handcuffs in bedroom, no identity drift, no eyewear loss, no camera eye contact, no cuts, no music, no subtitles, no watermark.

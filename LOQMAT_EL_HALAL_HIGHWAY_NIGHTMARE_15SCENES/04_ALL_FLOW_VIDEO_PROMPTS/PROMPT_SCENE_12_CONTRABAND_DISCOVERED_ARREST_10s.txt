@@ -1,0 +1,30 @@
+SCENE 12 — HIDDEN COMPARTMENT DISCOVERED & HANDCUFFING AMIN
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action dramatic thriller (50mm lens, flashing blue/red checkpoint lighting), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01C_AMIN_NIGHTMARE_JACKET], [Slot 2: CHAR_05_SECURITY_OFFICER], [Slot 3: PROP_01_DISGUISED_BOXES] (or start from SCENE_12_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+All security officers have 100% bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+Behind and beside Amin's stopped silver-grey sedan at the night checkpoint. Inspecting officer at the open rear door on screen-left has just uncovered the secret under-seat compartment; frozen Amin stands beside the rear fender on screen-right next to a second officer.
+
+ACTION (0.0s – 10.0s):
+From 0.0s to 5.2s, the inspecting officer on screen-left pulls the taped plain off-white carton up out of the lifted rear seat cavity into his flashlight beam and calls out sharply to his commander. From 5.3s to 10.0s, as Amin stands paralyzed in utter shock and disbelief, the officer beside him brings Amin's wrists firmly behind his back, clicks steel handcuffs shut around his wrists, and guides stunned, hollow-eyed Amin forward toward the flashing patrol vehicle.
+
+DIALOGUE FIREWALL:
+- Inspecting Security Officer ONLY (screen-left, 1.2s–5.2s — sharp, urgent, authoritative 35-year-old Algerian officer baritone):
+"بُوزِيتِيفْ شَافْ! السَّلْعَة مْخَبِّيَة هْنَا.. وَقّْفُوهُمْ!"
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — frozen in dazed shock, mouth closed.
+
+CAMERA:
+Gritty, tense 50mm medium shot panning slightly right to follow handcuffed Amin being escorted toward the patrol SUV lights.
+
+AUDIO:
+Upholstery cushion lifted, sharp metallic ratchet click of steel handcuffs locking at 6.4s, gravel footsteps, patrol radio static, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 13:
+Handcuffed Amin is led toward the patrol car; Scene 13 cuts directly to the devastating climax inside the courthouse corridor where his mother sees him in handcuffs.
+
+NEGATIVE:
+No excessive violence, no firearms, no readable text on cartons or vests, no identity drift, no eyewear transfer, no lip movement on Amin, no cuts, no music, no subtitles, no watermark.

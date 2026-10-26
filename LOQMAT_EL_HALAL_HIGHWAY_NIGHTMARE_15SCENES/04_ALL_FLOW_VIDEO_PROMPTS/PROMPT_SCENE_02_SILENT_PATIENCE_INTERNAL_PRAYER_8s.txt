@@ -1,0 +1,31 @@
+SCENE 02 — SILENT PATIENCE & INTERNAL MONOLOGUE
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens close medium shot), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01A_AMIN_MECHANIC], [Slot 2: LOC_01_AUTO_WORKSHOP] (or start from SCENE_02_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Zero direct eye contact with camera lens.
+
+SCENE & STARTING STATE:
+Alone inside the auto-repair workshop moments after the manager walked out. Close chest-up framing on exhausted Amin beside the blurred tool cabinet.
+
+ACTION (0.0s – 8.0s):
+From 0.0s to 5.9s, Amin keeps his mouth 100% closed while slowly wiping sweat from his forehead with his grease-stained forearm, then looks down at his oil-blackened palms rubbing them slowly together in silent endurance. At 6.0s, he inhales deeply expanding his chest, exhales a heavy tired breath, and from 6.2s to 7.9s his lips move gently in a quiet, heartfelt whispered supplication looking slightly upward off-camera.
+
+DIALOGUE & VOICEOVER LOCK (26-YEAR-OLD ALGERIAN BARITONE):
+- 0.3s–5.9s (INTERNAL THOUGHT VOICEOVER ONLY — Amin's lips remain 100% CLOSED on screen; intimate, resonant 26-year-old Algerian male chest baritone):
+"صَابَرْ عْلَى الحَقْرَة غِيرْ عْلَى جَالْ لُقْمَة الحَلَالْ.. كُونْ نَخْرُجْ كِيفَاشْ نْعَيَّشْ مِيمْتِي؟"
+- 6.2s–7.9s (AUDIBLE WHISPER ON SCREEN — Amin's lips move softly and naturally):
+"يَا رَبِّي فَرَّجْهَا مَنْ عَنْدَكْ."
+
+CAMERA:
+Intimate locked/micro push-in 50mm close-up keeping every bead of sweat and pore sharp.
+
+AUDIO:
+Fabric sleeve wiping sweaty forehead, rough skin friction of grease-stained hands, deep authentic human sigh, quiet garage room tone, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 03:
+Amin lowers his hands exhaling quietly near the garage bay; Scene 03 opens toward the workshop entrance door as Ramzi walks in.
+
+NEGATIVE:
+No lip movement during 0.0s–5.9s internal monologue, no identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.

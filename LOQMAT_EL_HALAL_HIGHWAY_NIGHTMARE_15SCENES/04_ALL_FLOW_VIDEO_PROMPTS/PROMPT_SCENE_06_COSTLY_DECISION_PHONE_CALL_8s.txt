@@ -1,0 +1,29 @@
+SCENE 06 — THE COSTLY PHONE CALL IN BED
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social thriller (50mm lens, moody low-key night bedroom lighting), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01B_AMIN_HOME_BEDROOM], [Slot 2: LOC_03_AMIN_BEDROOM_AND_DOOR] (or start from SCENE_06_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Zero direct eye contact with camera lens.
+
+SCENE & STARTING STATE:
+Late night inside Amin's quiet dark bedroom. Amin lies propped on his single bed in his dark-olive home t-shirt reaching for his smartphone on the wooden nightstand.
+
+ACTION (0.0s – 8.0s):
+From 0.0s to 1.4s, weighed down by poverty and distress, Amin picks up the smartphone from the nightstand and presses it to his right ear, faint screen light illuminating his cheek. From 1.5s to 6.2s, he speaks into the phone in a heavy, reluctant voice accepting Ramzi's deal. From 6.3s to 8.0s, he lowers the phone onto his chest ending the call, swallowing hard as deep anxiety and dread settle over his face in the dark.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.5s–6.2s — tense, low, conflicted 26-year-old Algerian chest baritone):
+"أَلُو رَمْزِي؟ خْلَاصْ رَانِي خَمَّمْتْ مْلِيحْ وْقَابَلْ.. وَقْتَاشْ نْجِي؟"
+
+CAMERA:
+Slow, tense 50mm push-in toward Amin's anxious face on the pillow, subtly building psychological suspense.
+
+AUDIO:
+Hand picking up phone from wooden table, mattress/blanket rustle, tense heavy exhale after hanging up, dead-of-night room silence, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 07:
+Amin lies in the dark gripped by anxiety (unbeknownst to the viewer, he drifts into the vivid nightmare sequence that begins in Scene 07 inside the abandoned warehouse).
+
+NEGATIVE:
+No identity drift, no eyewear loss, no camera eye contact, no extra voices, no cuts, no music, no subtitles, no watermark.

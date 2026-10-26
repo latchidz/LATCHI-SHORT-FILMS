@@ -1,0 +1,22 @@
+[UPLOAD REFERENCE PHOTO: /home/user/00_CHARACTERS/AMIN/CHAR_AMIN_NEW_4PANEL_16x9_SHEET.png OR AMIN_9x16_LOCK_CARD_01_SERIOUS_NEUTRAL.png]
+[GOOGLE FLOW / NANO BANANA PRO SETTINGS: Aspect Ratio = 16:9 | Mode = Image Generation]
+
+Create a professional 4-panel character reference sheet on one single 16:9 landscape canvas, divided into four equal vertical panels with thin, clean gaps between them. Solid flat neutral mid-gray background (#808080) in all four panels — no white, no gradient, no texture, no floor line, no cast-shadow puddle, no props, no text, no labels, no watermark. Soft, even, diffused front studio lighting with gentle fill and a subtle neutral rim light; true-to-life skin tones and fabric colours. Photorealistic 35mm cinema still quality, ultra-detailed, raw 50MP natural skin texture with visible microscopic pores — zero plastic, waxy or airbrushed skin, zero beauty filter.
+
+Same character, same outfit, same hairstyle, same eyewear, same body proportions and same scale in every panel.
+
+IDENTITY (CRITICAL LOCK — AMIN): Use the uploaded reference photo as the 100% exact identity of this character. Keep the exact North African / Algerian facial bone structure, olive-warm skin tone, visible pores, tiny natural cheek moles, straight nose with softly rounded tip, full natural lips, short ~1cm neatly trimmed black beard connected to mustache (lighter on cheeks, denser on chin), clean high skin-fade haircut with short textured dark hair on top, and the exact signature rimless octagonal-rectangular sunglasses with emerald-teal dark gradient lenses, delicate polished gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms.
+
+CHARACTER: Algerian man (Amin), 26 years old, 178 cm, lean hardworking athletic build.
+
+OUTFIT (SCENES 01–05 MECHANIC WARDROBE): Unbuttoned dark-navy heavy cotton mechanic work jacket with subtle realistic motor-oil smudges on the cuffs and forearms, worn over a faded charcoal-grey crew-neck cotton t-shirt; dark slate-charcoal durable work trousers with faint workshop dust; worn matte-black leather lace-up work boots; zero jewelry, zero watch.
+
+PANEL 1 (FAR LEFT) — FULL-BODY FRONT VIEW, NO FACE: Stands straight in a relaxed neutral A-pose facing the camera directly, arms slightly away from the body, bare hands with faint realistic grease smudges on knuckles, feet shoulder-width apart. Frame is cropped cleanly at the chin line so the face is completely out of frame — show from the neck down to the boots.
+
+PANEL 2 (SECOND FROM LEFT) — FULL-BODY BACK VIEW: Same character in the same pose turned 180 degrees showing the back from the top of the high skin-fade haircut down to the boot heels, showing the plain dark-navy mechanic jacket back and charcoal trousers.
+
+PANEL 3 (THIRD FROM LEFT) — DETAILED FRONT FACE CLOSE-UP: Head-and-shoulders portrait facing straight on, calm stoic expression, 85mm portrait lens, razor-sharp focus on his exact face, raw skin pores, short ~1cm trimmed beard, high skin-fade, and exact rimless emerald-gold spear-hinge sunglasses.
+
+PANEL 4 (FAR RIGHT) — DETAILED SIDE PROFILE CLOSE-UP: Exact 90-degree right side profile head-and-shoulders close-up, 85mm portrait lens, locking his nose bridge, jawline, ~1cm chin beard line, high skin-fade temple taper, and glossy black temple arm with gold spear-point hinge of the rimless sunglasses.
+
+RULES: One character only. Identical features, eyewear, and grease-smudged mechanic outfit across panels. No text, no labels, no extra limbs.

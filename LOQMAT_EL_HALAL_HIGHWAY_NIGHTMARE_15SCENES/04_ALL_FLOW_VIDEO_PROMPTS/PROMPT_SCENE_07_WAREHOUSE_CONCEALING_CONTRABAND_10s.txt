@@ -1,0 +1,30 @@
+SCENE 07 — HIDING THE DISGUISED BOXES IN THE SECRET CAR COMPARTMENT
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, gritty low-key sodium night lighting), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01C_AMIN_NIGHTMARE_JACKET], [Slot 2: CHAR_03_RAMZI], [Slot 3: PROP_01_DISGUISED_BOXES] (or start from SCENE_07_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Ramzi on screen-left has 100% bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+Night inside an isolated abandoned concrete warehouse beside the open rear door of Amin's silver-grey sedan, rear seat cushion lifted open.
+
+ACTION (0.0s – 10.0s):
+From 0.0s to 4.2s, Ramzi on screen-left urgently hands the last taped plain off-white cardboard cartons from the black duffel bag to sweating, nervous Amin on screen-right, who tucks them tightly inside the hidden metal cavity beneath the rear car seat. From 4.3s to 8.0s, both men press the thick fabric rear seat cushion firmly back down into place until it sits completely flush hiding the compartment, and Amin shuts the rear car door firmly at 8.2s. From 8.3s to 10.0s, Amin and Ramzi exchange a sharp, tense, silent glance across the dark warehouse.
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Ramzi ONLY (screen-left, 0.6s–4.2s — hushed, urgent, rapid 28-year-old Algerian tenor-baritone):
+"خَبِّيهَا هْنَا مْلِيحْ.. وَالُو مَا يْبَانْ."
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — mouth closed tightly, anxious rapid breathing.
+
+CAMERA:
+Handheld-steadied 50mm medium shot capturing the hidden under-seat compartment closing, subtly tightening onto their tense eye exchange at the end.
+
+AUDIO:
+Cardboard cartons sliding against metal, heavy upholstery seat thudding firmly into place, solid metallic car door clunk at 8.2s, echoing warehouse night draft, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 08:
+Car rear door closed with cartons concealed under the back seat; Scene 08 cuts inside the moving car on the dark highway at night.
+
+NEGATIVE:
+No readable brand text on boxes, no identity drift, no eyewear on Ramzi, no lip movement on Amin, no camera eye contact, no cuts, no music, no subtitles, no watermark.

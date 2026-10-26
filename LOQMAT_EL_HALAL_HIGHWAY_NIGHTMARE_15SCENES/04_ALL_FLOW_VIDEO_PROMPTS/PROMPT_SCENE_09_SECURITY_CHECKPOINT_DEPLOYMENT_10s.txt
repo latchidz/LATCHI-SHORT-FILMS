@@ -1,0 +1,28 @@
+SCENE 09 — SURPRISE HIGHWAY SECURITY CHECKPOINT DEPLOYMENT
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, nocturnal blue/red strobe and halogen floodlights), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_05_SECURITY_OFFICER], [Slot 2: LOC_05_HIGHWAY_CHECKPOINT_NIGHT] (or start from SCENE_09_FIRST_FRAME_9x16.png).
+Note: Amin is NOT in this scene. All security officers have bare eyes (NO sunglasses). Zero direct eye contact with camera lens.
+
+SCENE & STARTING STATE:
+Night at a sharp curve on the Algerian national highway. Dark patrol SUVs with flashing blue-and-red roof beacons sit angled on the shoulder as the unit deploys rapidly.
+
+ACTION (0.0s – 10.0s):
+From 0.0s to 5.2s, the 35-year-old commanding officer in foreground-right briskly waves his team forward giving urgent orders while two officers set glowing reflective orange cones and plant the metal roadblock sign firmly in the center of the highway bend. From 5.3s to 10.0s, the officers lock into alert tactical readiness beside the cones and click on bright white LED flashlights aimed up the dark approaching lane as distant car headlights begin glinting around the curve.
+
+DIALOGUE FIREWALL:
+- Commanding Officer ONLY (foreground-right, 0.5s–5.2s — brisk, authoritative, commanding 35-year-old Algerian officer baritone; other officers silent):
+"ازْرْبُوا رْوَاحْكُمْ، سَرِيعاً سَرِيعاً.. حُطّ البَرَّاجْ هْنَا فِي الدُّورَة!"
+
+CAMERA:
+Dynamic stabilized 50mm medium-wide tracking motion settling into a taut low-angle readiness frame along the glowing cones.
+
+AUDIO:
+Boots running on asphalt, hollow thud of rubber traffic cones and metal roadblock stand hitting pavement, crisp click of tactical flashlights, idling diesel patrol SUVs, subtle radio crackle, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 10:
+Checkpoint fully armed with flashlights aimed up the bend; Scene 10 cuts directly into Amin's approaching car spotting those exact flashing lights through his windshield!
+
+NEGATIVE:
+No readable text or garbled letters on signs/vests, no Amin in frame, no camera eye contact, no firearms drawn, no cuts, no music, no subtitles, no watermark.

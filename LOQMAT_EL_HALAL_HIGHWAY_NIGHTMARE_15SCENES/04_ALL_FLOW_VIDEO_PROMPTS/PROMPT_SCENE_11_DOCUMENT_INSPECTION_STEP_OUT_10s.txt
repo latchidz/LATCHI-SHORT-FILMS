@@ -1,0 +1,30 @@
+SCENE 11 — CHECKPOINT DOCUMENT CHECK & ORDER TO STEP OUT
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens), one continuous unbroken shot, no cuts.
+
+REFERENCE & IDENTITY FIREWALL:
+Attach [Slot 1: CHAR_01C_AMIN_NIGHTMARE_JACKET], [Slot 2: CHAR_05_SECURITY_OFFICER], [Slot 3: LOC_05_HIGHWAY_CHECKPOINT_NIGHT] (or start from SCENE_11_FIRST_FRAME_9x16.png).
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Amin (26-year-old Algerian man, 178 cm) MUST retain 100% the exact unfiltered real facial bone structure, warm-olive skin with visible microscopic pores, short ~1cm neatly trimmed black beard ending cleanly at the jawline, clean high skin-fade haircut, and his exact signature rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms from his official reference. ONLY Amin wears glasses anywhere in the film — strictly NEVER transfer glasses to any other character.
+Security officer on screen-left has 100% bare eyes (NO glasses). Zero direct camera lens gaze.
+
+SCENE & STARTING STATE:
+Outside the rolled-down driver's window at the night highway checkpoint. Security officer stands on screen-left; sweating Amin sits in the driver's seat on screen-right holding out the vehicle papers.
+
+ACTION (0.0s – 10.0s):
+At 0.4s, the officer gives a crisp salute and asks for the car documents; Amin silently hands the grey document folder over with a visibly trembling right hand (1.8s–3.2s). From 3.2s to 4.8s, the officer pauses briefly glancing down at the papers and then looking sharply up at Amin's sweating, rigid face noticing his nervousness, before calmly asking Amin to step out of the vehicle (4.8s–6.4s). From 6.5s to 10.0s, silent, terrified Amin swallows hard, reaches for the interior door latch, and pushes the driver's door open starting to step out as the officer steps half a pace back.
+
+DIALOGUE FIREWALL (STRICT TURN LOCK):
+- Security Officer ONLY (screen-left, 0.4s–6.4s, with a brief natural 1-second inspection pause in the middle — calm, sharp, authoritative 35-year-old Algerian officer baritone):
+"السَّلَامُ عَلَيْكُمْ، وَثَائِقْ السَّيَّارَة مَنْ فَضْلَكْ.. مَعْلِيشْ تَهْبَطْ خَطْوَة؟"
+- Amin (screen-right, 0.0s–10.0s): 100% SILENT — mouth closed tightly, trembling hand and throat swallow.
+
+CAMERA:
+Tight, suspenseful 50mm two-shot across the open car window frame, widening subtly as the driver's door unlatches at 8.0s.
+
+AUDIO:
+Idling car engine, crisp paper rustle of registration booklet, metallic click of car door latch opening at 8.2s, highway night wind, ZERO background music.
+
+ENDING STATE & BRIDGE TO SCENE 12:
+Amin opens the door stepping out onto the asphalt; Scene 12 cuts to the rear/side of the car as officers inspect the back seat cavity.
+
+NEGATIVE:
+No identity drift, no eyewear transfer, no lip movement on Amin, no camera eye contact, no cuts, no music, no subtitles, no watermark.
