@@ -1,10 +1,11 @@
-SCENE 16 — JOLTING AWAKE FROM THE NIGHTMARE & ISTIGHFAR (100% MATCHED TO SCENE_16_FIRST_FRAME_1080x1920.png [Preserved Old Scene 14 Image])
-Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close medium shot, pre-dawn bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 16 — BARE-EYED AMIN JOLTING AWAKE FROM NIGHTMARE & ISTIGHFAR (100% MATCHED TO SCENE_16_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close-medium shot, dim pre-dawn bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — DO NOT ALTER AMIN & STRICTLY NO GLASSES:
+Preserve 100% the exact real bare-eyed face of 26-year-old Amin from the starting frame: natural 50MP skin pores, real uncovered almond dark-brown eyes (STRICTLY NO GLASSES OR SUNGLASSES), ~1cm neatly trimmed black beard, and clean high skin-fade haircut. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 8.0s):
-Starting directly from SCENE_16_FIRST_FRAME_1080x1920.png inside Amin's dim pre-dawn bedroom (match-cutting directly from the ICU hospital bed in Scene 15): drenched in beads of cold sweat in his damp dark-olive home t-shirt, Amin sits bolted upright clutching the dark navy-grey blanket to his chest, chest heaving raggedly for air as he looks around his familiar bedroom realizing the warehouse betrayal, the ICU hospital bed, and losing his mother were all a terrifying nightmare warning (0.0s–1.4s). From 1.5s to 6.4s, trembling between lingering dread and overwhelming gratitude, he speaks breathlessly praising Allah. From 6.5s to 8.0s, he releases the blanket and wipes his sweat-drenched face with both trembling hands exhaling a deep sigh of relief.
+Starting directly from SCENE_16_FIRST_FRAME_1080x1920.png inside Amin's dim pre-dawn bedroom (match-cutting directly from the ICU bed in Scene 15): drenched in beads of cold sweat in his damp dark-olive sleep t-shirt, bare-eyed Amin sits bolted upright clutching the dark navy-grey wool blanket tightly to his chest, chest heaving raggedly for air as his bare eyes dart around his familiar bedroom realizing the warehouse betrayal, the ICU hospital bed, and losing his mother were all a terrifying warning nightmare (0.0s–1.4s). From 1.5s to 6.4s, trembling between lingering dread and overwhelming gratitude, he speaks breathlessly praising Allah. From 6.5s to 8.0s, he lowers the blanket slightly and wipes his sweat-drenched bare face with both trembling hands exhaling a deep sigh of relief.
 
 DIALOGUE FIREWALL:
 - Amin ONLY (1.5s–6.4s — breathless, trembling, deeply relieved 26-year-old Algerian chest baritone):
@@ -14,4 +15,4 @@ CAMERA & AUDIO:
 Intimate 50mm close-medium shot settling steadily as his breathing calms. Bedsheet rustle, ragged gasping breaths softening into a relieved sigh, hands wiping sweaty skin, pre-dawn quiet, ZERO background music.
 
 NEGATIVE:
-No hospital tubes in bedroom, no identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses, no hospital tubes in bedroom, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.

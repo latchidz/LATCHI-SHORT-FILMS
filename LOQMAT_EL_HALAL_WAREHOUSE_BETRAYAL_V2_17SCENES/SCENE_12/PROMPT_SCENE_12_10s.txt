@@ -1,20 +1,21 @@
-SCENE 12 — EMERGENCY AMBULANCE ARRIVAL & RUSHING CRITICAL AMIN TO HOSPITAL (100% MATCHED TO SCENE_12_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action emergency drama (50mm prime lens, night flashing red-amber ambulance beacons), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 12 — OUTDOOR NIGHT AMBULANCE ARRIVAL & RUSHING BARE-EYED CRITICAL AMIN TO HOSPITAL (100% MATCHED TO SCENE_12_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action night emergency drama (50mm prime lens, outdoor night gravel road with flashing red-amber ambulance beacons), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY & LEGAL UNIFORM LOCK:
-Preserve 100% unconscious 26-year-old Amin lying supine on the wheeled ambulance stretcher (exact face, ~1cm trimmed black beard, high skin-fade haircut, clear medical oxygen mask over nose and mouth, matte-black zip hoodie over dark-olive tee under crisp white sheet, and his exact rimless emerald-gold sunglasses on his face with eyes closed). ONLY Amin wears glasses.
-The 36-year-old Algerian emergency medic/nurse pushing the stretcher on screen-left (plain solid teal-blue scrubs under unbranded dark-navy responder vest) has 100% bare eyes with NO glasses, and BOTH uniform and white-and-red ambulance carry STRICTLY ZERO official state emblems, crests, or logos. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY & LEGAL UNIFORM LOCK:
+- ZERO glasses or sunglasses on anyone.
+- Unconscious 26-year-old Amin on the wheeled stretcher has 100% bare closed eyes (NO glasses), ~1cm trimmed black beard, high skin-fade haircut, clean medical transparent oxygen mask over nose and mouth, matte-black hoodie over dark-olive tee under crisp white sheet.
+- Exact 36-year-old Algerian emergency medic/nurse Hakim on screen-left (short tapered hair, trimmed beard, bare eyes, plain solid teal-blue scrubs under plain unbranded dark-navy vest). Both uniform and white-and-red ambulance carry STRICTLY ZERO official state emblems, crests, or logos. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png beside the open rear doors of the plain white emergency ambulance with pulsing red-and-amber roof beacons: from 0.8s to 5.4s, the focused 36-year-old Algerian emergency nurse/medic on screen-left calls out urgently ordering immediate operating-room and ICU preparation while pushing the stainless wheeled stretcher forward toward the open rear ambulance cabin. From 5.5s to 10.0s, he guides the head of the stretcher smoothly up into the lit ambulance rear bay as unconscious Amin breathes faintly into the fogging clear oxygen mask without waking.
+Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png outdoors at night beside the wide-open rear doors of the plain white-and-red emergency ambulance with pulsing roof beacons: from 0.8s to 5.4s, urgent medic Hakim on screen-left calls out ordering immediate operating-room and ICU preparation while pushing the stainless wheeled stretcher forward toward the open rear ambulance cabin. From 5.5s to 10.0s, he guides the stretcher smoothly up into the lit ambulance bay as unconscious bare-eyed Amin breathes faintly into the clear oxygen mask without waking.
 
 DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
-- Emergency Medic/Nurse ONLY (screen-left, 0.8s–5.4s — urgent, authoritative, compassionate 36-year-old Algerian male baritone):
+- Emergency Medic Hakim ONLY (screen-left, 0.8s–5.4s — urgent, authoritative, compassionate 36-year-old Algerian male baritone):
 "ازْرْبُوا! الحَالَة تَاعُو حَرِجَة بَزَّافْ.. جَهّْزُوا قَاعَة العَمَلِيَّاتْ وْالإِنْعَاشْ فَوْراً!"
 - Amin (on stretcher, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT.
 
 CAMERA & AUDIO:
-Urgent stabilized 50mm tracking shot following the stretcher toward the open ambulance doors. Rattling metal stretcher wheels on concrete, oxygen hiss, idling diesel ambulance engine, brief emergency siren chirp, ZERO background music.
+Urgent stabilized 50mm tracking shot following the stretcher toward the open ambulance rear bay. Rattling stretcher wheels on gravel, oxygen hiss, idling diesel ambulance engine, brief siren chirp, ZERO background music.
 
 NEGATIVE:
-No official state/ministry emblems or patches, no eyewear on medic, no Amin waking up, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses, no official state/ministry emblems or patches, no Amin waking up, no camera lens gaze, no cuts, no music, no subtitles, no watermark.

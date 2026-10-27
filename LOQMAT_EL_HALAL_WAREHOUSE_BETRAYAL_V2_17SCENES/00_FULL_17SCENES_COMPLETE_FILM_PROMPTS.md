@@ -1,8 +1,7 @@
-# 🎬 الدليل الكامل لبرومبتات التحريك (17 مشهداً متكاملاً) — «لقمة الحلال» (نسخة فخ المستودع وكابوس المستشفى)
+# 🎬 الدليل الكامل المحدّث لبرومبتات التحريك (17 مشهداً متكاملاً) — «لقمة الحلال» (نسخة فخ المستودع وكابوس المستشفى — أمين بدون نظارة في جميع المشاهد الليلية والمستشفى والنوم)
 
-- **المشاهد `01`–`06`:** بداية القصة، الورشة، الأم، وإغراء رمزي ومكالمة الموافقة.
-- **المشاهد `07`–`15` (الجديدة بالكامل):** فخ المستودع، المواجهة مع كمال وطارق، الغدر وسقوط أمين، قلق الأم واتصالاتها، رنين `يمّا` بجانب أمين الفاقد للوعي، وصول الإسعاف، الممرض حكيم يخبر الأم من العناية المركزة، انهيار الأم مغشياً عليها وحدها في البيت، وإفاقة أمين الخافتة هامساً `يمّا... سمحيلي يا يمّا`.
-- **المشهدان `16`–`17`:** الشهقة والاستيقاظ من الكابوس بالاستغفار، ومكالمة الفجر الحاسمة لرفض الحرام مع أذان الفجر.
+- **المشاهد النهارية وعودة العمل (`01`–`05`):** أمين بمرجعه النهاري الرسمي (النظارة الزمردية الذهبية بدون إطار).
+- **المشاهد الليلية + السرير + المستودع + الإسعاف + المستشفى + الفجر (`06`–`17`):** أمين بمرجعه الليلي الرسمي **بدون نظارات نهائياً** وبنفس ملامحه الحقيقية 100% (`CHAR_01B_AMIN_NIGHT_NO_GLASSES_9x16_LOCK.png`).
 
 ---
 
@@ -141,24 +140,24 @@ No simultaneous speech, no young voice on elderly mother, no eyewear transfer, n
 ## `PROMPT_SCENE_06_8s.txt`
 
 ```text
-SCENE 06 — THE COSTLY LATE-NIGHT PHONE CALL (100% MATCHED TO SCENE_06_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social thriller (50mm lens, dim nocturnal bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 06 — NIGHT BEDROOM CALL ACCEPTING RAMZI'S OFFER (100% MATCHED TO BARE-EYED SCENE_06_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social drama (50mm prime lens, dim cool-warm night bedroom lighting), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
-Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — DO NOT ALTER AMIN & DO NOT ADD GLASSES:
+Preserve 100% the exact real bare-eyed face of 26-year-old Amin from the starting frame: natural 50MP skin pores, real uncovered almond dark-brown eyes (STRICTLY NO GLASSES OR SUNGLASSES), ~1cm neatly trimmed black beard, and clean high skin-fade haircut. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 8.0s):
-Starting directly from SCENE_06_FIRST_FRAME_1080x1920.png inside Amin's dark moonlit bedroom: Amin lies propped against the white pillow on his single wooden bed under the dark navy-grey blanket in his dark-olive home t-shirt, holding his black smartphone to his left ear with his left hand. From 1.2s to 6.2s, weighed down by financial pressure, he speaks heavily into the phone accepting Ramzi's offer. From 6.3s to 8.0s, he lowers the phone onto the blanket ending the call, swallowing hard as deep anxiety and dread settle over his face in the dark.
+Starting directly from SCENE_06_FIRST_FRAME_1080x1920.png inside Amin's dim night bedroom (wooden bedside table in lower-left foreground, shuttered window on right wall): sitting propped up in his single wooden bed under the dark navy-grey wool blanket in his plain dark-olive sleep t-shirt, bare-eyed Amin holds his black smartphone to his left ear with his left hand while his right hand rests tensely on the blanket. From 0.5s to 5.8s, torn by helplessness over his mother's medicine, he speaks quietly into the phone accepting Ramzi's night job with heavy reluctance. At 6.0s, he lowers the phone slowly, staring tensely into the dark room with a deep, troubled exhale (6.0s–8.0s).
 
-DIALOGUE FIREWALL:
-- Amin ONLY (1.2s–6.2s — tense, reluctant, heavy 26-year-old Algerian chest baritone):
-"أَلُو رَمْزِي؟ خْلَاصْ رَانِي خَمَّمْتْ مْلِيحْ وْقَابَلْ.. وَقْتَاشْ نْجِي؟"
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Amin ONLY (0.5s–5.8s — hushed, reluctant, heavy-hearted 26-year-old Algerian chest baritone):
+"أَلُو رَمْزِي.. رَانِي قَابَلْ نَخْدَمْ مْعَاكْ اللِّيلَة، قُولِّي وِينْ نْجِيكْ دُوكَا."
 
 CAMERA & AUDIO:
-Slow tense 50mm push-in toward Amin's anxious face on the bed. Blanket rustle, phone tap ending call, heavy anxious breath in dead-of-night room silence, ZERO background music.
+Slow intimate 50mm push-in toward Amin's conflicted bare-eyed face in the dark bedroom. Blanket rustle, hushed night room tone, heavy sigh at end, ZERO background music.
 
 NEGATIVE:
-No identity drift, no eyewear loss, no extra voices, no camera gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses, no identity drift, no direct camera eye-contact, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -166,14 +165,15 @@ No identity drift, no eyewear loss, no extra voices, no camera gaze, no cuts, no
 ## `PROMPT_SCENE_07_10s.txt`
 
 ```text
-SCENE 07 — RAMZI DIRECTS AMIN TO ISOLATED WAREHOUSE & STAYS AS LOOKOUT (100% MATCHED TO SCENE_07_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social thriller (50mm prime lens, moody nocturnal sodium streetlamp), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 07 — RAMZI DIRECTS BARE-EYED AMIN TO ISOLATED WAREHOUSE AT NIGHT (100% MATCHED TO SCENE_07_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social thriller (50mm prime lens, moody nocturnal sodium light), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
-Ramzi on screen-left (buzz-fade haircut with temple razor line, short goatee, black faux-leather bomber jacket open over maroon tee with thin silver chain) has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — ZERO GLASSES ON BOTH MEN:
+Preserve 100% the exact real bare-eyed face of 26-year-old Amin on screen-right (natural skin pores, real uncovered almond dark-brown eyes with STRICTLY NO GLASSES, ~1cm neatly trimmed black beard, clean high skin-fade haircut, unzipped matte-black hoodie over dark-olive t-shirt, dark charcoal jeans).
+Preserve 100% 28-year-old Ramzi on screen-left (buzz-fade haircut with temple razor line, short goatee, bare eyes with NO glasses, black leather bomber jacket open over maroon tee with thin silver chain). Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_07_FIRST_FRAME_1080x1920.png beside the parked silver-grey sedan in front of the isolated rusty corrugated-metal warehouse with warm amber light spilling through its half-open sliding door behind them: from 0.6s to 7.4s, sly 28-year-old Ramzi on screen-left points his extended left arm back toward the lit warehouse entrance while speaking persuasively to tense Amin on screen-right (matte-black zip hoodie open over dark-olive tee, dark charcoal jeans), claiming he will wait outside by the road as lookout. At 7.5s, Ramzi lowers his arm and taps the car roof urging haste; reluctant Amin gives a tight, uneasy nod (mouth closed) and turns walking away into the dark lane toward the lit warehouse entrance while Ramzi stays back beside the car with a cold, calculating stare (7.6s–10.0s).
+Starting directly from SCENE_07_FIRST_FRAME_1080x1920.png on the dark dirt lane beside the silver-grey sedan outside the rusty corrugated-metal warehouse with warm amber light spilling from its open doorway in the upper-left background: from 0.6s to 7.4s, sly Ramzi on screen-left extends his right arm pointing back-left toward the lit warehouse doorway while speaking urgently to bare-eyed Amin on screen-right, telling him to go inside and pick up the goods from his guys while Ramzi watches the road outside. At 7.5s, Ramzi lowers his arm urging haste; reluctant bare-eyed Amin gives a tight nod (mouth closed) and walks past Ramzi toward the lit open warehouse entrance while Ramzi stays back beside the car with a cold, calculating stare (7.6s–10.0s).
 
 DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
 - Ramzi ONLY (screen-left, 0.6s–7.4s — sly, urgent, manipulative 28-year-old Algerian streetwise tenor-baritone):
@@ -181,10 +181,10 @@ DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
 - Amin (screen-right, 0.0s–10.0s): 100% SILENT — his mouth stays completely closed throughout.
 
 CAMERA & AUDIO:
-Steady 50mm medium two-shot, subtly reframing slightly as Amin turns toward the distant lit warehouse door. Leather jacket rustle, faint night crickets and industrial wind, footsteps crunching on dry dirt road, ZERO background music.
+Steady 50mm medium-full two-shot subtly panning slightly left as Amin walks toward the lit warehouse doorway. Leather jacket rustle, faint night industrial wind, footsteps crunching on gravel dirt, ZERO background music.
 
 NEGATIVE:
-No eyewear on Ramzi, no lip movement on Amin, no identity drift, no direct camera eye-contact, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses on anyone, no lip movement on Amin, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -192,14 +192,15 @@ No eyewear on Ramzi, no lip movement on Amin, no identity drift, no direct camer
 ## `PROMPT_SCENE_08_10s.txt`
 
 ```text
-SCENE 08 — HEATED WAREHOUSE CONFRONTATION WITH KAMEL & TARIK (100% MATCHED TO SCENE_08_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, gritty warm overhead sodium-vapor warehouse lighting), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 08 — HEATED WAREHOUSE CONFRONTATION: BARE-EYED AMIN REFUSES KAMEL & TARIK (100% MATCHED TO SCENE_08_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, gritty warm overhead sodium warehouse lighting at night), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin on screen-right from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
-Both 32-year-old Kamel in center-left (buzzed hair, dark stubble, olive-drab field jacket over black tee, dark cargo pants) and 29-year-old Tarik on far-left (cropped curly black hair, goatee, charcoal quilted puffer vest over grey long-sleeve shirt) have 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — ZERO GLASSES IN ENTIRE SCENE:
+All three men have 100% bare uncovered eyes with NO glasses or sunglasses anywhere.
+Preserve 100% bare-eyed 26-year-old Amin on screen-right (exact real face, uncovered almond dark-brown eyes, ~1cm neatly trimmed black beard, high skin-fade haircut, unzipped matte-black hoodie over dark-olive tee), 32-year-old Kamel in center-left (buzzed hair, dark stubble, olive field jacket over black tee), and 29-year-old Tarik on far-left (cropped curly hair, trimmed beard, charcoal puffer vest over grey shirt). Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_08_FIRST_FRAME_1080x1920.png inside the dim concrete warehouse behind the stacked wooden pallets holding the half-open black duffel bag and taped brown cartons: from 0.4s to 4.6s, alarmed Amin on screen-right holds up his open right palm in firm refusal and steps half a pace back after seeing the suspicious open duffel bag, confronting Kamel sharply while Kamel and Tarik keep their mouths closed glaring at him. From 5.0s to 8.8s, Amin keeps his mouth closed as hostile Kamel in center-left takes a menacing step closer into Amin's space barking a threat, while stocky Tarik on far-left shifts forward closing off Amin's escape path (8.8s–10.0s).
+Starting directly from SCENE_08_FIRST_FRAME_1080x1920.png inside the dim concrete warehouse behind the stacked wooden pallets holding the half-open black duffel bag and taped brown box: from 0.4s to 4.6s, alarmed bare-eyed Amin on screen-right holds up his open right palm in firm refusal and steps half a pace back, confronting Kamel sharply while Kamel and Tarik glare silently. From 5.0s to 8.8s, Amin keeps his mouth closed as hostile Kamel in center-left steps aggressively into Amin's space barking a threat, while Tarik on far-left shifts forward blocking Amin's exit (8.8s–10.0s).
 
 DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
 - Amin ONLY (screen-right, 0.4s–4.6s — indignant, alarmed, firm 26-year-old Algerian chest baritone; Kamel & Tarik 100% silent):
@@ -209,10 +210,10 @@ DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
 "دْخَلْتْ بْرَجْلِيكْ يَا صَاحْبِي.. تْحَبّْ تَخْرُجْ دُوكَا وْتَبْيَعْنَا؟!"
 
 CAMERA & AUDIO:
-Tense stabilized 50mm medium three-shot pushing subtly closer as Kamel steps toward Amin. Heavy boots scraping dusty concrete, jacket rustle, tense echoing warehouse acoustics, ZERO background music.
+Tense stabilized 50mm medium three-shot pushing subtly closer as Kamel advances on Amin. Heavy boots scraping dusty concrete, jacket rustle, tense echoing warehouse acoustics, ZERO background music.
 
 NEGATIVE:
-No simultaneous overlapping speech, no eyewear on Kamel or Tarik, no weapons, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses on anyone, no simultaneous speech, no weapons, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -220,25 +221,25 @@ No simultaneous overlapping speech, no eyewear on Kamel or Tarik, no weapons, no
 ## `PROMPT_SCENE_09_10s.txt`
 
 ```text
-SCENE 09 — WAREHOUSE BETRAYAL AFTERMATH, UNCONSCIOUS AMIN & GANG FLEEING (100% MATCHED TO SCENE_09_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm low-angle medium-wide shot, gritty sodium warehouse lighting), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 09 — WAREHOUSE BETRAYAL AFTERMATH: BARE-EYED UNCONSCIOUS AMIN & GANG FLEEING OUT EXIT (100% MATCHED TO SCENE_09_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm low-angle shot, gritty sodium warehouse lighting at night), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin slumped unconscious in the lower foreground from the starting frame, ~1cm neatly trimmed black beard, high skin-fade haircut, matte-black zip hoodie over dark-olive tee, and his exact rimless emerald-gold gradient sunglasses still resting on his face with his eyes completely closed behind the lenses. ONLY Amin wears glasses. Kamel (olive field jacket) and Tarik (charcoal puffer vest) in the midground have 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — ZERO GLASSES ANYWHERE:
+Preserve 100% unconscious bare-eyed 26-year-old Amin lying motionless on his side in the lower foreground (exact real face with NO glasses, eyes completely closed, bruise above right eyebrow/temple, ~1cm neatly trimmed black beard, high skin-fade haircut, matte-black zip hoodie over dark-olive tee, black smartphone lying flat on concrete beside his limp left arm).
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_09_FIRST_FRAME_1080x1920.png moments after the treacherous shoving scuffle knocked Amin unconscious against the stacked wooden pallets: in the lower foreground, unconscious Amin's head and limp right hand settle completely motionless on the dusty cracked concrete floor right beside his fallen black smartphone. In midground-right, Kamel (clutching the stolen black duffel bag in his right hand) glares coldly down at motionless Amin while barking urgently to Tarik beside him (1.2s–4.8s). At 4.9s, both Kamel and Tarik spin around and hurry swiftly out through the half-open sliding metal warehouse doorway into the dark night (5.0s–9.0s), leaving unconscious Amin completely alone on the silent concrete floor (9.0s–10.0s).
+Starting directly from SCENE_09_FIRST_FRAME_1080x1920.png right after the treacherous assault knocked Amin unconscious onto the dusty concrete floor: in the lower foreground, bare-eyed Amin lies 100% motionless and unconscious beside his fallen black smartphone. In the midground heading away toward the open sliding warehouse night exit on the right, Kamel (seen from behind in his olive field jacket carrying the stolen black duffel bag in his right hand) barks urgently over his shoulder to Tarik (seen from behind in his charcoal puffer vest) from 0.8s to 4.2s as both men break into a fast run, fleeing straight out through the open night doorway into the darkness (4.3s–8.5s) and leaving unconscious Amin completely alone on the silent warehouse floor (8.5s–10.0s).
 
 DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
-- Kamel ONLY (midground, 1.2s–4.8s — urgent, ruthless, hushed 32-year-old Algerian gravelly baritone):
-"خَلِّيهْ طَايَحْ! هَزّْ السَّاكْ وْاهْرَبْ قْبَلْ مَا يْفِيقُوا بِينَا!"
-- Amin (foreground, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT — eyes closed, completely motionless.
-- Tarik (midground-right, 0.0s–10.0s): 100% SILENT.
+- Kamel ONLY (retreating in midground, 0.8s–4.2s — urgent, ruthless 32-year-old Algerian gravelly baritone):
+"خَلِّيهْ طَايَحْ! أَزْرَبْ اهْرَبْ قْبَلْ مَا يْفِيقُوا بِينَا!"
+- Amin (foreground, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT — completely motionless.
 
 CAMERA & AUDIO:
-Low-angle locked 50mm composition holding steady on unconscious Amin and his fallen smartphone in the foreground while the two men flee out the back exit. Heavy hurried footsteps echoing out into the night, duffel bag rustle, eerie warehouse hum, ZERO background music.
+Low-angle locked 50mm shot holding steady on unconscious bare-eyed Amin and his fallen smartphone in the foreground while the two men vanish out the dark exit. Running footsteps fading into the night, duffel bag rustle, eerie warehouse hum, ZERO background music.
 
 NEGATIVE:
-No Amin waking or moving, no blood/gore, no eyewear on Kamel or Tarik, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses, no thugs turning back toward camera, no Amin waking or moving, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -271,13 +272,14 @@ No young female voice, no glasses on mother, no room mirroring, no camera lens g
 ## `PROMPT_SCENE_11_8s.txt`
 
 ```text
-SCENE 11 — UNANSWERED PHONE RINGING "يمّا" BESIDE UNCONSCIOUS AMIN ON WAREHOUSE FLOOR (100% MATCHED TO SCENE_11_FIRST_FRAME_1080x1920.png)
+SCENE 11 — UNANSWERED PHONE RINGING "يمّا" BESIDE BARE-EYED UNCONSCIOUS AMIN (100% MATCHED TO SCENE_11_FIRST_FRAME_1080x1920.png)
 Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action dramatic insert shot (50mm floor-level close-medium lens, shallow depth of field), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact unconscious face of 26-year-old Amin lying motionless on his side in the shallow-focus midground, ~1cm neatly trimmed black beard, high skin-fade haircut, matte-black zip hoodie over dark-olive tee, and his exact rimless emerald-gold sunglasses on his face with eyes completely closed. Zero movement, zero speech.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — ZERO GLASSES:
+Preserve 100% unconscious bare-eyed 26-year-old Amin lying motionless on his side in the soft-focus midground (exact real face with STRICTLY NO GLASSES, eyes completely closed, ~1cm neatly trimmed black beard, matte-black zip hoodie over dark-olive tee). Zero movement, zero speech.
 
 STARTING FRAME & ACTION (0.0s – 8.0s):
-Starting directly from SCENE_11_FIRST_FRAME_1080x1920.png at floor level inside the silent dark warehouse: in sharp lower-left foreground on the cracked dusty concrete, Amin's black smartphone screen glows brightly displaying incoming call "يمّا" with red and green call icons, buzzing and vibrating rhythmically in place against the grit (0.0s–8.0s). Inches behind it on screen-right, unconscious Amin's open limp left hand and motionless head remain 100% unresponsive on the cold concrete floor. From 5.8s to 8.0s, faint pulsing red-and-amber emergency light reflections begin sweeping subtly across the dark dusty concrete and background warehouse pillars as help arrives outside.
+Starting directly from SCENE_11_FIRST_FRAME_1080x1920.png at floor level inside the silent dark warehouse: in sharp lower-left foreground on the cracked dusty concrete, Amin's black smartphone screen glows brightly displaying incoming call "يمّا" with red and green call buttons, buzzing and vibrating rhythmically in place against the grit (0.0s–8.0s). Inches behind it on screen-right, unconscious bare-eyed Amin's open limp left hand and motionless face remain 100% unresponsive on the cold concrete floor. From 5.8s to 8.0s, faint pulsing red-and-amber emergency light reflections begin sweeping subtly across the dark concrete as an ambulance arrives outside.
 
 DIALOGUE & SOUND DESIGN LOCK:
 - STRICTLY ZERO SPOKEN DIALOGUE (0.0s–8.0s).
@@ -287,7 +289,7 @@ CAMERA:
 Locked floor-level 50mm macro-medium shot with micro push-in toward the glowing "يمّا" screen and Amin's motionless hand.
 
 NEGATIVE:
-No finger or face movement on unconscious Amin, no spoken words, no garbled screen text changes, no cuts, no music, no watermark.
+No glasses or sunglasses, no finger or face movement on unconscious Amin, no spoken words, no screen text distortion, no cuts, no music, no watermark.
 ```
 
 ---
@@ -295,26 +297,27 @@ No finger or face movement on unconscious Amin, no spoken words, no garbled scre
 ## `PROMPT_SCENE_12_10s.txt`
 
 ```text
-SCENE 12 — EMERGENCY AMBULANCE ARRIVAL & RUSHING CRITICAL AMIN TO HOSPITAL (100% MATCHED TO SCENE_12_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action emergency drama (50mm prime lens, night flashing red-amber ambulance beacons), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 12 — OUTDOOR NIGHT AMBULANCE ARRIVAL & RUSHING BARE-EYED CRITICAL AMIN TO HOSPITAL (100% MATCHED TO SCENE_12_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action night emergency drama (50mm prime lens, outdoor night gravel road with flashing red-amber ambulance beacons), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY & LEGAL UNIFORM LOCK:
-Preserve 100% unconscious 26-year-old Amin lying supine on the wheeled ambulance stretcher (exact face, ~1cm trimmed black beard, high skin-fade haircut, clear medical oxygen mask over nose and mouth, matte-black zip hoodie over dark-olive tee under crisp white sheet, and his exact rimless emerald-gold sunglasses on his face with eyes closed). ONLY Amin wears glasses.
-The 36-year-old Algerian emergency medic/nurse pushing the stretcher on screen-left (plain solid teal-blue scrubs under unbranded dark-navy responder vest) has 100% bare eyes with NO glasses, and BOTH uniform and white-and-red ambulance carry STRICTLY ZERO official state emblems, crests, or logos. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY & LEGAL UNIFORM LOCK:
+- ZERO glasses or sunglasses on anyone.
+- Unconscious 26-year-old Amin on the wheeled stretcher has 100% bare closed eyes (NO glasses), ~1cm trimmed black beard, high skin-fade haircut, clean medical transparent oxygen mask over nose and mouth, matte-black hoodie over dark-olive tee under crisp white sheet.
+- Exact 36-year-old Algerian emergency medic/nurse Hakim on screen-left (short tapered hair, trimmed beard, bare eyes, plain solid teal-blue scrubs under plain unbranded dark-navy vest). Both uniform and white-and-red ambulance carry STRICTLY ZERO official state emblems, crests, or logos. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png beside the open rear doors of the plain white emergency ambulance with pulsing red-and-amber roof beacons: from 0.8s to 5.4s, the focused 36-year-old Algerian emergency nurse/medic on screen-left calls out urgently ordering immediate operating-room and ICU preparation while pushing the stainless wheeled stretcher forward toward the open rear ambulance cabin. From 5.5s to 10.0s, he guides the head of the stretcher smoothly up into the lit ambulance rear bay as unconscious Amin breathes faintly into the fogging clear oxygen mask without waking.
+Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png outdoors at night beside the wide-open rear doors of the plain white-and-red emergency ambulance with pulsing roof beacons: from 0.8s to 5.4s, urgent medic Hakim on screen-left calls out ordering immediate operating-room and ICU preparation while pushing the stainless wheeled stretcher forward toward the open rear ambulance cabin. From 5.5s to 10.0s, he guides the stretcher smoothly up into the lit ambulance bay as unconscious bare-eyed Amin breathes faintly into the clear oxygen mask without waking.
 
 DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
-- Emergency Medic/Nurse ONLY (screen-left, 0.8s–5.4s — urgent, authoritative, compassionate 36-year-old Algerian male baritone):
+- Emergency Medic Hakim ONLY (screen-left, 0.8s–5.4s — urgent, authoritative, compassionate 36-year-old Algerian male baritone):
 "ازْرْبُوا! الحَالَة تَاعُو حَرِجَة بَزَّافْ.. جَهّْزُوا قَاعَة العَمَلِيَّاتْ وْالإِنْعَاشْ فَوْراً!"
 - Amin (on stretcher, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT.
 
 CAMERA & AUDIO:
-Urgent stabilized 50mm tracking shot following the stretcher toward the open ambulance doors. Rattling metal stretcher wheels on concrete, oxygen hiss, idling diesel ambulance engine, brief emergency siren chirp, ZERO background music.
+Urgent stabilized 50mm tracking shot following the stretcher toward the open ambulance rear bay. Rattling stretcher wheels on gravel, oxygen hiss, idling diesel ambulance engine, brief siren chirp, ZERO background music.
 
 NEGATIVE:
-No official state/ministry emblems or patches, no eyewear on medic, no Amin waking up, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses, no official state/ministry emblems or patches, no Amin waking up, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -322,15 +325,15 @@ No official state/ministry emblems or patches, no eyewear on medic, no Amin waki
 ## `PROMPT_SCENE_13_10s.txt`
 
 ```text
-SCENE 13 — INSIDE HOSPITAL ICU: NURSE HAKIM ANSWERS MOTHER'S CALL ON AMIN'S PHONE (100% MATCHED TO SCENE_13_FIRST_FRAME_1080x1920.png)
+SCENE 13 — INSIDE NIGHT ICU: NURSE HAKIM ANSWERS MOTHER'S CALL WHILE BARE-EYED AMIN LIES IN ICU BED (100% MATCHED TO SCENE_13_FIRST_FRAME_1080x1920.png)
 Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action hospital drama (50mm prime lens, moody cool night ICU clinical lighting), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION:
-In foreground-left stands the exact 36-year-old Algerian ICU nurse Hakim from the starting frame (short tapered dark hair, trimmed short beard, 100% bare eyes with NO glasses, plain solid teal-blue V-neck hospital scrubs with ZERO logos or patches, black stethoscope around neck).
-In soft-focus background-right on the ICU hospital bed lies unconscious 26-year-old Amin (pale-blue hospital gown under white sheet, nasal oxygen cannula, IV line, and his exact rimless emerald-gold sunglasses on his face, motionless with eyes closed). ONLY Amin wears glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — ZERO GLASSES IN ENTIRE SCENE:
+- Foreground-left: Exact 36-year-old Algerian ICU nurse Hakim (short tapered dark hair, trimmed beard, bare eyes with NO glasses, plain solid teal-blue V-neck hospital scrubs with ZERO logos, black stethoscope around neck).
+- Soft-focus background-right on the ICU hospital bed: Unconscious bare-eyed 26-year-old Amin (100% BARE FACE WITH NO GLASSES, eyes closed, pale-blue hospital gown under white sheet, thin nasal oxygen cannula) beneath the glowing green ECG monitor and IV drip stand. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_13_FIRST_FRAME_1080x1920.png inside the quiet night Intensive Care Unit room: holding Amin's black smartphone to his right ear with his right hand, compassionate Nurse Hakim glances briefly back over his left shoulder toward unconscious Amin on the ICU bed under the glowing green ECG monitor (0.0s–1.3s), then looks gravely downward off-camera and speaks gently and respectfully into the phone informing Amin's elderly mother of her son's critical hospitalization (1.4s–8.8s). From 8.9s to 10.0s, Nurse Hakim pauses with deep sorrowful empathy listening to the mother's shocked gasp through the phone line.
+Starting directly from SCENE_13_FIRST_FRAME_1080x1920.png inside the quiet night Intensive Care Unit room: holding Amin's black smartphone to his right ear with his right hand, compassionate Nurse Hakim glances briefly back over his left shoulder toward unconscious bare-eyed Amin on the ICU bed (0.0s–1.3s), then looks gravely downward off-camera right and speaks gently and respectfully into the phone informing Amin's elderly mother of her son's critical hospitalization (1.4s–8.8s). From 8.9s to 10.0s, Nurse Hakim listens in sorrowful empathy to the mother's shocked gasp through the earpiece.
 
 DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
 - Nurse Hakim ONLY (foreground-left, 1.4s–8.8s — calm, grave, deeply compassionate 36-year-old Algerian male baritone):
@@ -338,10 +341,10 @@ DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
 - Amin (background ICU bed, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT.
 
 CAMERA & AUDIO:
-Slow, somber 50mm push-in on Nurse Hakim's empathetic face with unconscious Amin framed in the depth-of-field behind him. Steady rhythmic ICU heart-monitor beeps ("beep... beep..."), quiet hospital air-conditioning hum, ZERO background music.
+Slow, somber 50mm push-in on Nurse Hakim's empathetic face with unconscious bare-eyed Amin framed in shallow depth-of-field behind him. Steady rhythmic ICU heart-monitor beeps ("beep... beep..."), quiet hospital air hum, ZERO background music.
 
 NEGATIVE:
-No logos on scrubs, no glasses on nurse, no movement from unconscious Amin in background, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses on anyone, no logos on scrubs, no movement from unconscious Amin, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -375,23 +378,24 @@ No cartoony or violent fall, no glasses on mother, no extra people entering, no 
 ## `PROMPT_SCENE_15_10s.txt`
 
 ```text
-SCENE 15 — ICU CLIMAX: AMIN BARELY REGAINS CONSCIOUSNESS & WHISPERS REMORSEFULLY FOR HIS MOTHER (100% MATCHED TO SCENE_15_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action emotional climax (50mm intimate close-up, dim cool night ICU lighting), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 15 — ICU CLIMAX: BARE-EYED BRUISED AMIN BARELY WAKES & WHISPERS "يمّا" IN REMORSE (100% MATCHED TO SCENE_15_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action emotional hospital climax (50mm intimate close-up, dim cool night ICU lighting), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame lying propped against the white ICU pillow in a pale-blue hospital gown under a white sheet: natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, clear medical nasal oxygen cannula across his cheeks, realistic purplish-red bruise on his left cheekbone and temple, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses on his face. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — DO NOT ALTER AMIN & STRICTLY NO GLASSES:
+Preserve 100% the exact real bare-eyed face of 26-year-old Amin from the starting frame propped against the white ICU pillow in a pale-blue hospital gown under a white sheet: natural 50MP skin pores, real uncovered almond dark-brown eyes glistening with tears (STRICTLY NO GLASSES OR SUNGLASSES), ~1cm neatly trimmed black beard, clean high skin-fade haircut, purplish-red bruise on his left cheekbone, and clear medical nasal oxygen cannula across his cheeks. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_15_FIRST_FRAME_1080x1920.png inside the dim night ICU room with the glowing green ECG monitor and IV drip softly blurred behind him: from 0.0s to 3.0s, fighting heavy sedation and pain, Amin's eyelids flutter open weakly behind his emerald-gold lenses as a fresh tear rolls slowly down his bruised left cheek. From 3.2s to 8.6s—unaware that his mother just collapsed unconscious alone at home—his dry, trembling lips barely part in a hoarse, broken whisper begging his mother's forgiveness for letting greed destroy him. From 8.7s to 10.0s, overwhelmed by unbearable chest tightness and panic, Amin draws a sudden sharp ragged gasp as the ICU heart monitor accelerates rapidly—cutting directly on the match-cut into his nightmare awakening in Scene 16!
+Starting directly from SCENE_15_FIRST_FRAME_1080x1920.png inside the dim night ICU room with the glowing green ECG monitor and IV drip blurred behind him: from 0.0s to 3.0s, fighting heavy sedation and pain, Amin's bare heavy-lidded brown eyes blink weakly open as a tear rolls slowly down his bruised left cheek. From 3.2s to 8.6s—unaware that his mother just collapsed unconscious alone at home—his dry, trembling lips barely part in a hoarse, broken whisper begging his mother's forgiveness for letting greed destroy him. From 8.7s to 10.0s, seized by sudden chest panic, Amin draws a sharp ragged gasp as the ICU heart monitor accelerates rapidly—cutting directly on the match-cut into his bedroom awakening in Scene 16!
 
 DIALOGUE FIREWALL:
 - Amin ONLY (3.2s–8.6s — weak, hoarse, trembling, tearful 26-year-old Algerian chest-baritone whisper):
 "يَـمَّـا... سَمْحِيلِي يَا يَمَّا... الطّْمَعْ ضَيَّعْنِي... يَـمَّـا..."
 
 CAMERA & AUDIO:
-Slow, devastatingly intimate 50mm push-in onto Amin's tear-streaked face on the hospital pillow. Slow steady ICU heart-monitor electronic beeps (0.0s–8.5s) accelerating sharply into rapid alarm beeps at 8.7s–10.0s, faint nasal oxygen hiss, ragged breath, ZERO background music.
+Slow, devastatingly intimate 50mm push-in onto Amin's bare-eyed tear-streaked face on the hospital pillow. Slow steady ICU heart-monitor electronic beeps (0.0s–8.5s) accelerating sharply into rapid alarm beeps at 8.7s–10.0s, faint nasal oxygen hiss, ragged breath, ZERO background music.
 
 NEGATIVE:
-No Amin sitting up in ICU, no eyewear loss, no identity drift, no direct camera eye-contact, no cuts inside clip, no music, no subtitles, no watermark.
+No glasses or sunglasses, no Amin sitting up in ICU, no identity drift, no direct camera eye-contact, no cuts inside clip, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -399,13 +403,14 @@ No Amin sitting up in ICU, no eyewear loss, no identity drift, no direct camera 
 ## `PROMPT_SCENE_16_8s.txt`
 
 ```text
-SCENE 16 — JOLTING AWAKE FROM THE NIGHTMARE & ISTIGHFAR (100% MATCHED TO SCENE_16_FIRST_FRAME_1080x1920.png [Preserved Old Scene 14 Image])
-Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close medium shot, pre-dawn bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 16 — BARE-EYED AMIN JOLTING AWAKE FROM NIGHTMARE & ISTIGHFAR (100% MATCHED TO SCENE_16_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action drama (50mm close-medium shot, dim pre-dawn bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — DO NOT ALTER AMIN & STRICTLY NO GLASSES:
+Preserve 100% the exact real bare-eyed face of 26-year-old Amin from the starting frame: natural 50MP skin pores, real uncovered almond dark-brown eyes (STRICTLY NO GLASSES OR SUNGLASSES), ~1cm neatly trimmed black beard, and clean high skin-fade haircut. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 8.0s):
-Starting directly from SCENE_16_FIRST_FRAME_1080x1920.png inside Amin's dim pre-dawn bedroom (match-cutting directly from the ICU hospital bed in Scene 15): drenched in beads of cold sweat in his damp dark-olive home t-shirt, Amin sits bolted upright clutching the dark navy-grey blanket to his chest, chest heaving raggedly for air as he looks around his familiar bedroom realizing the warehouse betrayal, the ICU hospital bed, and losing his mother were all a terrifying nightmare warning (0.0s–1.4s). From 1.5s to 6.4s, trembling between lingering dread and overwhelming gratitude, he speaks breathlessly praising Allah. From 6.5s to 8.0s, he releases the blanket and wipes his sweat-drenched face with both trembling hands exhaling a deep sigh of relief.
+Starting directly from SCENE_16_FIRST_FRAME_1080x1920.png inside Amin's dim pre-dawn bedroom (match-cutting directly from the ICU bed in Scene 15): drenched in beads of cold sweat in his damp dark-olive sleep t-shirt, bare-eyed Amin sits bolted upright clutching the dark navy-grey wool blanket tightly to his chest, chest heaving raggedly for air as his bare eyes dart around his familiar bedroom realizing the warehouse betrayal, the ICU hospital bed, and losing his mother were all a terrifying warning nightmare (0.0s–1.4s). From 1.5s to 6.4s, trembling between lingering dread and overwhelming gratitude, he speaks breathlessly praising Allah. From 6.5s to 8.0s, he lowers the blanket slightly and wipes his sweat-drenched bare face with both trembling hands exhaling a deep sigh of relief.
 
 DIALOGUE FIREWALL:
 - Amin ONLY (1.5s–6.4s — breathless, trembling, deeply relieved 26-year-old Algerian chest baritone):
@@ -415,7 +420,7 @@ CAMERA & AUDIO:
 Intimate 50mm close-medium shot settling steadily as his breathing calms. Bedsheet rustle, ragged gasping breaths softening into a relieved sigh, hands wiping sweaty skin, pre-dawn quiet, ZERO background music.
 
 NEGATIVE:
-No hospital tubes in bedroom, no identity drift, no eyewear loss, no camera gaze, no cuts, no music, no subtitles, no watermark.
+No glasses or sunglasses, no hospital tubes in bedroom, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
 ```
 
 ---
@@ -423,23 +428,24 @@ No hospital tubes in bedroom, no identity drift, no eyewear loss, no camera gaze
 ## `PROMPT_SCENE_17_10s.txt`
 
 ```text
-SCENE 17 — FINAL DAWN CALL REJECTING HARAM & FAJR ADHAN FINALE (100% MATCHED TO SCENE_17_FIRST_FRAME_1080x1920.png [Preserved Old Scene 15 Image])
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action moral finale (50mm lens, serene golden-blue Fajr dawn sunlight), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 17 — FINAL FAJR DAWN CALL: BARE-EYED AMIN REJECTS HARAM FOREVER & FAJR ADHAN FINALE (100% MATCHED TO SCENE_17_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action moral finale (50mm lens, serene golden-blue Fajr dawn morning light), one continuous unbroken shot from the exact starting frame, no cuts.
 
-CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses. Zero direct camera lens gaze.
+CRITICAL BARE-EYED IDENTITY PRESERVATION — DO NOT ALTER AMIN & STRICTLY NO GLASSES:
+Preserve 100% the exact real bare-eyed face and profile of 26-year-old Amin from the starting frame: natural 50MP skin pores, real uncovered almond dark-brown eyes (STRICTLY NO GLASSES OR SUNGLASSES), ~1cm neatly trimmed black beard, and clean high skin-fade haircut. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_17_FIRST_FRAME_1080x1920.png beside the open wooden bedroom window on screen-right overlooking quiet Algerian rooftops and a distant mosque minaret in golden-blue Fajr dawn light: standing tall and composed in his dark-olive cotton home t-shirt, Amin holds his black smartphone to his left ear and speaks from 0.4s to 8.0s with calm, firm, unshakable dignity rejecting Ramzi's haram money forever to protect his honor and his mother. At 8.1s, Amin lowers the phone tapping the screen decisively to end the call, inhales the pure dawn breeze looking out toward the sunlit sky and distant minaret, and smiles a peaceful, dignified gentle smile of inner peace (8.2s–10.0s) as the Fajr Adhan echoes across the morning sky.
+Starting directly from SCENE_17_FIRST_FRAME_1080x1920.png standing on screen-left in his dark-olive cotton home t-shirt facing right beside the wide-open wooden bedroom window overlooking quiet Algerian rooftops and a distant mosque minaret under golden-blue Fajr dawn sky: holding his black smartphone to his right ear with his right hand, bare-eyed Amin speaks from 0.4s to 8.0s with calm, firm, unshakable dignity rejecting Ramzi's haram money forever to protect his honor and his mother. At 8.1s, Amin lowers the phone with his right hand tapping the screen decisively to end the call, inhales the pure dawn breeze looking out toward the sunlit sky and distant minaret, and smiles a peaceful, gentle, dignified smile of inner peace (8.2s–10.0s) as the Fajr Adhan echoes across the morning sky.
 
 DIALOGUE FIREWALL:
 - Amin ONLY (0.4s–8.0s — calm, firm, dignified, peaceful 26-year-old Algerian chest baritone):
 "أَلُو رَمْزِي.. أَخْطِينِي يَا خُويَا، القَرْشْ الحَرَامْ اللِّي يْضَيَّعْ شَرْفِي وْيْطَيَّحْ مِيمْتِي مَانِيشْ مَحْتَاجُو، رَبِّي يَهْدِيكْ وْيَهْدِينَا."
 
 CAMERA & AUDIO:
-Graceful slow 50mm push-in toward Amin's serene dawn-lit profile at the open window. Quiet morning breeze, phone end-call tap at 8.1s, followed from 7.8s to 10.0s by the serene, authentic distant echo of an Algerian mosque Fajr Adhan ("اللّهُ أَكْبَرْ... اللّهُ أَكْبَرْ") drifting gently across the rooftops — STRICTLY ZERO musical instruments or background score.
+Graceful slow 50mm push-in toward Amin's serene dawn-lit bare-eyed profile at the open window. Quiet morning breeze, phone end-call tap at 8.1s, followed from 7.8s to 10.0s by the serene, authentic distant echo of an Algerian mosque Fajr Adhan ("اللّهُ أَكْبَرْ... اللّهُ أَكْبَرْ") drifting gently across the rooftops — STRICTLY ZERO musical instruments or background score.
 
 NEGATIVE:
-No musical instruments, no background score, no exaggerated wide grin, no identity drift, no camera gaze, no cuts, no subtitles, no watermark.
+No glasses or sunglasses, no musical instruments, no background score, no exaggerated wide grin, no identity drift, no camera gaze, no cuts, no subtitles, no watermark.
 ```
 
 ---
