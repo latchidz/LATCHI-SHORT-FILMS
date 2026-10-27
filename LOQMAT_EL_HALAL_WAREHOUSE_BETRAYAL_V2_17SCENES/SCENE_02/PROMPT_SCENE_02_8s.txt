@@ -1,0 +1,20 @@
+SCENE 02 — SILENT PATIENCE & INTERNAL MONOLOGUE (100% MATCHED TO SCENE_02_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social drama (50mm close medium portrait), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_02_FIRST_FRAME_1080x1920.png: close chest-up portrait of exhausted Amin alone beside the blurred red tool chest. From 0.0s to 5.9s, Amin keeps his mouth 100% closed while finishing wiping the glistening sweat from his forehead with his grease-stained right wrist/hand, then lowers his hand looking down silently at his oil-smudged fingers. At 6.0s, he takes a deep tired breath expanding his chest, exhales slowly, and from 6.2s to 7.9s his lips move gently in a quiet, heartfelt whispered supplication looking slightly upward off-camera.
+
+DIALOGUE & INTERNAL VOICEOVER LOCK:
+- 0.3s–5.9s (INTERNAL THOUGHT VOICEOVER ONLY — Amin's lips stay 100% CLOSED on screen; intimate, resonant 26-year-old Algerian male chest baritone):
+"صَابَرْ عْلَى الحَقْرَة غِيرْ عْلَى جَالْ لُقْمَة الحَلَالْ.. كُونْ نَخْرُجْ كِيفَاشْ نْعَيَّشْ مِيمْتِي؟"
+- 6.2s–7.9s (AUDIBLE WHISPER ON SCREEN — Amin's lips move softly and naturally):
+"يَا رَبِّي فَرَّجْهَا مَنْ عَنْدَكْ."
+
+CAMERA & AUDIO:
+Intimate micro push-in 50mm close-up. Rough skin wiping sweat, deep authentic sigh, quiet workshop room tone, ZERO background music.
+
+NEGATIVE:
+No lip movement during 0.0s–5.9s internal monologue, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.

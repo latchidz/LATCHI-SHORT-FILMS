@@ -1,0 +1,19 @@
+SCENE 09 — WAREHOUSE BETRAYAL AFTERMATH, UNCONSCIOUS AMIN & GANG FLEEING (100% MATCHED TO SCENE_09_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm low-angle medium-wide shot, gritty sodium warehouse lighting), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin slumped unconscious in the lower foreground from the starting frame, ~1cm neatly trimmed black beard, high skin-fade haircut, matte-black zip hoodie over dark-olive tee, and his exact rimless emerald-gold gradient sunglasses still resting on his face with his eyes completely closed behind the lenses. ONLY Amin wears glasses. Kamel (olive field jacket) and Tarik (charcoal puffer vest) in the midground have 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_09_FIRST_FRAME_1080x1920.png moments after the treacherous shoving scuffle knocked Amin unconscious against the stacked wooden pallets: in the lower foreground, unconscious Amin's head and limp right hand settle completely motionless on the dusty cracked concrete floor right beside his fallen black smartphone. In midground-right, Kamel (clutching the stolen black duffel bag in his right hand) glares coldly down at motionless Amin while barking urgently to Tarik beside him (1.2s–4.8s). At 4.9s, both Kamel and Tarik spin around and hurry swiftly out through the half-open sliding metal warehouse doorway into the dark night (5.0s–9.0s), leaving unconscious Amin completely alone on the silent concrete floor (9.0s–10.0s).
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Kamel ONLY (midground, 1.2s–4.8s — urgent, ruthless, hushed 32-year-old Algerian gravelly baritone):
+"خَلِّيهْ طَايَحْ! هَزّْ السَّاكْ وْاهْرَبْ قْبَلْ مَا يْفِيقُوا بِينَا!"
+- Amin (foreground, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT — eyes closed, completely motionless.
+- Tarik (midground-right, 0.0s–10.0s): 100% SILENT.
+
+CAMERA & AUDIO:
+Low-angle locked 50mm composition holding steady on unconscious Amin and his fallen smartphone in the foreground while the two men flee out the back exit. Heavy hurried footsteps echoing out into the night, duffel bag rustle, eerie warehouse hum, ZERO background music.
+
+NEGATIVE:
+No Amin waking or moving, no blood/gore, no eyewear on Kamel or Tarik, no camera lens gaze, no cuts, no music, no subtitles, no watermark.

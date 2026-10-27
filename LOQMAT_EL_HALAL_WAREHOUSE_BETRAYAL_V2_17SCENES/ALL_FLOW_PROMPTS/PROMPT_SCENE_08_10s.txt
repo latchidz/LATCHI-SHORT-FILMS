@@ -1,0 +1,21 @@
+SCENE 08 — HEATED WAREHOUSE CONFRONTATION WITH KAMEL & TARIK (100% MATCHED TO SCENE_08_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, gritty warm overhead sodium-vapor warehouse lighting), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin on screen-right from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Both 32-year-old Kamel in center-left (buzzed hair, dark stubble, olive-drab field jacket over black tee, dark cargo pants) and 29-year-old Tarik on far-left (cropped curly black hair, goatee, charcoal quilted puffer vest over grey long-sleeve shirt) have 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_08_FIRST_FRAME_1080x1920.png inside the dim concrete warehouse behind the stacked wooden pallets holding the half-open black duffel bag and taped brown cartons: from 0.4s to 4.6s, alarmed Amin on screen-right holds up his open right palm in firm refusal and steps half a pace back after seeing the suspicious open duffel bag, confronting Kamel sharply while Kamel and Tarik keep their mouths closed glaring at him. From 5.0s to 8.8s, Amin keeps his mouth closed as hostile Kamel in center-left takes a menacing step closer into Amin's space barking a threat, while stocky Tarik on far-left shifts forward closing off Amin's escape path (8.8s–10.0s).
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Amin ONLY (screen-right, 0.4s–4.6s — indignant, alarmed, firm 26-year-old Algerian chest baritone; Kamel & Tarik 100% silent):
+"وَاشْ هَاذْ المْصِيبَة؟! رَمْزِي مَا قَالّْشْ هَكْذَا.. مَانِيشْ هَازّْ حَتَّى حَاجَة!"
+- Brief tense pause (4.6s–5.0s).
+- Kamel ONLY (center-left, 5.0s–8.8s — harsh, menacing, gravelly 32-year-old Algerian thug baritone; Amin & Tarik 100% silent):
+"دْخَلْتْ بْرَجْلِيكْ يَا صَاحْبِي.. تْحَبّْ تَخْرُجْ دُوكَا وْتَبْيَعْنَا؟!"
+
+CAMERA & AUDIO:
+Tense stabilized 50mm medium three-shot pushing subtly closer as Kamel steps toward Amin. Heavy boots scraping dusty concrete, jacket rustle, tense echoing warehouse acoustics, ZERO background music.
+
+NEGATIVE:
+No simultaneous overlapping speech, no eyewear on Kamel or Tarik, no weapons, no camera lens gaze, no cuts, no music, no subtitles, no watermark.

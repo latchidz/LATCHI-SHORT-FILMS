@@ -1,0 +1,20 @@
+SCENE 05 — MOTHER'S PLEA AT BEDROOM DOOR & AMIN'S SACRIFICE (100% MATCHED TO SCENE_05_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action social drama (50mm lens), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+The 62-year-old mother standing in the warm amber hallway on screen-left has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_05_FIRST_FRAME_1080x1920.png at the open wooden bedroom door: from 0.3s to 4.1s, Amin's mother on screen-left pleads anxiously with her son to come eat something while Amin on screen-right (holding the brass door handle inside the dim bedroom) listens silently with a closed mouth. From 4.4s to 8.1s, Mother keeps her mouth closed as Amin places his left hand gently over his chest with a warm, selfless reassuring half-smile pretending he is full. From 8.2s to 10.0s, Amin gently pulls the wooden bedroom door closed between them, and the camera pushes slowly in on his mother's sad, worried eyes standing alone in the hallway.
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Mother ONLY (screen-left, 0.3s–4.1s — authentic 62-year-old elderly Algerian mother's warm, weathered mezzo-contralto voice, NEVER a young woman's voice; Amin silent):
+"بَصَّحْ أَرْوَاحْ تَاكُلْ حَاجَة يَا وْلِيدِي.. مَا تْدِيرْشْ هَكْذَا فِي رُوحَكْ!"
+- Amin ONLY (screen-right, 4.4s–8.1s — gentle, tired 26-year-old Algerian chest baritone; Mother silent):
+"لَالَا يَمَّا، شَبْعَانْ وْكْلِيتْ بَزَّافْ بَرَّا.. بْصَحَّتْكُمْ نْتُومَا."
+
+CAMERA & AUDIO:
+50mm doorway two-shot (0.0s–8.0s), then smooth push-in onto the mother's sorrowful eyes as the wooden door clicks shut at 8.8s. Wooden door creak, soft latch click, quiet hallway sigh, ZERO background music.
+
+NEGATIVE:
+No simultaneous speech, no young voice on elderly mother, no eyewear transfer, no camera gaze, no cuts, no music, no subtitles, no watermark.

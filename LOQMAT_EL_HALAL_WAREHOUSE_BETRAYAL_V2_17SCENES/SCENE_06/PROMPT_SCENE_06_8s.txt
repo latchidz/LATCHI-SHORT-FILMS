@@ -1,0 +1,18 @@
+SCENE 06 — THE COSTLY LATE-NIGHT PHONE CALL (100% MATCHED TO SCENE_06_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social thriller (50mm lens, dim nocturnal bedroom), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
+Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_06_FIRST_FRAME_1080x1920.png inside Amin's dark moonlit bedroom: Amin lies propped against the white pillow on his single wooden bed under the dark navy-grey blanket in his dark-olive home t-shirt, holding his black smartphone to his left ear with his left hand. From 1.2s to 6.2s, weighed down by financial pressure, he speaks heavily into the phone accepting Ramzi's offer. From 6.3s to 8.0s, he lowers the phone onto the blanket ending the call, swallowing hard as deep anxiety and dread settle over his face in the dark.
+
+DIALOGUE FIREWALL:
+- Amin ONLY (1.2s–6.2s — tense, reluctant, heavy 26-year-old Algerian chest baritone):
+"أَلُو رَمْزِي؟ خْلَاصْ رَانِي خَمَّمْتْ مْلِيحْ وْقَابَلْ.. وَقْتَاشْ نْجِي؟"
+
+CAMERA & AUDIO:
+Slow tense 50mm push-in toward Amin's anxious face on the bed. Blanket rustle, phone tap ending call, heavy anxious breath in dead-of-night room silence, ZERO background music.
+
+NEGATIVE:
+No identity drift, no eyewear loss, no extra voices, no camera gaze, no cuts, no music, no subtitles, no watermark.

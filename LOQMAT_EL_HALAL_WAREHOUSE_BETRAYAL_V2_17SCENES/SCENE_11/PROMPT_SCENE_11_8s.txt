@@ -1,0 +1,17 @@
+SCENE 11 — UNANSWERED PHONE RINGING "يمّا" BESIDE UNCONSCIOUS AMIN ON WAREHOUSE FLOOR (100% MATCHED TO SCENE_11_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action dramatic insert shot (50mm floor-level close-medium lens, shallow depth of field), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact unconscious face of 26-year-old Amin lying motionless on his side in the shallow-focus midground, ~1cm neatly trimmed black beard, high skin-fade haircut, matte-black zip hoodie over dark-olive tee, and his exact rimless emerald-gold sunglasses on his face with eyes completely closed. Zero movement, zero speech.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_11_FIRST_FRAME_1080x1920.png at floor level inside the silent dark warehouse: in sharp lower-left foreground on the cracked dusty concrete, Amin's black smartphone screen glows brightly displaying incoming call "يمّا" with red and green call icons, buzzing and vibrating rhythmically in place against the grit (0.0s–8.0s). Inches behind it on screen-right, unconscious Amin's open limp left hand and motionless head remain 100% unresponsive on the cold concrete floor. From 5.8s to 8.0s, faint pulsing red-and-amber emergency light reflections begin sweeping subtly across the dark dusty concrete and background warehouse pillars as help arrives outside.
+
+DIALOGUE & SOUND DESIGN LOCK:
+- STRICTLY ZERO SPOKEN DIALOGUE (0.0s–8.0s).
+- Authentic rhythmic smartphone buzz-vibration against concrete + classic Algerian mobile ringtone echoing hauntingly inside the empty warehouse (0.0s–8.0s), joined from 5.8s to 8.0s by the faint distant wail of an approaching emergency ambulance siren outside. ZERO background music.
+
+CAMERA:
+Locked floor-level 50mm macro-medium shot with micro push-in toward the glowing "يمّا" screen and Amin's motionless hand.
+
+NEGATIVE:
+No finger or face movement on unconscious Amin, no spoken words, no garbled screen text changes, no cuts, no music, no watermark.

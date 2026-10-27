@@ -1,0 +1,20 @@
+SCENE 13 — INSIDE HOSPITAL ICU: NURSE HAKIM ANSWERS MOTHER'S CALL ON AMIN'S PHONE (100% MATCHED TO SCENE_13_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action hospital drama (50mm prime lens, moody cool night ICU clinical lighting), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION:
+In foreground-left stands the exact 36-year-old Algerian ICU nurse Hakim from the starting frame (short tapered dark hair, trimmed short beard, 100% bare eyes with NO glasses, plain solid teal-blue V-neck hospital scrubs with ZERO logos or patches, black stethoscope around neck).
+In soft-focus background-right on the ICU hospital bed lies unconscious 26-year-old Amin (pale-blue hospital gown under white sheet, nasal oxygen cannula, IV line, and his exact rimless emerald-gold sunglasses on his face, motionless with eyes closed). ONLY Amin wears glasses. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 10.0s):
+Starting directly from SCENE_13_FIRST_FRAME_1080x1920.png inside the quiet night Intensive Care Unit room: holding Amin's black smartphone to his right ear with his right hand, compassionate Nurse Hakim glances briefly back over his left shoulder toward unconscious Amin on the ICU bed under the glowing green ECG monitor (0.0s–1.3s), then looks gravely downward off-camera and speaks gently and respectfully into the phone informing Amin's elderly mother of her son's critical hospitalization (1.4s–8.8s). From 8.9s to 10.0s, Nurse Hakim pauses with deep sorrowful empathy listening to the mother's shocked gasp through the phone line.
+
+DIALOGUE FIREWALL (STRICT SPEAKER TURN LOCK):
+- Nurse Hakim ONLY (foreground-left, 1.4s–8.8s — calm, grave, deeply compassionate 36-year-old Algerian male baritone):
+"السَّلَامُ عَلَيْكُمْ يَا الحَاجَّة.. هَاذَا تِيلِيفُونْ وْلِيدَكْ، رَاهْ عَنْدْنَا فِي السّْبِيطَارْ فِي حَالَة حَرِجَة.. تْقَدّْرِي تْجِي دُوكَا؟"
+- Amin (background ICU bed, 0.0s–10.0s): 100% UNCONSCIOUS & SILENT.
+
+CAMERA & AUDIO:
+Slow, somber 50mm push-in on Nurse Hakim's empathetic face with unconscious Amin framed in the depth-of-field behind him. Steady rhythmic ICU heart-monitor beeps ("beep... beep..."), quiet hospital air-conditioning hum, ZERO background music.
+
+NEGATIVE:
+No logos on scrubs, no glasses on nurse, no movement from unconscious Amin in background, no camera lens gaze, no cuts, no music, no subtitles, no watermark.
