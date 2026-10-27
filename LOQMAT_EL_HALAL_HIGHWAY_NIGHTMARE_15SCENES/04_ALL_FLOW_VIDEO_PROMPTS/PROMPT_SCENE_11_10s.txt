@@ -1,19 +1,19 @@
-SCENE 11 — ALGERIAN CUSTOMS DOCUMENT INSPECTION AT DRIVER WINDOW (100% MATCHED TO SCENE_11_FIRST_FRAME_1080x1920.png)
+SCENE 11 — CUSTOMS DOCUMENT INSPECTION AT DRIVER WINDOW (100% MATCHED TO MODIFIED SCENE_11_FIRST_FRAME_1080x1920.png)
 Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens), one continuous unbroken shot from the exact starting frame, no cuts.
 
 CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
-The 35-year-old Algerian Customs officer standing outside on screen-right (authentic charcoal slate-grey uniform, slate-grey cap, gold "الجمارك" sleeve patch, wide light-grey canvas web belt) has 100% bare eyes with NO glasses. Zero direct camera lens gaze.
+The 35-year-old Algerian Customs officer standing outside on screen-right wears his charcoal slate-grey cap, wide light-grey canvas web belt, and charcoal slate-grey collared uniform shirt with COMPLETELY PLAIN UNADORNED SLEEVES AND SHOULDERS (strictly ZERO shield emblem or patch on his arm/shoulder!), with 100% bare eyes (NO glasses). Plain silver/white 4x4 SUV in night bokeh behind has ZERO logos. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_11_FIRST_FRAME_1080x1920.png outside the rolled-down driver window of Amin's stopped silver-grey sedan: sweating Amin seated on screen-left hands the white folded vehicle documents with trembling fingers to the Algerian Customs officer standing on screen-right (0.4s–3.2s). From 3.2s to 4.7s, the officer glances down at the papers then looks sharply at Amin's pale, sweating face sensing his extreme tension, and calmly asks him to step out of the vehicle (4.8s–6.4s). From 6.5s to 10.0s, silent terrified Amin swallows hard, unlatches the driver's door from inside, and pushes the car door open beginning to step out as the officer steps half a pace back.
+Starting directly from SCENE_11_FIRST_FRAME_1080x1920.png outside the open driver window: sweating Amin seated on screen-left hands the white folded vehicle documents with trembling fingers to the plain-sleeved officer standing on screen-right (0.4s–3.2s). From 3.2s to 4.7s, the officer glances down at the papers then looks sharply up at Amin's sweating nervous face, calmly asking him to step out of the vehicle (4.8s–6.4s). From 6.5s to 10.0s, silent terrified Amin swallows hard, unlatches the driver's door handle from inside, and pushes the car door open starting to step out.
 
 DIALOGUE FIREWALL (STRICT TURN LOCK):
-- Algerian Customs Officer ONLY (screen-right, 0.4s–6.4s with a natural 1s inspection pause — calm, sharp, authoritative 35-year-old Algerian officer baritone):
+- Officer ONLY (screen-right, 0.4s–6.4s with a natural 1s inspection pause — calm, sharp, authoritative 35-year-old Algerian officer baritone):
 "السَّلَامُ عَلَيْكُمْ، وَثَائِقْ السَّيَّارَة مَنْ فَضْلَكْ.. مَعْلِيشْ تَهْبَطْ خَطْوَة؟"
 - Amin (screen-left, 0.0s–10.0s): 100% SILENT — mouth closed tightly, trembling hands.
 
 CAMERA & AUDIO:
-Tight 50mm checkpoint two-shot widening slightly as the car door opens at 8.0s. Idling engine, paper rustle of car documents, metallic click of door latch opening, highway night wind, ZERO background music.
+Tight 50mm checkpoint two-shot widening subtly as the car door opens at 8.0s. Idling engine, paper rustle of car documents, metallic click of door latch opening, highway night wind, ZERO background music.
 
 NEGATIVE:
-No eyewear on officer, no lip movement on Amin, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.
+No shoulder/sleeve emblem on officer, no eyewear on officer, no lip movement on Amin, no identity drift, no camera gaze, no cuts, no music, no subtitles, no watermark.

@@ -1,19 +1,19 @@
-SCENE 12 — CONTRABAND DISCOVERED & HANDCUFFING AMIN (100% MATCHED TO SCENE_12_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action dramatic thriller (50mm lens, flashing blue/red patrol beacon), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 12 — CLOSE WAIST-UP ARREST & HANDCUFFING BEHIND AMIN'S BACK (100% MATCHED TO MODIFIED SCENE_12_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action dramatic thriller (50mm tight waist-up framing — NO legs shown), one continuous unbroken shot from the exact starting frame, no cuts.
 
 CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN): Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold bridge, ornate gold spear-point temple hinges, and glossy black arms. ONLY Amin wears glasses — strictly NEVER add glasses to any other character.
-The Algerian Customs officer on screen-right (authentic charcoal slate-grey uniform with white arched "الجمارك الجزائرية CUSTOMS" back print and wide light-grey canvas web belt) has bare eyes with NO glasses. Zero direct camera lens gaze.
+The Algerian Customs officer standing behind Amin on screen-right wears his charcoal slate-grey cap, wide light-grey canvas web belt, white back print "الجمارك الجزائرية / CUSTOMS", and charcoal slate-grey uniform with COMPLETELY PLAIN UNADORNED SLEEVES AND SHOULDERS (strictly ZERO shield emblem or patch on arms/shoulders!), with bare eyes (NO glasses). Plain white 4x4 SUV in night bokeh behind has ZERO logos. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png beside the open rear passenger door of the silver-grey sedan where the discovered plain off-white taped carton sits exposed on the rear seat on screen-left: from 0.8s to 5.0s, the Algerian Customs officer calls out sharply confirming the contraband discovery while ratcheting the silver steel handcuffs shut around stunned, hollow-eyed Amin's wrists in front of him. From 5.1s to 10.0s, paralyzed in utter disbelief as blue-and-red patrol lights pulse across the foggy night air, handcuffed Amin is gripped firmly by the arm and led forward toward the patrol vehicle.
+Starting directly from SCENE_12_FIRST_FRAME_1080x1920.png (tight waist-up shot beside the open rear car door showing the discovered plain white taped cartons inside on screen-left): stunned, pale Amin stands in 3/4 view with both arms pulled behind his back while the officer right behind him grips the silver steel handcuffs ("لمينوط") locking them firmly shut around Amin's wrists behind his back (0.0s–5.0s). From 5.1s to 10.0s, holding stunned, paralyzed Amin firmly by the arm/handcuffs from behind, the officer escorts him forward toward the flashing plain white 4x4 patrol vehicle in the night mist as Amin's world collapses in silent shock.
 
 DIALOGUE FIREWALL:
-- Algerian Customs Officer ONLY (0.8s–5.0s — sharp, urgent, authoritative 35-year-old Algerian officer baritone):
+- Officer ONLY (0.8s–5.0s — sharp, urgent, authoritative 35-year-old Algerian officer baritone):
 "بُوزِيتِيفْ شَافْ! السَّلْعَة مْخَبِّيَة هْنَا.. وَقّْفُوهُمْ!"
-- Amin (center, 0.0s–10.0s): 100% SILENT — frozen in dazed shock, mouth slightly slack/closed without speech.
+- Amin (foreground-left, 0.0s–10.0s): 100% SILENT — frozen in dazed shock, mouth closed without speech.
 
 CAMERA & AUDIO:
-Gritty 50mm medium-full shot tracking slightly right as handcuffed Amin is escorted away from the open car door. Crisp metallic ratchet click of steel handcuffs locking, boots on wet asphalt, patrol radio crackle, ZERO background music.
+Tight 50mm waist-up shot (keeping legs completely out of frame) tracking slightly toward the flashing white 4x4 SUV as handcuffed Amin is led away. Crisp metallic ratchet click of steel handcuffs locking behind Amin's back, fabric rustle, night highway wind, ZERO background music.
 
 NEGATIVE:
-No excessive violence, no firearms, no eyewear transfer, no speech from Amin, no cuts, no music, no subtitles, no watermark.
+No legs or boots in frame, no shoulder/sleeve emblem on officer, no vehicle logos, no eyewear transfer, no speech from Amin, no cuts, no music, no subtitles, no watermark.

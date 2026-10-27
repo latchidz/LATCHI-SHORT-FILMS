@@ -1,18 +1,18 @@
-SCENE 09 — SURPRISE ALGERIAN CUSTOMS HIGHWAY CHECKPOINT DEPLOYMENT (100% MATCHED TO SCENE_09_FIRST_FRAME_1080x1920.png)
-Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, flashing blue/red patrol beacons at night), one continuous unbroken shot from the exact starting frame, no cuts.
+SCENE 09 — SURPRISE ALGERIAN CUSTOMS HIGHWAY CHECKPOINT DEPLOYMENT (100% MATCHED TO MODIFIED SCENE_09_FIRST_FRAME_1080x1920.png)
+Vertical 9:16, 10 seconds, photorealistic 35mm Algerian live-action thriller (50mm lens, nocturnal blue/red strobe and SUV headlight illumination), one continuous unbroken shot from the exact starting frame, no cuts.
 
-IDENTITY & UNIFORM LOCK:
-Amin is NOT in this scene. All Algerian Customs officers ("أعوان الجمارك الجزائرية") wear their exact charcoal slate-grey field combat uniforms, slate-grey caps, wide light-grey canvas web belts, and bare eyes (NO sunglasses). Zero direct camera lens gaze.
+LEGAL UNIFORM & VEHICLE FIREWALL:
+Amin is NOT in this scene. All Algerian Customs officers wear their charcoal slate-grey field uniforms with COMPLETELY PLAIN UNADORNED SLEEVES AND SHOULDERS (strictly ZERO shield emblem or crest on the arms/shoulders), slate-grey caps, wide light-grey canvas web belts, and white back print "الجمارك الجزائرية / CUSTOMS", with bare eyes (NO sunglasses). Plain white/silver 4x4 SUVs in background have ZERO logos or emblems. Zero direct camera lens gaze.
 
 STARTING FRAME & ACTION (0.0s – 10.0s):
-Starting directly from SCENE_09_FIRST_FRAME_1080x1920.png at the dark highway curve with flashing patrol SUVs: from 0.5s to 5.2s, the 35-year-old commanding Algerian Customs officer in foreground-right gestures briskly with his outstretched right arm ordering rapid roadblock deployment while the fellow officer in midground-left (back showing "الجمارك الجزائرية CUSTOMS") finishes positioning the orange reflective cones and checkpoint stop barrier across the curve. From 5.3s to 10.0s, the officers take alert positions along the cones and switch on bright handheld LED tactical flashlights aimed toward approaching traffic.
+Starting directly from SCENE_09_FIRST_FRAME_1080x1920.png on the night highway curve: from 0.5s to 5.2s, the 35-year-old commanding officer in foreground-right gestures briskly forward with his right hand giving urgent orders while the fellow officer on midground-left (seen from the back setting down the orange reflective cone with a flashlight) finishes placing the roadblock cones across the lane. From 5.3s to 10.0s, both officers lock into alert checkpoint positions aiming bright LED flashlights down the dark approaching highway lane.
 
 DIALOGUE FIREWALL:
-- Commanding Customs Officer ONLY (foreground-right, 0.5s–5.2s — brisk, authoritative, commanding 35-year-old Algerian officer baritone; other officers silent):
+- Commanding Officer ONLY (foreground-right, 0.5s–5.2s — brisk, authoritative, commanding 35-year-old Algerian officer baritone; other officer silent):
 "ازْرْبُوا رْوَاحْكُمْ، سَرِيعاً سَرِيعاً.. حُطّ البَرَّاجْ هْنَا فِي الدُّورَة!"
 
 CAMERA & AUDIO:
-Stabilized 50mm medium-wide shot settling into alert checkpoint readiness. Boots on asphalt, rubber cones & metal stop sign thudding onto tarmac, flashlight clicks, idling patrol SUVs, ZERO background music.
+Stabilized 50mm waist-up/medium shot settling into taut checkpoint readiness. Boots on asphalt, rubber cone thudding onto tarmac, flashlight clicks, idling 4x4 diesel engines, ZERO background music.
 
 NEGATIVE:
-No Amin in frame, no firearms drawn, no camera eye contact, no cuts, no music, no subtitles, no watermark.
+No shoulder/sleeve shield patches, no vehicle logos, no firearms drawn, no camera eye contact, no cuts, no music, no subtitles, no watermark.
