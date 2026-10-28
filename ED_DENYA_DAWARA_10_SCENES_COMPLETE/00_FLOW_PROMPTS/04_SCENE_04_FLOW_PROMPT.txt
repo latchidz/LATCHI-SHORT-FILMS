@@ -1,0 +1,18 @@
+=== SCENE 04 (10s) — نهاراً: مكالمة الصدمة والتهديد بالطرد ===
+
+[Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
+
+VISUAL CONTINUITY FROM FIRST FRAME (MIDDAY DAYLIGHT):
+Medium close-up of Amin (22yo, navy Lacoste polo, signature rimless emerald-gold sunglasses) against the weathered blue-and-beige tiled café wall, pressing his black smartphone to his right ear with his right hand while his left hand clutches his temple in sudden terror and panic.
+
+CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
+Tense handheld 50mm push-in on Amin's stricken face. For the first five seconds, Amin listens silently with trembling lips and widening dread as his angry landlord's voice blasts through the phone earpiece; then Amin stammers desperately into the phone before the landlord hangs up abruptly, leaving Amin staring blankly in shock. Zero camera lens eye-contact.
+
+SEQUENTIAL DIALOGUE & LIP-SYNC (PHONE CALL + AMIN'S PANICKED RESPONSE):
+- [0.0s – 5.5s] Angry older Algerian landlord's voice heard clearly through the phone receiver filter (Amin listens petrified without speaking):
+"أَمِينْ.. اليُومْ كِي يَطْلَعْ النْهَارْ إِذَا مَا جَبْتْشْ حَقْ الكْرَا، حْوَايْجَكْ تَلْقَاهُمْ فْ الشَّارِعْ!"
+- [5.6s – 10.0s] ONLY Amin pleads desperately into the phone (panicked 22-year-old Algerian young man voice), followed by a sharp phone-disconnect beep:
+"أَلُو.. أَصْبُرْ عْلِيَّا بَرْكْ خُويَا، وَاللّه غِيرْ مْزَيَّرْ.. أَلُو؟!"
+
+AUDIO & SOUND DESIGN:
+Filtered telephone earpiece voice of the stern landlord, panicked breathing of Amin, sharp call-end tone, daytime street air. Strictly NO background music, NO subtitles.
