@@ -1,0 +1,18 @@
+SCENE 03 — AMIN ALONE IN GARAGE SPEAKING PATIENTLY AFTER MANAGER'S HARSH WORDS (100% MATCHED TO SCENE_03_1080x1920.png)
+Vertical 9:16, 8 seconds, photorealistic 35mm Algerian live-action social drama (50mm prime lens, natural garage doorway daylight + shop fluorescent tube), one continuous unbroken shot from the exact starting frame, no cuts.
+
+CRITICAL IDENTITY PRESERVATION — DO NOT ALTER THE PROTAGONIST (AMIN):
+Preserve 100% the exact real face of 26-year-old Amin from the starting frame, natural 50MP skin pores, ~1cm neatly trimmed black beard, clean high skin-fade haircut, and his exact rimless octagonal-rectangular emerald-gold gradient sunglasses with delicate gold nose bridge, ornate gold spear-point temple hinges, and sleek glossy black temple arms. Zero direct camera lens gaze.
+
+STARTING FRAME & ACTION (0.0s – 8.0s):
+Starting directly from SCENE_03_1080x1920.png standing completely alone inside the auto-repair garage beside the red metal rolling tool chest (silver-beige sedan raised on the blue hydraulic lift behind him, bright open garage doorway on left): holding the steel wrench down at his right side in his right grease-stained hand while his left grease-stained hand is raised gently near his chest, hurt yet dignified Amin exhales softly shaking his head slightly looking downward-left toward where the manager walked off (0.0s–0.5s). From 0.6s to 6.8s, speaking quietly to himself with patient endurance and wounded dignity, he gestures subtly with his left hand near his chest as he utters his words. From 6.9s to 8.0s, he closes his mouth with a deep, patient sigh, lowers his left hand slowly, and steadies himself with quiet resolve.
+
+DIALOGUE FIREWALL (STRICT SINGLE-SPEAKER LOCK):
+- Amin ONLY (0.6s–6.8s — tired, patient, dignified, heartfelt 26-year-old Algerian chest baritone speaking quietly to himself):
+"وَاللّه العَبْدْ صَابَرْ وْحَامَلْ عْلَى جَالْ لُقْمَة الحَلَالْ.. رَبِّي يَهْدِيهْ بَرْكْ."
+
+CAMERA & AUDIO:
+Intimate slow 50mm push-in toward Amin's patient, dignified face in the quiet garage. Subtle cloth rustle, faint distant street and workshop room tone, quiet sigh at the end, ZERO background music.
+
+NEGATIVE:
+No manager or extra people in frame, no eyewear shape drift, no exaggerated hand waving, no direct camera eye-contact, no cuts, no music, no subtitles, no watermark.
