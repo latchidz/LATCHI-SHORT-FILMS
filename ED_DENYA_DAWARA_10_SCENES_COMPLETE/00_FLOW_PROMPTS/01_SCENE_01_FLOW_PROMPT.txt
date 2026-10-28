@@ -1,12 +1,12 @@
-=== SCENE 01 (10s) — نهاراً: البداية والإهانة (الـ Hook) ===
+=== SCENE 01 (10s) — نهاراً: البداية والإهانة أمام «مقهى الأمل» (الـ Hook) ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING DAYLIGHT):
-Outside the weathered blue-and-beige tiled corner of a popular Algerian sidewalk café in bright morning daylight. On far-left stands Yusuf (22yo, short buzzcut, neat beard, beige overshirt over off-white tee, thin-frame CLEAR prescription medical eyeglasses); center-left stands arrogant Amin (22yo, navy Lacoste polo, blue jeans, rimless emerald-gold sunglasses) raising his left palm in rude dismissal; on screen-right stands humble tired Hamza (stocky build, slick-back pompadour with side-part, faded dusty-olive work shirt over grey tee, simple rimless dark-smoke glasses) raising his right hand politely in greeting.
+VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING SUNLIGHT AT «مقهى الأمل»):
+On the square-tiled sidewalk outside the weathered blue-and-beige tiled popular Algerian café "مقهى الأمل" in crisp morning sunlight. Far-left stands Yusuf (22yo, buzzcut, neat beard, thin-wire CLEAR prescription medical eyeglasses, open beige overshirt over off-white tee, dark pants, brown suede shoes); center stands arrogant Amin (22yo, navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses) raising his hand dismissively; screen-right stands humble Hamza (stocky build, slick-back pompadour with side-part, faded dusty-olive work shirt over grey tee, dark charcoal pants, solid black sneakers, simple rimless dark-smoke silver glasses) raising his right hand politely in greeting.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Subtle handheld 50mm three-shot. In the first two seconds, humble Hamza steps slightly forward with a polite, respectful nod to ask a simple question; immediately, arrogant Amin cuts him off coldly, waving his left hand dismissively to shoo Hamza away with a contemptuous scowl while Yusuf looks at Amin in stunned disapproval and Hamza freezes in wounded silence. Zero direct camera lens eye-contact.
+Subtle handheld 50mm three-shot on the sidewalk curb. In the first two seconds, humble Hamza steps politely forward with a respectful nod to ask a simple question; immediately, arrogant Amin cuts him off coldly, waving his hand dismissively to shoo Hamza away with a contemptuous scowl while Yusuf looks at Amin in stunned disapproval and Hamza freezes in wounded silence. Zero camera lens eye-contact.
 
 SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING):
 - [0.0s – 2.2s] ONLY Hamza speaks politely (calm, composed adult Algerian male voice; Amin and Yusuf keep mouths closed):
@@ -15,4 +15,4 @@ SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING
 "شُوفْ أَنْتَ.. رَاكْ تْبَانْ طَلَّابْ، رُوحْ تَحَرَّكْ مْنَا مَا عَنْدِيشْ الصَّرْفْ وَمَا تْكَسَّرْلِيشْ رَاسِي!"
 
 AUDIO & SOUND DESIGN:
-Natural morning Algerian popular street ambiance, faint clink of café cups in background. Strictly NO background music, NO subtitles, NO text overlays.
+Natural morning Algerian popular street ambiance outside the café. Strictly NO background music, NO subtitles, NO text overlays.

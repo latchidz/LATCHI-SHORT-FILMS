@@ -1,21 +1,21 @@
 ================================================================================
-🎬 LATCHI STUDIO — COMPLETE GOOGLE FLOW PRODUCTION PROMPTS (10 SCENES)
+🎬 LATCHI STUDIO — COMPLETE GOOGLE FLOW PRODUCTION PROMPTS (V2 MASTER CONTINUITY)
 FILM TITLE: «الدُّنْيَا دَوَّارَة.. وَكَمَا تَدِينُ تُدَانْ» (ED-DENYA DAWARA)
-STARRING: AMIN (22y) + HAMZA (Humble Dignified Man) + YUSUF (Wise Friend w/ Medical Glasses)
-LIGHTING LOCK: Scenes 01–05 Bright Morning/Midday | Scenes 06–10 Warm Golden Hour & Sunset
+LOCATION LOCK: 100% Unified «مقهى الأمل» Sidewalk Curb (Scenes 01–05 & 07–10) + Apartment Gate (06)
+PROP LOCK: Identical Black Duffel Bag (06–10) + Identical Bread & Blue-Cap Water Bag (08–10)
 FORMAT: Vertical 9:16 (1080x1920 Lossless PNG First Frames) | Runtime: ~94s
 ================================================================================
 
 --------------------------------------------------------------------------------
-=== SCENE 01 (10s) — نهاراً: البداية والإهانة (الـ Hook) ===
+=== SCENE 01 (10s) — نهاراً: البداية والإهانة أمام «مقهى الأمل» (الـ Hook) ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING DAYLIGHT):
-Outside the weathered blue-and-beige tiled corner of a popular Algerian sidewalk café in bright morning daylight. On far-left stands Yusuf (22yo, short buzzcut, neat beard, beige overshirt over off-white tee, thin-frame CLEAR prescription medical eyeglasses); center-left stands arrogant Amin (22yo, navy Lacoste polo, blue jeans, rimless emerald-gold sunglasses) raising his left palm in rude dismissal; on screen-right stands humble tired Hamza (stocky build, slick-back pompadour with side-part, faded dusty-olive work shirt over grey tee, simple rimless dark-smoke glasses) raising his right hand politely in greeting.
+VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING SUNLIGHT AT «مقهى الأمل»):
+On the square-tiled sidewalk outside the weathered blue-and-beige tiled popular Algerian café "مقهى الأمل" in crisp morning sunlight. Far-left stands Yusuf (22yo, buzzcut, neat beard, thin-wire CLEAR prescription medical eyeglasses, open beige overshirt over off-white tee, dark pants, brown suede shoes); center stands arrogant Amin (22yo, navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses) raising his hand dismissively; screen-right stands humble Hamza (stocky build, slick-back pompadour with side-part, faded dusty-olive work shirt over grey tee, dark charcoal pants, solid black sneakers, simple rimless dark-smoke silver glasses) raising his right hand politely in greeting.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Subtle handheld 50mm three-shot. In the first two seconds, humble Hamza steps slightly forward with a polite, respectful nod to ask a simple question; immediately, arrogant Amin cuts him off coldly, waving his left hand dismissively to shoo Hamza away with a contemptuous scowl while Yusuf looks at Amin in stunned disapproval and Hamza freezes in wounded silence. Zero direct camera lens eye-contact.
+Subtle handheld 50mm three-shot on the sidewalk curb. In the first two seconds, humble Hamza steps politely forward with a respectful nod to ask a simple question; immediately, arrogant Amin cuts him off coldly, waving his hand dismissively to shoo Hamza away with a contemptuous scowl while Yusuf looks at Amin in stunned disapproval and Hamza freezes in wounded silence. Zero camera lens eye-contact.
 
 SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING):
 - [0.0s – 2.2s] ONLY Hamza speaks politely (calm, composed adult Algerian male voice; Amin and Yusuf keep mouths closed):
@@ -24,35 +24,35 @@ SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING
 "شُوفْ أَنْتَ.. رَاكْ تْبَانْ طَلَّابْ، رُوحْ تَحَرَّكْ مْنَا مَا عَنْدِيشْ الصَّرْفْ وَمَا تْكَسَّرْلِيشْ رَاسِي!"
 
 AUDIO & SOUND DESIGN:
-Natural morning Algerian popular street ambiance, faint clink of café cups in background. Strictly NO background music, NO subtitles, NO text overlays.
+Natural morning Algerian popular street ambiance outside the café. Strictly NO background music, NO subtitles, NO text overlays.
 
 --------------------------------------------------------------------------------
-=== SCENE 02 (8s) — نهاراً: درس الكرامة والنبوءة ===
+=== SCENE 02 (8s) — نهاراً: درس الكرامة والنبوءة أمام نفس المقهى ===
 
 [Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING DAYLIGHT):
-Medium chest-up shot outside the sunlit popular Algerian café. Hamza (stocky broad-shouldered build, tall glossy slick-back pompadour with sharp side-part, thin chin-tip goatee, faded dusty-olive work shirt over grey tee, simple rimless dark-smoke silver glasses) stands tall facing slightly left, raising his right index finger calmly at chest height in dignified moral rebuke.
+VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING SUNLIGHT AT «مقهى الأمل»):
+Closer medium shot on the exact same square-tiled sidewalk outside "مقهى الأمل" (weathered blue-and-beige tiled columns and metal sidewalk chairs behind him, Yusuf's shoulder in far-left foreground). Hamza (stocky build, slick-back pompadour with side-part, thin chin-tip goatee, faded dusty-olive work shirt over grey tee, dark charcoal pants, simple rimless dark-smoke silver glasses) stands tall raising his right index finger calmly at chest height.
 
 CAMERA & MOTION (8 SECONDS — CONTINUOUS SINGLE TAKE):
-Steady, dignified 50mm slow push-in on Hamza. Without raising his voice or losing his composure, Hamza holds himself with unshakable self-respect and quiet sorrow, gesturing gently with his raised index finger as he delivers a calm, prophetic warning toward off-screen Amin, then lowers his hand with quiet dignity to turn and leave. Zero camera lens eye-contact.
+Steady, dignified 50mm slow push-in on Hamza. Without shouting or losing composure, Hamza holds himself with unshakable self-respect, gesturing calmly with his raised right index finger as he delivers a solemn prophetic warning toward Amin, then lowers his hand with quiet dignity to turn and walk away. Zero camera lens eye-contact.
 
 SINGLE-SPEAKER DIALOGUE & LIP-SYNC (ONLY Hamza speaks; calm, resonant, dignified Algerian adult male voice):
 "مَانِي جَايْ نَطْلُبْكْ.. جِيتْ نْسَقْسِي بَرْكْ! عَيْبْ عْلِيكْ تَحْكَمْ عْ النَّاسْ بْالمْظَاهَرْ.. الدُّنْيَا دَوَّارَة وَكَمَا تَدِينْ تُدَانْ، إِشْفَى عْلِيهَا مْلِيحْ!"
 
 AUDIO & SOUND DESIGN:
-Natural morning street air and distant neighborhood murmur highlighting Hamza's calm, steady voice. Strictly NO background music, NO subtitles.
+Natural morning street air highlighting Hamza's calm, steady voice. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 03 (8s) — نهاراً: عتاب الصديق يوسف ===
+=== SCENE 03 (8s) — نهاراً: عتاب الصديق يوسف أمام نفس المقهى ===
 
 [Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING DAYLIGHT):
-Two-shot at the corner of the popular Algerian sidewalk café. On screen-left stands Yusuf (22yo, buzzcut, neat beard, beige overshirt, thin-wire CLEAR prescription medical eyeglasses) gesturing earnestly with his right hand as he rebukes Amin; on screen-right stands Amin (22yo, navy Lacoste polo, rimless emerald-gold sunglasses) tilting his chin up with a mocking smirk and dismissive raised hand.
+VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING SUNLIGHT AT «مقهى الأمل»):
+Medium waist-up two-shot on the exact same square-tiled sidewalk outside the weathered blue-and-beige tiled "مقهى الأمل" storefront. On screen-left stands Yusuf (22yo, buzzcut, neat beard, thin-wire CLEAR prescription medical eyeglasses, beige overshirt over off-white tee) gesturing earnestly with his right hand; on screen-right stands Amin (22yo, navy Lacoste polo, blue jeans, rimless emerald-gold sunglasses) tilting his chin upward with a mocking arrogant smirk and his right hand resting proudly on his chest.
 
 CAMERA & MOTION (8 SECONDS — CONTINUOUS SINGLE TAKE):
-Natural 50mm medium two-shot. First, Yusuf speaks sharply to Amin with furrowed brows and an earnest hand gesture; then Yusuf closes his mouth shaking his head in disappointment as arrogant Amin laughs scoffingly, waves his hand dismissively, and looks away in stubborn pride. Zero camera lens eye-contact.
+Natural 50mm medium two-shot. First, Yusuf speaks earnestly to Amin with furrowed brows and an open-hand rebuke; then Yusuf closes his mouth shaking his head in disappointment as arrogant Amin taps his chest proudly, waves Yusuf off with a scoffing smirk, and looks away in stubborn pride. Zero camera lens eye-contact.
 
 SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING):
 - [0.0s – 4.2s] ONLY Yusuf speaks earnestly (balanced, conscientious 22-year-old Algerian young man voice; Amin smirks silently with mouth closed):
@@ -61,15 +61,15 @@ SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING
 "فُوتْنَا يَا يُوسُفْ.. أَنَا نَحْكَمْ بْالمْظَاهَرْ، هَاذُو نَعْرَفْهُمْ مْلِيحْ!"
 
 AUDIO & SOUND DESIGN:
-Authentic daytime Algerian café terrace ambiance. Strictly NO background music, NO subtitles.
+Authentic morning Algerian café sidewalk ambiance. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 04 (10s) — نهاراً: مكالمة الصدمة والتهديد بالطرد ===
+=== SCENE 04 (10s) — نهاراً: مكالمة الصدمة والتهديد بالطرد أمام نفس المقهى ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (MIDDAY DAYLIGHT):
-Medium close-up of Amin (22yo, navy Lacoste polo, signature rimless emerald-gold sunglasses) against the weathered blue-and-beige tiled café wall, pressing his black smartphone to his right ear with his right hand while his left hand clutches his temple in sudden terror and panic.
+VISUAL CONTINUITY FROM FIRST FRAME (MIDDAY DAYLIGHT AT «مقهى الأمل»):
+Medium close-up of Amin (22yo, navy Lacoste polo, signature rimless emerald-gold sunglasses) right beside the exact weathered blue-and-beige tiled column and metal sidewalk chairs of "مقهى الأمل", pressing his black smartphone to his right ear with his right hand while his left hand clutches his temple in sudden terror and panic.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
 Tense handheld 50mm push-in on Amin's stricken face. For the first five seconds, Amin listens silently with trembling lips and widening dread as his angry landlord's voice blasts through the phone earpiece; then Amin stammers desperately into the phone before the landlord hangs up abruptly, leaving Amin staring blankly in shock. Zero camera lens eye-contact.
@@ -84,35 +84,35 @@ AUDIO & SOUND DESIGN:
 Filtered telephone earpiece voice of the stern landlord, panicked breathing of Amin, sharp call-end tone, daytime street air. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 05 (8s) — نهاراً: الأبواب الموصدة وذل الحاجة ===
+=== SCENE 05 (8s) — نهاراً: الأبواب الموصدة أمام نفس المقهى ===
 
 [Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (MIDDAY DAYLIGHT):
-Medium two-shot outside the popular Algerian café. On screen-left stands panicked Amin (navy Lacoste polo, rimless emerald-gold sunglasses, clutching his phone in his left hand while pleading urgently with his right hand); on screen-right stands Yusuf (buzzcut, neat beard, beige overshirt, thin-wire CLEAR prescription medical eyeglasses) raising both empty hands palms-up in sad, apologetic helplessness.
+VISUAL CONTINUITY FROM FIRST FRAME (MIDDAY DAYLIGHT AT «مقهى الأمل»):
+Full two-shot on the exact same square-tiled sidewalk and curb outside "مقهى الأمل". On screen-left stands panicked Amin (navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses, holding his black smartphone in his right hand while reaching his left arm imploringly toward Yusuf); on screen-right stands Yusuf (thin-wire CLEAR prescription medical eyeglasses, beige overshirt, dark pants, brown suede shoes) raising both empty hands palms-up in sad financial helplessness.
 
 CAMERA & MOTION (8 SECONDS — CONTINUOUS SINGLE TAKE):
-Handheld 50mm dramatic two-shot. Desperate and humiliated, Amin leans forward begging Yusuf for the rent money; Yusuf listens with genuine sympathy, then lifts both empty palms helplessly shaking his head with regret, leaving Amin crushed as every door closes in his face. Zero camera lens eye-contact.
+Handheld 50mm dramatic two-shot. Desperate and humiliated, Amin pleads urgently with Yusuf for the rent money; Yusuf listens with genuine sympathy, then lifts both empty palms helplessly shaking his head with regret, leaving Amin's shoulders slumping in despair. Zero camera lens eye-contact.
 
 SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING):
 - [0.0s – 4.5s] ONLY Amin begs in panic (frightened, desperate 22-year-old Algerian young man voice; Yusuf listens with mouth closed):
 "تْعِيشْ يُوسُفْ، سَلَّفْلِي حَقْ الكْرَا.. مَوْلَى السَّكْنَة رَاحْ يَطْرُدْنِي لْ الشَّارِعْ!"
-- [4.6s – 8.0s] ONLY Yusuf replies sorrowfully (regretful 22-year-old Algerian young man voice; Amin's shoulders slump with mouth closed):
+- [4.6s – 8.0s] ONLY Yusuf replies sorrowfully (regretful 22-year-old Algerian young man voice; Amin keeps mouth closed):
 "وَاللّه مَا عَنْدِي دُورُو يَا صَاحْبِي.. رَبِّي يَفْرَجْ عْلِيكْ."
 
 AUDIO & SOUND DESIGN:
 Midday neighborhood street ambiance, anxious breath. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 06 (10s) — قبيل الغروب: طرد أمين ورمي أمتعته ===
+=== SCENE 06 (10s) — قبيل الغروب: طرد أمين ورمي حقيبته أمام باب العمارة ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
 VISUAL CONTINUITY FROM FIRST FRAME (WARM ORANGE PRE-SUNSET GOLDEN HOUR — NOT DARK NIGHT):
-Warm orange late-afternoon pre-sunset sunlight illuminating the entrance of Amin's apartment building. On screen-right, the metal entrance gate is locked shut with a heavy chain and shiny new brass padlock ("قفل جديد"). On the sidewalk curb at Amin's feet lie his thrown black zippered duffel bag and spilled canvas clothes bag. Amin (navy Lacoste polo, blue jeans, white sneakers, rimless emerald-gold sunglasses) stands frozen clutching both hands to the sides of his head in utter shock.
+Warm orange late-afternoon pre-sunset sunlight illuminating the entrance of Amin's residential apartment building. On screen-right, the metal entrance gate is locked shut with a heavy chain and shiny new brass padlock ("قفل جديد"). On the sidewalk curb at Amin's feet lies his single thrown black zippered duffel luggage bag. Amin (navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses) stands frozen clutching both hands to the sides of his head in utter shock.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Slow dramatic 50mm push-in bathed in warm orange pre-sunset light. Breathing heavily in disbelief, Amin stares down at his belongings thrown onto the street, glances desperately at the padlocked apartment door, and presses both hands tighter against his head as the reality of homelessness hits him. Zero camera lens eye-contact.
+Slow dramatic 50mm push-in bathed in warm orange pre-sunset light. Breathing heavily in disbelief, Amin stares down at his black duffel bag thrown onto the street, glances desperately at the padlocked apartment door, and presses both hands tighter against his head as homelessness hits him. Zero camera lens eye-contact.
 
 SINGLE-SPEAKER DIALOGUE & LIP-SYNC (ONLY Amin speaks; breathless, stunned 22-year-old Algerian young man voice):
 "يَا رَبِّي.. رْمَاوْلِي دَبْشِي فْ الزَّنْقَة.. وِينْ نْرُوحْ ذُرْكْ؟!"
@@ -121,15 +121,15 @@ AUDIO & SOUND DESIGN:
 Heavy, shaky breathing of shock, faint metallic clink of the padlock chain in the evening breeze, late-afternoon street ambiance. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 07 (10s) — وقت الغروب: انكسار على نفس الرصيف ===
+=== SCENE 07 (10s) — وقت الغروب: انكسار صامت على نفس رصيف «مقهى الأمل» ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (GOLDEN-ORANGE SUNSET — CLEAR WARM SUNSET SKY, NOT DARK NIGHT):
-Rich amber-orange sunset sky glowing over the exact same popular café sidewalk corner where Amin insulted Hamza that morning. Amin (navy Lacoste polo, blue jeans, white sneakers, rimless emerald-gold sunglasses) sits slumped alone atop his black duffel luggage bag on the concrete curb, hunched deeply forward with his face buried in both trembling hands.
+VISUAL CONTINUITY FROM FIRST FRAME (GOLDEN-ORANGE SUNSET AT «مقهى الأمل» — CLEAR WARM SUNSET SKY, NOT DARK NIGHT):
+Rich amber-orange sunset sky glowing over the exact same weathered blue-and-beige tiled "مقهى الأمل" sidewalk curb where Amin insulted Hamza that morning. Amin (navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses) sits slumped alone atop his black zippered duffel bag on the concrete curb, hunched deeply forward with his face buried in both trembling hands.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Poetic, slow 50mm dolly-in under the fading golden-orange sunset sky. Sitting defeated on his thrown luggage bag on the very curb where he showed arrogance hours earlier, Amin's shoulders tremble visibly in silent brokenness, shame, and exhaustion as a cool sunset breeze rustles gently down the quiet pavement. Zero camera lens eye-contact.
+Poetic, slow 50mm dolly-in under the golden-orange sunset sky. Sitting defeated on his black duffel bag on the exact same curb where he showed arrogance hours earlier, Amin's shoulders tremble visibly in silent brokenness, shame, and exhaustion as a cool sunset breeze blows softly down the pavement. Zero camera lens eye-contact.
 
 DIALOGUE:
 Strictly SILENT scene — ZERO spoken dialogue.
@@ -138,50 +138,50 @@ AUDIO & SOUND DESIGN:
 Choked, trembling breaths of quiet despair and the lonely whistle of cool sunset wind blowing along the sidewalk. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 08 (10s) — وقت الغروب: اللقاء الصادم والمفاجأة ===
+=== SCENE 08 (10s) — وقت الغروب: قدوم حمزة بالخبز والماء على نفس رصيف «مقهى الأمل» ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (WARM SUNSET GLOW — NOT DARK NIGHT):
-Warm amber-pink sunset light over the popular neighborhood sidewalk curb. On screen-right stands Hamza (stocky build, slick-back pompadour with side-part, faded dusty-olive work shirt over grey tee, simple rimless dark-smoke glasses) looking down calmly with zero gloating, holding a clear bag containing fresh golden baguettes and a bottle of water in his left hand. On screen-left sits Amin on his black duffel bag on the curb, frozen in mortified shame with his head bowed.
+VISUAL CONTINUITY FROM FIRST FRAME (EXACT SAME «مقهى الأمل» CURB IN WARM GOLDEN SUNSET — NOT DARK NIGHT):
+Exact same weathered blue-and-beige tiled "مقهى الأمل" storefront, concrete curb, and rich golden-orange sunset sky as Scene 07. On screen-left sits Amin (navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses) atop his black zippered duffel bag on the curb, frozen in burning shame with his head bowed. Standing beside the curb on screen-right is Hamza (stocky build, slick-back pompadour, faded dusty-olive work shirt over grey tee, dark charcoal pants, solid black sneakers, simple rimless glasses) looking down calmly with zero gloating, holding ONE translucent plastic bag containing two golden baguettes and a clear blue-cap/blue-label water bottle in his left hand.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Tense, emotional 50mm medium-full two-shot in warm sunset glow. Hearing footsteps stop beside him, Amin raises his head slightly, freezes stiffly upon recognizing Hamza—the very man he humiliated that morning—and immediately drops his head toward the ground in burning shame and fear of being mocked, while Hamza stands quietly watching him with pure compassion. Zero camera lens eye-contact.
+Tense, emotional 50mm two-shot on the sunset curb. Hearing footsteps stop beside him, Amin glances up slightly, freezes upon recognizing Hamza holding the bread and water, and immediately drops his head toward his knees in mortified shame, while Hamza stands quietly watching him with pure compassion. Zero camera lens eye-contact.
 
 SINGLE-SPEAKER DIALOGUE & LIP-SYNC (ONLY Amin whispers in shame; Hamza keeps mouth completely closed):
 Amin (broken, ashamed whisper, 22-year-old Algerian young man voice):
 "حَمْزَة.. أَنَا..."
 
 AUDIO & SOUND DESIGN:
-Footsteps halting on pavement, soft rustle of the bread bag in Hamza's hand, quiet sunset breeze. Strictly NO background music, NO subtitles.
+Footsteps halting on pavement, soft rustle of the plastic bread-and-water bag in Hamza's hand, quiet sunset breeze. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 09 (10s) — بعد الغروب مباشرة: صفعة الأخلاق والشهامة ===
+=== SCENE 09 (10s) — بعد الغروب مباشرة: شهامة حمزة بإعطاء نفس الخبز والماء على نفس الرصيف ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (WARM GOLDEN TWILIGHT GLOW — CLEARLY LIT, NOT DARK NIGHT):
-Warm golden-amber post-sunset twilight glow along the Algerian sidewalk curb. On screen-right, Hamza (stocky build, slick-back pompadour with side-part, faded dusty-olive work shirt, simple rimless glasses) crouches nobly on one knee beside seated Amin (screen-left on his black duffel bag), placing the bag of fresh bread and bottle of water gently into Amin's hands with his left hand while resting his broad right hand warmly on Amin's shoulder.
+VISUAL CONTINUITY FROM FIRST FRAME (EXACT SAME «مقهى الأمل» CURB IN WARM GOLDEN SUNSET/TWILIGHT GLOW — NOT DARK NIGHT):
+Exact same weathered blue-and-beige tiled "مقهى الأمل" storefront, concrete curb, and warm golden sunset sky as Scenes 07 & 08. On screen-left sits humbled Amin (navy Lacoste polo, slim blue jeans, pure white sneakers, rimless emerald-gold sunglasses) on his black zippered duffel bag. On screen-right, Hamza (stocky build, slick-back pompadour, faded dusty-olive work shirt over grey tee, dark charcoal pants, solid black sneakers, simple rimless glasses) crouches nobly on one knee, placing the exact same translucent plastic bag containing the two golden baguettes and clear blue-cap water bottle gently into Amin's hands with his left hand while resting his right hand warmly on Amin's shoulder.
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Intimate 50mm emotional push-in. With zero gloating and pure Algerian nobility, Hamza places the bread and water firmly into Amin's hands, pats Amin's shoulder gently like an older brother, and motions warmly for Amin to stand up with him, while Amin sits bowed and overwhelmed to tears by Hamza's grace. Zero camera lens eye-contact.
+Intimate 50mm emotional push-in. With zero gloating and pure Algerian chivalry, Hamza hands the bag of bread and water firmly to Amin, pats Amin's shoulder gently like an older brother, and motions warmly for Amin to stand up with him, while Amin sits bowed and overwhelmed by Hamza's grace. Zero camera lens eye-contact.
 
 SINGLE-SPEAKER DIALOGUE & LIP-SYNC (ONLY Hamza speaks; calm, noble, deeply moving Algerian adult male voice; Amin keeps mouth closed):
 "الصْبَاحْ كُنْتْ شَايَفْنِي حَقِيرْ وَطْرَدْتْنِي.. وَالعْشِيَّة الدُّنْيَا رْمَاتْكْ فْ نَفْسْ الرَّصِيفْ! شَفْتْ بْلِي كَمَا تَدِينْ تُدَانْ؟.. بَصَّحْ حْنَا وْلَادْ أَصْلْ، مَا نَشْمْتُوشْ فْ المْحْتَاجْ.. نُوضْ خُويَا نُوضْ مْعَايَا."
 
 AUDIO & SOUND DESIGN:
-Soft rustle of the bread bag placed in Amin's hands, gentle brotherly pat on shoulder, quiet warm evening air. Strictly NO background music, NO subtitles.
+Soft rustle of the bread-and-water bag placed in Amin's hands, gentle brotherly pat on shoulder, warm evening air. Strictly NO background music, NO subtitles.
 
 --------------------------------------------------------------------------------
-=== SCENE 10 (10s) — الختام: دموع التوبة وانكسار الكبر ===
+=== SCENE 10 (10s) — الختام: دموع التوبة والمصافحة أمام نفس رصيف «مقهى الأمل» ===
 
 [Format: Vertical 9:16 | Duration: 10s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (WARM GOLDEN DUSK GLOW — CLEARLY LIT, NOT DARK NIGHT):
-Warm amber dusk glow in the Algerian cobblestone alley. On screen-left stands repentant Amin (navy Lacoste polo, black duffel bag strap over right shoulder, glistening tears of deep remorse streaming visibly down his cheek from beneath his rimless emerald-gold sunglasses, head bowed in humility) clasping the right hand of noble Hamza on screen-right (stocky build, slick-back pompadour, faded olive work shirt, simple rimless glasses, holding the bag of bread and water in his left hand).
+VISUAL CONTINUITY FROM FIRST FRAME (EXACT SAME «مقهى الأمل» CURB IN WARM GOLDEN DUSK GLOW — NOT DARK NIGHT):
+Exact same weathered blue-and-beige tiled "مقهى الأمل" sidewalk curb and warm golden dusk sky as Scenes 07–09. Having risen from the curb, repentant Amin stands on screen-left (navy Lacoste polo, slim blue jeans, pure white sneakers, his black zippered duffel bag slung over his right shoulder, glistening tears of deep remorse streaming visibly down his cheek beneath his rimless emerald-gold sunglasses, head bowed in humility) clasping the right hand of noble Hamza on screen-right (stocky build, slick-back pompadour, faded olive work shirt over grey tee, dark charcoal pants, solid black sneakers, simple rimless glasses, holding the exact same translucent plastic bag with the two golden baguettes and clear blue-cap water bottle in his left hand).
 
 CAMERA & MOTION (10 SECONDS — CONTINUOUS SINGLE TAKE):
-Deeply moving 50mm medium two-shot. Tears rolling down his cheeks beneath his sunglasses, humbled Amin holds Hamza's hand tightly with bowed head as he apologizes from the depths of his heart; Hamza squeezes Amin's hand in warm forgiveness with a gentle brotherly nod (mouth closed), and the two turn slowly to walk side-by-side away down the warm-lit alley. Zero camera lens eye-contact; strictly NO AI-generated text in video pixels (add clean Arabic closing quote in post-edit).
+Deeply moving 50mm two-shot. Tears rolling down his cheeks beneath his sunglasses, humbled Amin clasps Hamza's hand tightly with bowed head as he apologizes sincerely; Hamza squeezes Amin's hand in warm brotherly forgiveness with a gentle nod (mouth closed), and the two turn slowly to walk side-by-side away along the warm-lit sidewalk. Zero camera lens eye-contact; strictly NO AI-generated text in video pixels (add clean Arabic closing quote in post-edit).
 
 SINGLE-SPEAKER DIALOGUE & LIP-SYNC (ONLY Amin speaks; tearful, sincerely repentant 22-year-old Algerian young man voice; Hamza nods silently with mouth closed):
 "سَامَحْنِي خُويَا حَمْزَة.. حْقَرْتَكْ بْالمَظْهَرْ، وَأَنْتَ سْتَرْتْنِي بْأَصْلَكْ.. الدُّنْيَا صَحْ دَوَّارَة."
@@ -190,4 +190,4 @@ SINGLE-SPEAKER DIALOGUE & LIP-SYNC (ONLY Amin speaks; tearful, sincerely repenta
 «لاَ تَحْقِرَنَّ أَحَداً لِمَظْهَرِهِ.. فَالْأَيَّامُ دَوَّارَة، وَكَمَا تَدِينُ تُدَانُ»
 
 AUDIO & SOUND DESIGN:
-Trembling tearful voice of sincere repentance, firm brotherly handshake clasp, calm footsteps of the two men walking away together. Strictly NO background music, NO burned-in AI subtitles.
+Trembling tearful voice of sincere repentance, firm brotherly handshake clasp, calm footsteps walking away together. Strictly NO background music, NO burned-in AI subtitles.

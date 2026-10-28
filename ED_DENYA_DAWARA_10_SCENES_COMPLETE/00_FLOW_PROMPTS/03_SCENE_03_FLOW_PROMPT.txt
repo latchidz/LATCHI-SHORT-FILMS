@@ -1,12 +1,12 @@
-=== SCENE 03 (8s) — نهاراً: عتاب الصديق يوسف ===
+=== SCENE 03 (8s) — نهاراً: عتاب الصديق يوسف أمام نفس المقهى ===
 
 [Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from First_Frame_1080x1920.png | Continuous Single Shot, ARRI Alexa Mini LF 50mm Prime]
 
-VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING DAYLIGHT):
-Two-shot at the corner of the popular Algerian sidewalk café. On screen-left stands Yusuf (22yo, buzzcut, neat beard, beige overshirt, thin-wire CLEAR prescription medical eyeglasses) gesturing earnestly with his right hand as he rebukes Amin; on screen-right stands Amin (22yo, navy Lacoste polo, rimless emerald-gold sunglasses) tilting his chin up with a mocking smirk and dismissive raised hand.
+VISUAL CONTINUITY FROM FIRST FRAME (BRIGHT MORNING SUNLIGHT AT «مقهى الأمل»):
+Medium waist-up two-shot on the exact same square-tiled sidewalk outside the weathered blue-and-beige tiled "مقهى الأمل" storefront. On screen-left stands Yusuf (22yo, buzzcut, neat beard, thin-wire CLEAR prescription medical eyeglasses, beige overshirt over off-white tee) gesturing earnestly with his right hand; on screen-right stands Amin (22yo, navy Lacoste polo, blue jeans, rimless emerald-gold sunglasses) tilting his chin upward with a mocking arrogant smirk and his right hand resting proudly on his chest.
 
 CAMERA & MOTION (8 SECONDS — CONTINUOUS SINGLE TAKE):
-Natural 50mm medium two-shot. First, Yusuf speaks sharply to Amin with furrowed brows and an earnest hand gesture; then Yusuf closes his mouth shaking his head in disappointment as arrogant Amin laughs scoffingly, waves his hand dismissively, and looks away in stubborn pride. Zero camera lens eye-contact.
+Natural 50mm medium two-shot. First, Yusuf speaks earnestly to Amin with furrowed brows and an open-hand rebuke; then Yusuf closes his mouth shaking his head in disappointment as arrogant Amin taps his chest proudly, waves Yusuf off with a scoffing smirk, and looks away in stubborn pride. Zero camera lens eye-contact.
 
 SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING):
 - [0.0s – 4.2s] ONLY Yusuf speaks earnestly (balanced, conscientious 22-year-old Algerian young man voice; Amin smirks silently with mouth closed):
@@ -15,4 +15,4 @@ SEQUENTIAL DIALOGUE & LIP-SYNC (AUTHENTIC ALGERIAN DARIJA — STRICT TURN-TAKING
 "فُوتْنَا يَا يُوسُفْ.. أَنَا نَحْكَمْ بْالمْظَاهَرْ، هَاذُو نَعْرَفْهُمْ مْلِيحْ!"
 
 AUDIO & SOUND DESIGN:
-Authentic daytime Algerian café terrace ambiance. Strictly NO background music, NO subtitles.
+Authentic morning Algerian café sidewalk ambiance. Strictly NO background music, NO subtitles.
