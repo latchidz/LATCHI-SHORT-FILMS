@@ -1,0 +1,64 @@
+=== 01_FLOW_PROMPT_HAMZA_CAFE_DAY_8s.txt ===
+
+[Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from TEST_SCENE_01_HAMZA_CAFE_DAY_1080x1920.png]
+
+VISUAL CONTINUITY:
+Golden-hour sunlight at an upscale Algerian boulevard café terrace. Hamza (black bomber jacket over white tee with silver pendant, tall glossy slick-back pompadour with side-part, rimless dark-smoke silver sunglasses) sits at a marble table with an espresso cup and car keys.
+
+CAMERA & MOTION (8 SECONDS):
+Smooth 50mm push-in. Hamza picks up the small glass cup of Algerian espresso calmly with his right hand, takes a composed breath, sets it back on the saucer, and speaks with confident, relaxed charisma toward someone across the table (never looking into the camera lens).
+
+SINGLE-SPEAKER DIALOGUE (24-year-old warm, confident Algerian male voice in Darija):
+"شُوفْ يَا خُويَا.. الدُّنْيَا هَاذِي مَا تَحْتَاجْشْ الهَدْرَة بْزَّافْ، الرّْجَالْ يْبَانُوا فْ المَوَاقِفْ."
+
+AUDIO: Natural Algerian boulevard traffic hum in distance, subtle clink of espresso glass on saucer. Strictly NO music, NO subtitles.
+
+--------------------------------------------------------------------------------
+=== 02_FLOW_PROMPT_HAMZA_CAR_NIGHT_8s.txt ===
+
+[Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from TEST_SCENE_02_HAMZA_CAR_NIGHT_NO_GLASSES_1080x1920.png]
+
+VISUAL CONTINUITY (NIGHTTIME — BARE-EYED HAMZA WITHOUT GLASSES):
+Inside a car driving at night along an Algerian city street, warm amber streetlamp bokeh gliding gently across the side window. Bare-eyed Hamza (NO glasses, charcoal zip jacket over black tee, tall pompadour with side-part, thin chin-tip goatee) holds the top of the steering wheel with his right hand looking intently at the road ahead.
+
+CAMERA & MOTION (8 SECONDS):
+Intimate 50mm passenger-angle shot as passing golden streetlights softly illuminate Hamza's serious face. Keeping his eyes on the night road, he adjusts his grip slightly on the steering wheel and speaks in a low, determined dramatic tone. Zero camera lens eye-contact; strictly NO glasses.
+
+SINGLE-SPEAKER DIALOGUE (24-year-old serious Algerian male voice in Darija):
+"وَاللّه مَا نْخَلِّيهْ وَحْدُو فْ هَاذْ الضِّيقْ.. رَانِي جَايْ لِيهْ ذُرْكْ مَهْمَا كَانْ الحَالْ."
+
+AUDIO: Quiet realistic car cabin interior hum, soft tire roll on night asphalt. Strictly NO music, NO subtitles.
+
+--------------------------------------------------------------------------------
+=== 03_FLOW_PROMPT_AMIN_AND_HAMZA_STREET_DAY_8s.txt ===
+
+[Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from TEST_SCENE_03_AMIN_AND_HAMZA_STREET_DAY_1080x1920.png]
+
+VISUAL CONTINUITY:
+Sunlit Algerian city boulevard. On screen-left walks Amin (dark green Lacoste polo, ~1cm black beard, rimless emerald-gold sunglasses); on screen-right walks Hamza (open navy overshirt over white tee with silver pendant, stocky build, tall pompadour with side-part, rimless dark-smoke silver sunglasses), gesturing naturally with his right hand as they walk side-by-side.
+
+CAMERA & MOTION (8 SECONDS):
+Smooth 50mm Steadicam backward tracking shot ahead of the two friends. Walking slowly side-by-side down the sunlit street, Hamza speaks earnestly to Amin with natural hand gestures while Amin listens attentively with his mouth closed, nodding slightly in agreement. Zero camera lens eye-contact.
+
+SINGLE-SPEAKER DIALOGUE (ONLY Hamza speaks; Amin keeps mouth closed listening):
+Hamza (confident, loyal 24-year-old Algerian male voice in Darija):
+"يَا أَمِينْ خُويَا، الخَدْمَة النّْظِيفَة هِيَّ اللِّي تْدُومْ.. أَتَّكَّلْ عْلَى رَبِّي وْأَنَا رَانِي مْعَاكْ."
+
+AUDIO: Natural footsteps on sunlit Algerian street pavement, light daytime city air. Strictly NO music, NO subtitles.
+
+--------------------------------------------------------------------------------
+=== 04_FLOW_PROMPT_AMIN_AND_HAMZA_NIGHT_DRAMA_8s.txt ===
+
+[Format: Vertical 9:16 | Duration: 8s | Mode: Google Flow Image-to-Video from TEST_SCENE_04_AMIN_AND_HAMZA_NIGHT_DRAMA_NO_GLASSES_1080x1920.png]
+
+VISUAL CONTINUITY (NIGHTTIME — BOTH ACTORS BARE-EYED WITHOUT GLASSES):
+Warm-lit Algerian city street at night beside a parked car. On screen-left stands bare-eyed Amin (navy jacket over olive tee); on screen-right stands bare-eyed Hamza (charcoal-burgundy jacket over black tee, tall pompadour with side-part) with his right hand resting supportively on Amin's shoulder.
+
+CAMERA & MOTION (8 SECONDS):
+Emotional handheld 50mm medium two-shot. Bare-eyed Hamza pats Amin's shoulder firmly like a true brother while speaking from the heart; bare-eyed Amin listens with deep gratitude and nods quietly with his mouth closed. Zero camera lens eye-contact; strictly NO glasses on either man.
+
+SINGLE-SPEAKER DIALOGUE (ONLY bare-eyed Hamza speaks; Amin keeps mouth closed):
+Hamza (warm, sincere 24-year-old Algerian male voice in Darija):
+"أَسْمَعْنِي مْلِيحْ يَا صَاحْبِي.. الصَّاحَبْ يْبَانْ فْ الشَّدَّة، وْمَا دَامْنِي حَيّْ مَا تْطِيحْشْ وَحْدَكْ."
+
+AUDIO: Quiet Algerian night street ambiance, gentle fabric pat on shoulder. Strictly NO music, NO subtitles.
