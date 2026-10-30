@@ -1,0 +1,25 @@
+Starting directly from the uploaded Start Image of Scene 02 and transitioning smoothly in one unbroken 10.0-second continuous camera movement to match the exact uploaded End Image of Scene 02.
+
+[DURATION: Exactly 10.0 seconds | MODE: Google Flow First & Last Frame (Start Image + End Image) | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- THE FATHER (62-year-old hardworking elderly Algerian street cleaner): deeply sun-weathered olive-tan wrinkled face with subtle forehead prayer mark, crow's feet, tired under-eye hollows, kind soulful bare dark-brown eyes (strictly NO glasses), thinning short grey-white hair, short trimmed salt-and-pepper grey-white beard and moustache, wearing a sun-faded dusty municipal olive-green street-cleaner work jacket with worn scuffed grey reflective safety stripes over a faded grey-beige collarless undershirt, dusty dark-olive work trousers, and scuffed black work shoes.
+- COUPLE WALKING AWAY IN DEPTH: Amin (midnight-navy blazer, cream trousers, short high skin-fade dark hair) and Meriem (golden-blonde wavy hair, ivory-cream tweed blazer, black wide-leg trousers, cream quilted gold-chain bag, bare right wrist) continue walking away unaware down the sunlit Algiers stone sidewalk.
+- KEY PROP: Gleaming luxury 18k yellow-gold Cuban-link bracelet resting on the sunlit beige limestone sidewalk tiles.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS START-TO-END SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:03.2] Low Ground-Level Focus on the gleaming 18k yellow-gold bracelet settling onto the sunlit stone pavement tiles in the foreground while Amin and Meriem stroll farther away in the background completely oblivious.
+- [00:03.2–00:06.8] Smooth Fluid Lateral Glide and Tilt-Up across the sunlit stone pavement toward the opposite curbside as the 62-year-old Street-Cleaner Father (holding his wooden broom in his left hand) spots the bright golden sun-glint of the fallen bracelet on the stone tiles and steps honestly toward it.
+- [00:06.8–00:10.0] Settling seamlessly into the exact End Image composition: the elderly Father bends forward at the waist beside the black lamppost, reaching his weathered right hand gently down toward the sparkling gold bracelet on the pavement with pure surprise and honesty. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Natural Algerian Darija, single speaker):
+- [00:00.0–00:06.8] [6.8s pure visual suspense — delicate metallic ring of gold hitting stone tiles, receding footsteps of the couple, and shuffling work-shoe steps of the Father]
+- [00:06.8–00:09.7] ONLY THE FATHER SPEAKS (62yo warm, honest, weathered elderly Algerian father bass-baritone):
+  الأب: "سبحان الله... هذا ذهب طاح من هاديك البنت، لازم نلحقها بيه!"
+
+AUDIO:
+Delicate crisp metallic clink of 18k gold bracelet landing on stone, footsteps fading down the sidewalk, soft brush of wooden broom, authentic quiet street ambience. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, on-screen text, watermarks, background music.

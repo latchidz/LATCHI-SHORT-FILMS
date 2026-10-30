@@ -1,0 +1,23 @@
+Starting directly from the uploaded reference image of Scene 13.
+
+[DURATION: Exactly 10.0 seconds | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- AMIN (24-year-old Algerian man, bare-eyed without sunglasses): exact unfiltered North African facial bone structure, natural skin pores, clean high skin-fade haircut, neat ~1cm trimmed black beard and moustache, bare dark-brown eyes reddened and overflowing with real tears of crushing remorse, wearing his bespoke midnight-navy blazer with white pocket-square tip over unbuttoned crisp white dress shirt, cream-ivory trousers, and two-tone chronograph watch.
+- SETTING & PROPS CONTINUITY FROM SCENE 12: Seated completely alone at the exact marble table inside the quiet luxury Algiers café; Meriem's opposite chair sits empty, while Amin's removed rimless emerald-gold sunglasses and his Space-Black iPhone rest untouched on the marble tabletop beside the cold espresso cups.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:03.5] Intimate Emotional Medium Close-up on solitary, bare-eyed Amin slumped forward at the café table, tears streaming down his face as his trembling hands rise to grip his head in unbearable shame.
+- [00:03.5–00:10.0] Slow Cinematic Pull-Back (Dolly Out) gradually widening across the empty opposite chair and quiet luxury café lounge as Amin buries his head between both hands, left completely alone after losing both his father's dignity and his fiancée through his own arrogance. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Natural Algerian Darija, single speaker):
+- [00:00.0–00:03.2] [3.2s heavy trembling sobbing breath and broken sigh]
+- [00:03.2–00:09.2] ONLY AMIN SPEAKS (24yo broken, tear-choked, remorseful whispery Algerian baritone):
+  أمين: "يا ربي واش درت في روحي... بعت بابا قدّام الناس، وخسرت كلش بيدي."
+
+AUDIO:
+Quiet hollow indoor café silence, trembling broken whisper, soft rustle of hands gripping hair. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, on-screen text, watermarks, background music.

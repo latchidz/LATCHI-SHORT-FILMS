@@ -1,0 +1,27 @@
+Starting directly from the uploaded reference image of Scene 11.
+
+[DURATION: Exactly 10.0 seconds | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- MERIEM (19-year-old wealthy Algerian young woman): fair-warm Mediterranean skin with natural pores, expressive bare hazel-green eyes (strictly NO glasses), refined features, long voluminous golden champagne-blonde wavy hair past her shoulders, wearing a tailored ivory-cream bouclé-tweed designer blazer with gold buttons over a sleek black silk mock-neck top, tailored black high-waisted wide-leg trousers, delicate 18k gold pendant necklace, pearl stud earrings, carrying her structured quilted cream-white leather handbag with a polished gold chain strap, and wearing a gleaming 18k yellow-gold chain link bracelet on her right wrist.
+- AMIN (24-year-old Algerian man): exact unfiltered North African facial bone structure, natural skin pores, clean high skin-fade haircut with short dark textured top hair, neat ~1cm trimmed black beard and moustache, wearing his signature rimless octagonal-rectangular emerald-teal dark gradient sunglasses with polished gold nose bridge and gold spear-point hinges, a bespoke midnight-navy wool-linen luxury blazer with a crisp white pocket-square tip over an immaculate white dress shirt (top collar button open, no tie), tailored cream-ivory dress trousers, and a two-tone silver-and-gold chronograph watch on his left wrist. ONLY Amin wears sunglasses.
+- SETTING & CONTINUITY FROM SCENE 10: Exact same luxury indoor Algiers café marble table; Meriem (screen-right) leans slightly forward testing Amin with deliberate sympathy for the elderly street cleaner, while Amin (screen-left) falls straight into her trap with arrogant disdain.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:04.4] Steady Tight Medium Focus on Meriem (screen-right) looking directly at Amin and speaking with calm, probing empathy about the old street cleaner who returned her gold bracelet. Amin listens with 100% closed lips, flinching subtly.
+- [00:04.4–00:05.4] Smooth Fluid Horizontal Pan from Meriem across the table to Amin on screen-left during a strict 1.0-second silence gap.
+- [00:05.4–00:10.0] Slow Cinematic Push-in on Amin as brief nervousness hardens into ugly, boastful arrogance; he scoffs dismissively with a wave of his hand, insulting his own father once again while Meriem's eyes narrow in cold fury. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Natural Algerian Darija, zero voice overlap):
+- [00:00.3–00:04.4] ONLY MERIEM SPEAKS (19yo calm, probing young Algerian female voice; Amin's lips 100% closed):
+  مريم: "والله غير هذاك الشيخ تاع مقبل غاضني بزاف... مسكين دار الخير ورجّعلنا الذهب."
+- [00:04.4–00:05.4] [STRICT 1.0s SILENCE GAP — nervous swallow from Amin]
+- [00:05.4–00:09.7] ONLY AMIN SPEAKS (24yo arrogant, scoffing young Algerian baritone; Meriem's lips 100% closed):
+  أمين: "ما يغيدك ما والو! هاذوك الناس طمّاعين وماشي من مستوانا خلاص!"
+
+AUDIO:
+Quiet tense indoor café air, faint rustle of blazer sleeve, sharp contrast between Meriem's calm trap and Amin's arrogant scoff. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, on-screen text, watermarks, background music.

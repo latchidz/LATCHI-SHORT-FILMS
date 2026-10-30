@@ -1,0 +1,24 @@
+Starting directly from the uploaded reference image of Scene 12.
+
+[DURATION: Exactly 10.0 seconds | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- MERIEM (19-year-old wealthy Algerian young woman): fair-warm Mediterranean skin with natural pores, expressive bare hazel-green eyes (strictly NO glasses), refined features, long voluminous golden champagne-blonde wavy hair past her shoulders, wearing a tailored ivory-cream bouclé-tweed designer blazer with gold buttons over a sleek black silk mock-neck top, tailored black high-waisted wide-leg trousers, delicate 18k gold pendant necklace, pearl stud earrings, carrying her structured quilted cream-white leather handbag with a polished gold chain strap, and wearing a gleaming 18k yellow-gold chain link bracelet on her right wrist.
+- AMIN (24-year-old Algerian man): exact unfiltered North African facial bone structure, natural skin pores, clean high skin-fade haircut with short dark textured top hair, neat ~1cm trimmed black beard and moustache, wearing his signature rimless octagonal-rectangular emerald-teal dark gradient sunglasses with polished gold nose bridge and gold spear-point hinges, a bespoke midnight-navy wool-linen luxury blazer with a crisp white pocket-square tip over an immaculate white dress shirt (top collar button open, no tie), tailored cream-ivory dress trousers, and a two-tone silver-and-gold chronograph watch on his left wrist. ONLY Amin wears sunglasses.
+- CLIMAX CONFRONTATION PROP: Meriem stands furiously beside the exact marble café table clutching her cream quilted gold-chain handbag in her left hand while thrusting Amin's glowing Space-Black iPhone Pro—vividly displaying the same family wallpaper of ONLY his hijabi Mother and clean-dressed Father, with no Amin or third person in the photograph—straight into seated Amin's stunned, pale face.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:06.8] High-Intensity Dramatic Two-Shot pushing slowly in on standing Meriem (screen-right) as she holds the glowing family-wallpaper iPhone screen inches from seated Amin's paralyzed face (screen-left) and delivers her devastating rebuke with blazing moral disgust. Amin sits frozen in shock with 100% closed lips.
+- [00:06.8–00:10.0] Smooth Fluid Pan/Reframe as Meriem sets the iPhone sharply down onto the marble café table, grips her cream quilted handbag decisively, and strides forcefully away out of frame, leaving Amin completely petrified. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Natural Algerian Darija, single speaker):
+- [00:00.4–00:06.8] ONLY MERIEM SPEAKS (19yo fierce, trembling, cutting Algerian female voice; Amin's lips 100% closed):
+  مريم: "هاذ الطمّاع اللي تحكي عليه هو باباك اللي ربّاك!! اللي ما فيه خير لباباه.. ما فيه خير ليا!"
+- [00:06.8–00:10.0] [Sharp clack of iPhone placed onto the marble tabletop + Meriem's brisk decisive heel footsteps walking away]
+
+AUDIO:
+Powerful emotional female voice resonating in the hushed café, sharp clack of phone hitting marble table, decisive footsteps exiting. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, on-screen text, watermarks, background music.

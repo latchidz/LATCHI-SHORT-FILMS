@@ -1,0 +1,24 @@
+Starting directly from the uploaded Start Image of Scene 08 and transitioning smoothly in one unbroken 10.0-second continuous camera movement to match the exact uploaded End Image of Scene 08.
+
+[DURATION: Exactly 10.0 seconds | MODE: Google Flow First & Last Frame (Start Image + End Image) | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- MERIEM (19-year-old wealthy Algerian young woman): fair-warm Mediterranean skin with natural pores, expressive bare hazel-green eyes (strictly NO glasses), refined features, long voluminous golden champagne-blonde wavy hair past her shoulders, wearing a tailored ivory-cream bouclé-tweed designer blazer with gold buttons over a sleek black silk mock-neck top, tailored black high-waisted wide-leg trousers, delicate 18k gold pendant necklace, pearl stud earrings, carrying her structured quilted cream-white leather handbag with a polished gold chain strap, and wearing a gleaming 18k yellow-gold chain link bracelet on her right wrist.
+- KEY PROP TRANSITION (DARK SCREEN -> NOTIFICATION GLOW): Amin's sleek Space-Black iPhone Pro resting face-up on the exact dark-veined marble café table in front of Meriem. In Start Image the OLED screen is completely pitch-black off; in End Image the screen illuminates brightly with a notification banner, displaying a warm family Lock-Screen Wallpaper photo of ONLY two people: his Algerian hijabi Mother and his exact 62-year-old Father dressed in clean neat home clothes. Amin must NOT appear in the wallpaper; no third person, as Meriem leans forward reaching her hand to pick up the glowing phone.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS START-TO-END SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:03.0] High-Angle Over-the-Table Close-Medium Focus holding tensely on Amin's pitch-black dark iPhone resting still on the marble café table near Meriem's braceleted right hand.
+- [00:03.0–00:06.8] With a crisp vibration buzz, the iPhone OLED screen suddenly lights up brightly with an incoming message notification banner, illuminating the family Lock-Screen Wallpaper of ONLY his hijabi Mother and his exact elderly Father in clean clothes; Amin is absent from the photograph! Meriem's gaze snaps downward in sudden curiosity.
+- [00:06.8–00:10.0] Smooth Slow Push-in settling into the exact End Image composition: Meriem leans forward with furrowed brows and reaches her right hand directly onto the glowing iPhone on the marble table to lift and inspect the photograph up close. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Pure Visual Suspense, zero spoken words):
+- [00:00.0–00:03.0] [Quiet luxury café stillness]
+- [00:03.0–00:03.8] [Realistic smartphone vibration hum against marble tabletop + soft single glass notification chime]
+- [00:07.2–00:10.0] [Soft puzzled intake of breath from Meriem as her fingers touch the glowing phone]
+
+AUDIO:
+Crisp realistic iPhone vibration buzz on marble, single subtle notification chime, delicate clink of Meriem's gold bracelet as she reaches for the phone. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, on-screen text, watermarks, background music.

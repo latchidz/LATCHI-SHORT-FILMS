@@ -1,0 +1,27 @@
+Starting directly from the uploaded reference image of Scene 10.
+
+[DURATION: Exactly 10.0 seconds | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- AMIN (24-year-old Algerian man): exact unfiltered North African facial bone structure, natural skin pores, clean high skin-fade haircut with short dark textured top hair, neat ~1cm trimmed black beard and moustache, wearing his signature rimless octagonal-rectangular emerald-teal dark gradient sunglasses with polished gold nose bridge and gold spear-point hinges, a bespoke midnight-navy wool-linen luxury blazer with a crisp white pocket-square tip over an immaculate white dress shirt (top collar button open, no tie), tailored cream-ivory dress trousers, and a two-tone silver-and-gold chronograph watch on his left wrist. ONLY Amin wears sunglasses.
+- MERIEM (19-year-old wealthy Algerian young woman): fair-warm Mediterranean skin with natural pores, expressive bare hazel-green eyes (strictly NO glasses), refined features, long voluminous golden champagne-blonde wavy hair past her shoulders, wearing a tailored ivory-cream bouclé-tweed designer blazer with gold buttons over a sleek black silk mock-neck top, tailored black high-waisted wide-leg trousers, delicate 18k gold pendant necklace, pearl stud earrings, carrying her structured quilted cream-white leather handbag with a polished gold chain strap, and wearing a gleaming 18k yellow-gold chain link bracelet on her right wrist.
+- SETTING & CONTINUITY FROM SCENE 09: Exact same luxury indoor Algiers café marble table; Meriem has placed the dark iPhone back down onto the marble tabletop just as Amin returns and sits comfortably in the left armchair with a relaxed confident smile, while Meriem sits straight-backed on screen-right masking her shock behind icy, calculating composure.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:04.6] Slow Cinematic Push-in favoring Amin on screen-left as he settles comfortably into his chair, adjusts his blazer cuff, and smiles warmly at Meriem completely unaware his secret has been discovered. Meriem watches him silently with 100% closed lips.
+- [00:04.6–00:05.7] Smooth Fluid Horizontal Pan across the marble café table to Meriem on screen-right during a strict 1.1-second silence gap.
+- [00:05.7–00:10.0] Steady Psychological Medium Close-up on Meriem: she forces a cold, controlled calm, folding her hands near the dark iPhone on the table and speaking in a quiet, measured tone to begin her psychological trap. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Natural Algerian Darija, zero voice overlap):
+- [00:00.4–00:04.6] ONLY AMIN SPEAKS (24yo relaxed, cheerful young Algerian baritone; Meriem's lips 100% closed):
+  أمين: "راني خلّصت كلش... واش بيك يا مريم راكي ساهية؟ نروحو نكملو سهرتنا؟"
+- [00:04.6–00:05.7] [STRICT 1.1s SILENCE GAP — tense unspoken eye contact across the café table]
+- [00:05.7–00:09.6] ONLY MERIEM SPEAKS (19yo dangerously calm, controlled Algerian female voice; Amin's lips 100% closed):
+  مريم: "لا والو يا أمين... غير كنت نخمّم في حاجة صراتلنا مقبل برا."
+
+AUDIO:
+Subtle chair/suit fabric settle, quiet indoor Algiers café ambience, crisp intimate vocal tension. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, on-screen text, watermarks, background music.

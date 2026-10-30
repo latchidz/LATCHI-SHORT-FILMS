@@ -1,0 +1,23 @@
+Starting directly from the uploaded reference image of Scene 09.
+
+[DURATION: Exactly 10.0 seconds | FORMAT: Vertical 9:16 Photorealistic 35mm Cinema | SINGLE CONTINUOUS UNBROKEN TAKE]
+
+VISUAL CONTINUITY & IDENTITY LOCK:
+Preserve 100% the exact visual appearance, precise facial features, hair color, clothing, accessories, and lighting from the uploaded reference image.
+- MERIEM (19-year-old wealthy Algerian young woman): fair-warm Mediterranean skin with natural pores, expressive bare hazel-green eyes (strictly NO glasses), refined features, long voluminous golden champagne-blonde wavy hair past her shoulders, wearing a tailored ivory-cream bouclé-tweed designer blazer with gold buttons over a sleek black silk mock-neck top, tailored black high-waisted wide-leg trousers, delicate 18k gold pendant necklace, pearl stud earrings, carrying her structured quilted cream-white leather handbag with a polished gold chain strap, and wearing a gleaming 18k yellow-gold chain link bracelet on her right wrist.
+- REAR OVER-THE-SHOULDER CLOSE-UP AND PHONE LOCK SCREEN: Camera is behind and slightly above Meriem, looking past the back of her champagne-blonde hair and cream bouclé blazer toward the phone she herself naturally holds upright in both hands and looks down at. Do not show her face to camera. Her right wrist retains the single gold bracelet. The lit Space-Black iPhone Pro fills the center, in tack-sharp focus, and displays realistic iOS details (Dynamic Island, lock-screen clock, and a WhatsApp notification from “أمي الغالية ❤️”). The full-screen family photograph shows EXACTLY TWO people: Amin’s kind hijabi Algerian mother and his 62-year-old father, side by side at home. The father has the same weathered face and grey-white beard as the street cleaner, but wears a clean white collared shirt and beige cardigan. Absolutely no Amin and no third person in the wallpaper.
+
+CAMERA & MOTION (10.0s SINGLE CONTINUOUS SHOT):
+Maintain absolute identity consistency during any camera movements (e.g., Smooth Pan, Push-in). Modify ONLY the characters' facial expressions (shock, crying, anger, arrogance) and required limb/body movements as described in the timeline. Strictly DO NOT alter their base identity, outfits, or physical structure.
+- [00:00.0–00:05.2] Rear over-the-shoulder close-up: keep Meriem’s blonde head and cream-clad shoulder in the foreground and her own two hands on the same illuminated iPhone in front of her. Slow, gentle push-in toward the readable two-person photograph as she studies her mother-in-law and recognizes the cleaner’s face. The room and table remain the same; DO NOT MIRROR THE ROOM.
+- [00:05.2–00:10.0] Hold the camera behind Meriem, showing no frontal view of her face. Her shoulders subtly stiffen and her fingers tremble around the phone as she realizes who the man is and whispers. Keep the mother’s and father’s faces, and only those two faces, steady on the lit screen. ZERO lens gaze.
+
+DIALOGUE & HARD-GAPPED TURN-TAKING (Natural Algerian Darija, single speaker):
+- [00:00.0–00:04.5] [4.5s tense breathless silence — Meriem's fingers tremble slightly holding the glowing iPhone as her eyes scan the Father and Mother's faces on the screen]
+- [00:04.5–00:09.6] ONLY MERIEM SPEAKS (19yo shocked, hushed, trembling Algerian female whisper):
+  مريم: "مستحيل... هاذا هو نفس الشيخ مسكين تاع الطريق! صافي هذا باباه اللي طردو قدّامي؟!"
+
+AUDIO:
+Subtle trembling hand movement on phone frame, sharp stunned gasp, hushed trembling whisper in quiet café air. Strictly zero background music.
+
+NEGATIVE: morphing, changing clothes, face swapping, losing facial features, inconsistent identity, changing hair color, changing accessories, structural deformation, mutating bodies, jump cuts, direct eye contact with camera lens, extra fingers, deformed hands, subtitles, captions, extraneous text, watermarks, background music. The intended native iPhone UI and notification remain visible.
